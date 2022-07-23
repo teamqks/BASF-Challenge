@@ -2,22 +2,22 @@
 
 ## Install the app
 
-1. Clonar el repositorio.
-git clone 
-2. Compilar el proyecto con Maven y el siguiente comando: 
+1. Clone the repository.
+git clone
+2. Compile the project with Maven and the following command:
 mvn clean package -DskipTests
-3. Acceder a la ruta base del proyecto, donde se encuentra el fichero docker-compose.yml y ejecutar los comandos:
+3. Access the base path of the project, where the docker-compose.yml file is located and execute the commands:
 docker-compose build
 docker-compose up
-4.La aplicación estará corriendo (Microservicio + MongoDB), para conocer la especificación del API se puede acceder a las URL:
+4.The application will be running (Microservice + MongoDB), to know the API specification you can access the URLs:
 http://localhost:8082/v2/api-docs
 http://localhost:8082/swagger-ui/
-5. En la carpeta /src/test/postman hay una batería de pruebas que se puede realizar con Postman.
-6. En la carpeta /src/main/resources/files/ hay unos ficheros XML de ejemplo.
+5. In the /src/test/postman folder there is a battery of tests that can be performed with Postman.
+6. In the /src/main/resources/files/ folder there are some sample XML files.
 
 ## Run the app
 
-- En la aplicación se ha establecido un método sencillo de seguridad, por ello en las peticiones que se realicen al API se debe incluir la cabecera: BASF-auth : secret (excepto en las llamadas al swagger y el método HTTP OPTIONS)
-- En primer lugar, se debería empezar por la llamada POST a la URL localhost:8082/api/v1/extractions/execute introduciendo los ficheros XML de los cuales se quiera extraer información.
-- A continuación, se puede recuperar toda la info sobre las patentes con la URL localhost:8082/api/v1/extractions/ o de una patente concreta si se sabe el id con la URL localhost:8082/api/v1/extractions/{id} (Método GET)
-- Por último, se puede eliminar una patente concreta con el método DELETE en la URL localhost:8082/api/v1/extractions/{id} o limpiar la base de datos al completo en la URL localhost:8082/api/v1/extractions/
+- A simple security method has been established in the application, therefore the requests made to the API must include the header: BASF-auth : secret (except in calls to the swagger and the HTTP OPTIONS method)
+- First of all, you should start with the POST call to the URL localhost:8082/api/v1/extractions/execute, introducing the XML files from which you want to extract information.
+- Next, you can retrieve all the information about the patents with the URL localhost:8082/api/v1/extractions/ or of a specific patent if you know the id with the URL localhost:8082/api/v1/extractions/{ id} (GET Method)
+- Finally, you can delete a specific patent with the DELETE method in the URL localhost:8082/api/v1/extractions/{id} or clean the entire database in the URL localhost:8082/api/v1/extractions /
