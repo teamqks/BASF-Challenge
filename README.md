@@ -2,8 +2,8 @@
 
 ## Install the app
 
-1. Clone the repository.
-git clone
+1. Clone the repository:
+git clone https://github.com/imoralesgeneral/BASF-Challenge
 2. Compile the project with Maven and the following command:
 mvn clean package -DskipTests
 3. Access the base path of the project, where the docker-compose.yml file is located and execute the commands:
