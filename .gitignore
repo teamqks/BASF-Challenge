@@ -1,6 +1,24 @@
 # Compiled class file
 *.class
 
+# User-specific stuff:
+.idea
+
+## File-based project format:
+*.iws
+*.iml
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+### Maven template
+target/
+
 # Log file
 *.log
 
