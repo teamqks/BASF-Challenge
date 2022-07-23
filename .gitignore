@@ -19,6 +19,9 @@
 ### Maven template
 target/
 
+# MongoDB
+/db/
+
 # Log file
 *.log
 
