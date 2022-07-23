@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061027A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061027</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061027</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="9510634" extended-family-id="3874737">
+      <document-id>
+        <country>US</country>
+        <doc-number>09143657</doc-number>
+        <kind>A</kind>
+        <date>19980831</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09143657</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>4006702</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>FR</country>
+        <doc-number>9710842</doc-number>
+        <kind>A</kind>
+        <date>19970901</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1997FR-0010842</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01Q   9/04        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>9</main-group>
+        <subgroup>04</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01Q  15/22        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>15</main-group>
+        <subgroup>22</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H01Q  19/185       20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>19</main-group>
+        <subgroup>185</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>343700000MS</text>
+        <class>343</class>
+        <subclass>700000MS</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>343846000</text>
+        <class>343</class>
+        <subclass>846000</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>343848000</text>
+        <class>343</class>
+        <subclass>848000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>H01Q-009/04B1</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>009</main-group>
+        <subgroup>04</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>H01Q-015/22</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>15</main-group>
+        <subgroup>22</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="3">
+        <text>H01Q-019/185</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>19</main-group>
+        <subgroup>185</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01Q-019/185</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>19</main-group>
+        <subgroup>185</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01Q-009/0414</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>9</main-group>
+        <subgroup>0414</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01Q-015/22</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>Q</subclass>
+        <main-group>15</main-group>
+        <subgroup>22</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>14</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>2</number-of-drawing-sheets>
+      <number-of-figures>9</number-of-figures>
+      <image-key data-format="questel">US6061027</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Radiating structure</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>SABBAN ALBERT</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4623893</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4623893</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>KAHLER MARK P, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4847626</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4847626</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>TSUKAMOTO KATSUYA, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4857938</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4857938</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>ZAGHLOUL AMIR I, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5005019</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5005019</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>LEFEUVRE PASCAL, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5233364</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5233364</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>OHTA MASAHIKO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5278569</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5278569</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>ALCATEL NV, et al</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0627783</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-627783</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>COMMUNICATIONS RESEARCH CENTRE, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>9639728</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9639728</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="9">
+          <document-id>
+            <country>US</country>
+            <doc-number>4623893</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4623893</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="10">
+          <document-id>
+            <country>US</country>
+            <doc-number>4847626</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4847626</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="11">
+          <document-id>
+            <country>US</country>
+            <doc-number>4857938</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4857938</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="12">
+          <document-id>
+            <country>US</country>
+            <doc-number>5005019</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5005019</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="13">
+          <document-id>
+            <country>US</country>
+            <doc-number>5233364</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5233364</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="14">
+          <document-id>
+            <country>US</country>
+            <doc-number>5278569</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5278569</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="15">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0 627 783</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-627783</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="16">
+          <document-id>
+            <country>WO</country>
+            <doc-number>96/39728</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9639728</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>Lee et al, Circular Polarisation Characteristics of Parasitic Microstrip Antennas, Antennas and Propagation Society Symposium, 1991, Digest, No. 1, p. 310 313.</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Alcatel</orgname>
+            <address>
+              <address-1>Paris, FR</address-1>
+              <city>Paris</city>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>ALCATEL</orgname>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Legay, Herve</name>
+            <address>
+              <address-1>Plaisance du Touch, FR</address-1>
+              <city>Plaisance du Touch</city>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>Croq, Frederic</name>
+            <address>
+              <address-1>Tournefeuille, FR</address-1>
+              <city>Tournefeuille</city>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook lang="en">
+            <name>Pauchet, Michel</name>
+            <address>
+              <address-1>Plaisance du Touch, FR</address-1>
+              <city>Plaisance du Touch</city>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Sughrue, Mion, Zinn, Macpeak &amp; Seas, PLLC</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Wong, Don</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A radiating structure, or antenna, includes an exciter patch which receives an excitation signal and a plurality of secondary patches which radiate the waves received from the exciter patch.
+      <br/>
+      The structure includes a reflective surface in the vicinity of the exciter patch and the secondary patches constitute semi-reflective surfaces.
+      <br/>
+      The combination is such that the waves radiated by the secondary patches are substantially in phase.
+      <br/>
+      The distance between the reflective surface and the secondary patches is substantially equal to half the wavelength to be transmitted.
+      <br/>
+      The structure maintains the purity of circular polarization over a wide angular sector.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="2">1. Field of the Invention</p>
+    <p num="3">The invention concerns an antenna, or radiating structure, comprising an exciter patch associated with a set of radiating secondary patches.</p>
+    <p num="4">2. Description of the Prior Art</p>
+    <p num="5">Printed patch antennas are routinely used because their manufacturing cost is low and they are light in weight and small in size, which is particularly useful in space applications. They are generally made by etching or lithographically printing conductive patches onto dielectric substrates.</p>
+    <p num="6">An antenna of the above kind is described in European patent application N° 627 783 the title of which in translation is "Variable directive gain multilayer radiating structure". The above patent application describes an antenna in which the secondary patches are disposed in one or more planes parallel to the plane of the exciter patch.</p>
+    <p num="7">The above antenna is very suitable for radiating in a range of directive gains from 9 dbi through 13 dbi, a range which it would be difficult to cover using individual radiators.</p>
+    <p num="8">It has been found that antennas of the above type procure circular polarization of good quality, i.e. very low ellipticity on the axis of the antenna, perpendicular to the planes of the patches. On the other hand, the ellipticity increases significantly for directions inclined to the axis of the antenna.</p>
+    <p num="9">The invention provides a radiating structure that maintains the purity of circular polarization over a wide angular sector.</p>
+    <p num="10">It results from the observation that in prior art antennas the quality of polarization is degraded for inclined directions because of the nature of the coupling between the exciter patch and the radiating patches, this coupling being of the electromagnetic or proximity type.</p>
+    <p num="11">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="12">In the antenna of the invention a reflective surface is provided around the exciter patch and the secondary patches constitute semi-reflective surfaces for the excitation wave, the position of the secondary patches relative to each other and relative to the reflective surface being such that the transmitted waves are in phase.</p>
+    <p num="13">In other words, the secondary patches are not excited by electromagnetic coupling but in dichroic mode.</p>
+    <p num="14">It has been found that this mode of excitation maintains good quality of circular polarization over a wide angular sector with inclinations to the axis up to 50° or more.</p>
+    <p num="15">The quality of the radiated signal depends of course on the signal applied to the exciter patch.</p>
+    <p num="16">In one embodiment the emitting patch is in (or near) a first plane constituting the reflective surface, or ground plane, and the secondary patches are at a distance equal to approximately half the wavelength (λ) to be transmitted. Under the above conditions, a wave emitted by the exciter patch towards a secondary patch travels a distance of one half-wavelength. The corresponding beam is partly transmitted by the secondary patch, and therefore radiated outwards, and partly reflected. The reflected beam is directed towards the reflective surface from which it returns to the same secondary patch or to another secondary patch from which it is transmitted and thus radiated. The beam reflected at a secondary patch and which returns to another secondary patch therefore travels one wavelength. Accordingly, the two rays transmitted are in phase.</p>
+    <p num="17">The total aperture of the radiated beam depends on the reflection coefficient of the secondary patches. The greater the reflection coefficient the greater the aperture. The part of the beam at the greatest distance from the central part, where the exciter patch is located, is subject to the greatest number of reflections and therefore most attenuated by those reflections.</p>
+    <p num="18">It has been found that it is possible to excite a circular polarization signal with a single port on the exciter patch provided that the exciter patch has a non-circular shape.</p>
+    <p num="19">In one embodiment the primary and secondary patches are disposed in a conductive cavity in order to orient the radiation emitted and/or to limit coupling with other nearby elements. In this case it has been found that reflection of the excitation waves at the walls of the cavity degrades the quality of polarization. This is why, in this embodiment, at least the peripheral secondary patches have a shape and an orientation such that the circular polarization is re-established. For example, the peripheral secondary patches are all substantially the same shape with substantially the same dimensions and are elongate along a particular axis, with a radial or non-radial orientation, and the angle between the axes of two successive patches corresponds to the angle the apex of which is the center around which the secondary patches are disposed and the sides of which are the straight lines joining the apex to the centers of the patches concerned.</p>
+    <p num="20">The above orientations of the peripheral secondary patches increase the directive gain of the antenna because the illumination of the secondary patches is made uniform.</p>
+    <p num="21">It has been found that all embodiments of the invention emit waves over a wide band of frequencies.</p>
+    <p num="22">To benefit from the good quality of circular polarization and from the wide bandwidth, it is preferable to take particular precautions. If the secondary patches are in a plane parallel to the plane of the reflective surface and at a distance of λ/2 from that surface, the reflected beams being inclined to the normal to those planes, the electrical path length travelled by the beam between two secondary patches is greater than the wavelength λ. The phase-shift is negligible for one reflection but troublesome phase-shifts can result in the case of multiple reflections. This is a particular problem with large aperture antennas, i.e. antennas for which the peripheral secondary patches receive a signal which is the result of several reflections.</p>
+    <p num="23">To overcome this drawback the invention provides means for compensating the phase-shift.</p>
+    <p num="24">A first embodiment of this compensation consists in making the resonant frequency of each secondary patch dependent on its distance from the center around which the secondary patches are disposed: the greater the distance to the center the higher the resonant frequency.</p>
+    <p num="25">When the patches are circular the variation is obtained, for example, either by giving the secondary patches at the greatest distances from the center a smaller diameter than the central patches or by giving the patches an annular shape, the inside diameter of the central patches being greater than the inside diameter of the peripheral secondary patches.</p>
+    <p num="26">A second embodiment of phase-shift compensation consists in modulating the distance between the reflective surface and the surface of the secondary patches, for example so that the distance between the secondary patches and the reflective surface decreases as the distance from the secondary patches to the center increases.</p>
+    <p num="27">Other features and advantages of the invention will become apparent from the description of certain embodiments of the invention given with reference to the accompanying drawings.</p>
+    <p num="28">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="29">FIG. 1 is a diagrammatic sectional view of an antenna of the invention.</p>
+    <p num="30">FIG. 2 is a top view of the antenna from FIG. 1.</p>
+    <p num="31">FIG. 3 is a sectional view of another embodiment of an antenna of the invention.</p>
+    <p num="32">FIGS. 4, 5 and 6 are diagrammatic representations of the patches of the antenna from FIG. 3.</p>
+    <p num="33">FIG. 7 shows secondary patches for another embodiment of the invention.</p>
+    <p num="34">FIG. 8 is a diagrammatic representation of a variant antenna of the invention.</p>
+    <p num="35">FIG. 9 is a diagram similar to that of FIG. 8 for a further variant.</p>
+    <p num="36">
+      <h1>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</h1>
+    </p>
+    <p num="37">Refer firstly to FIGS. 1 and 2.</p>
+    <p num="38">The antenna shown in those figures is adapted to emit waves in the microwave band, around a center frequency of 8 GHz.</p>
+    <p num="39">
+      It includes an exciter patch 20 and secondary patches 22
+      <sub>1</sub>
+      through 22
+      <sub>7</sub>
+      .
+    </p>
+    <p num="40">
+      The patch 20 is deposited on one face 24
+      <sub>1</sub>
+      of a dielectric substrate 24 and the patches 22
+      <sub>1</sub>
+      through 22
+      <sub>7</sub>
+      are disposed on the opposite face 24
+      <sub>2</sub>
+      of the dielectric 24. All the patches are circular metallic deposits which in this example are all the same diameter.
+    </p>
+    <p num="41">
+      The patch 22
+      <sub>1</sub>
+      is aligned with the patch 20, i.e. the centers of the patches 20 and 22
+      <sub>1</sub>
+      are on the same normal to the plane of the parallel faces 24
+      <sub>1</sub>
+      and 24
+      <sub>2</sub>
+      .
+    </p>
+    <p num="42">
+      The other secondary patches 22
+      <sub>2</sub>
+      through 22
+      <sub>7</sub>
+      are regularly distributed around the center patch 22
+      <sub>1</sub>
+      .
+    </p>
+    <p num="43">
+      In accordance with one important aspect of the invention the distance between the faces 24
+      <sub>1</sub>
+      and 24
+      <sub>2</sub>
+      is substantially equal to one half-wavelength λ/2.
+    </p>
+    <p num="44">
+      The face 24
+      <sub>1</sub>
+      is at a small distance from the conductive face 26 forming a ground plane.
+    </p>
+    <p num="45">
+      The features of the secondary patches 22
+      <sub>1</sub>
+      through 22
+      <sub>7</sub>
+      are chosen so that the patches are semi-reflective, i.e. a beam 28 received by the secondary patch is partly reflected by the secondary patch concerned, as a beam 30, and partly transmitted, as a beam 32.
+    </p>
+    <p num="46">Accordingly, the antenna works in the following manner:</p>
+    <p num="47">
+      The beam 30 reflected by the central secondary patch 22
+      <sub>1</sub>
+      is reflected again at the ground plane 26 as a beam 34 towards a peripheral secondary patch 22
+      <sub>4</sub>
+      . The patch 22
+      <sub>4</sub>
+      partially transmits the beam as a beam 36. The beam 32 transmitted by the central patch 22
+      <sub>1</sub>
+      is parallel to the beam 36 transmitted by the patch 22
+      <sub>4</sub>
+      and the beams 32 and 36 are practically in phase because the path length travelled by the beams 30 and 34 is substantially equal to λ.
+    </p>
+    <p num="48">
+      This feature conserves the purity of circular or linear polarization over a wide angular sector, up to an inclination of approximately 50° to the normal two faces 24
+      <sub>1</sub>
+      and 24
+      <sub>2</sub>
+      .
+    </p>
+    <p num="49">It will be shown later than the excitation signal applied to the patch 20 can be applied to a single port thereof provided that the patch has a non-circular shape, with an axis inclined at approximately 45° to the direction of the incident current, for example.</p>
+    <p num="50">
+      As indicated hereinabove, the secondary patches 22
+      <sub>1</sub>
+      through 22
+      <sub>7</sub>
+      are semi-reflective. "Semi-reflective" does not necessarily mean having properties such that 50% of the energy is reflected and 50% of the energy is transmitted. The reflection coefficient can be modulated in accordance with requirements, in particular the required aperture of the antenna. In particular, the larger the number of secondary patches in succession in the radial direction the higher the reflection coefficient. At each reflection at a secondary patch the energy of the beam is reduced in proportion to the reflection coefficient. A high reflection coefficient will therefore be needed for there to be sufficient remaining energy in the case of beams reflected several times at the secondary patches. Note that the reflection coefficient at the ground plane is practically 100%.
+    </p>
+    <p num="51">Of course, the larger the number of successive patches in the radial direction the larger the radius of the radiated beam (FIG. 2).</p>
+    <p num="52">In the example described hereinabove a dielectric substrate 24 is used. As an alternative to this the exciter patch and the secondary patches can be deposited onto different substrates separated by vacuum or by air.</p>
+    <p num="53">Refer now to FIGS. 3 through 6.</p>
+    <p num="54">In this embodiment the antenna is accommodated in a metallic cavity 40. The cavity orients the emitted beam and limits coupling with other nearby antennas, for example identical or similar antennas forming an array in which the antenna shown is located.</p>
+    <p num="55">
+      In this example there are two exciter patches 42 and 44. The first exciter patch 42 in the lower position (i.e. at the greater distance from the surface of the secondary patches) receives the excitation signal and the second exciter patch 44 is coupled electromagnetically or by the proximity effect to the lower patch. The secondary patches 46
+      <sub>1</sub>
+      through 46
+      <sub>7</sub>
+      are in a plane 48 at a distance of approximately one half-wavelength from the plane 45 of the patch 44.
+    </p>
+    <p num="56">As shown in FIG. 4, the patch 42 is a metallic deposit on a substrate 47 and its shape is a semi-curvilinear rectangle with two parallel rectilinear sides 50 and 52 and two curvilinear sides 54 and 56 which are arcs of a common circle.</p>
+    <p num="57">The apex 58 common to the sides 50 and 54 is connected to a conductor 60 which also consists of a metallic deposit on the substrate 47.</p>
+    <p num="58">The conductor 60 has the same direction as the diagonal of the curvilinear rectangle that terminates at the apex 58. The angle between this diagonal and the sides 50 and 52 is approximately 30°.</p>
+    <p num="59">A conductive deposit on the substrate 47 is interrupted by a circle 62 around the patch 42 and by two channels 64 and 66 in the same direction as the diagonal, the channel 64 being provided for the conductor 60.</p>
+    <p num="60">The patch 44 (FIG. 5) has a similar shape to the patch 42. Its dimensions are slightly less than those of the patch 42. Its center is aligned with the center of the lower patch. The orientation of the rectilinear sides 70 and 72 of the patch 44 differs from the orientation of the rectilinear sides of the patch 42: the inclination of the sides 70 and 72 to the direction of the conductor 60 is approximately 45°.</p>
+    <p num="61">
+      The elongate, or chamfered, shape of the patches 42 and 44 means that the patches can be excited by a circular polarization wave with a single port (apex 58, FIG. 4) without degrading the quality of circular polarization after excitation of the secondary patches 46
+      <sub>1</sub>
+      through 46
+      <sub>7</sub>
+      .
+    </p>
+    <p num="62">
+      The central secondary patch 46
+      <sub>1</sub>
+      aligned with the patch 44 is circular in shape and the peripheral secondary patches 46
+      <sub>2</sub>
+      through 46
+      <sub>7</sub>
+      have an elongate shape, similar to that of the patches 42 and 44, i.e. a semi-curvilinear rectangular shape (FIG. 6).
+    </p>
+    <p num="63">
+      The rectilinear sides of the peripheral patches that are diametrally opposed have the same orientation. Two successive peripheral patches have rectilinear sides of different orientations. The angle between the rectilinear sides of the successive peripheral patches is practically equal to the angle αat the center (60° in this example) formed by the straight lines 73 and 74 joining the centers of the corresponding patches 46
+      <sub>2</sub>
+      and 46
+      <sub>3</sub>
+      to the center of the center patch 46
+      <sub>1</sub>
+      .
+    </p>
+    <p num="64">Thus all the peripheral patches have the same inclination to their radial direction (the direction joining the center of the patch to the center of the center patch).</p>
+    <p num="65">The double resonator formed by the patches 42 and 44 increases the bandwidth of the antenna compared to a single patch.</p>
+    <p num="66">The shape and the relative orientation of the patches 42 and 44 means that they can be excited by a circularly polarized wave with a single port 58 (FIG. 4).</p>
+    <p num="67">
+      Finally, the shape, the disposition and the orientation of the secondary patches 46
+      <sub>2</sub>
+      through 46
+      <sub>7</sub>
+      compensates the loss of polarization induced by the conductive cavity 40.
+    </p>
+    <p num="68">This increases the directive gain because of the uniform illumination.</p>
+    <p num="69">
+      The embodiment shown in FIGS. 7 through 9 concerns a large aperture antenna, i.e. an antenna having a large number of secondary patches and with a large radial size from the central patch 80
+      <sub>1</sub>
+      .
+    </p>
+    <p num="70">
+      In the example shown there are 19 secondary patches 80
+      <sub>1</sub>
+      through 80
+      <sub>19</sub>
+      comprising a center patch 80
+      <sub>1</sub>
+      surrounded by six intermediate patches 80
+      <sub>2</sub>
+      through 80
+      <sub>7</sub>
+      surrounded by 12 peripheral patches 80
+      <sub>8</sub>
+      through 80
+      <sub>19</sub>
+      .
+    </p>
+    <p num="71">
+      A beam emitted by the exciter patch (not shown) toward the center secondary patch 80
+      <sub>1</sub>
+      is reflected by the center patch 80
+      <sub>1</sub>
+      towards the ground plane and the beam is reflected at the ground plane towards an intermediate patch. At the intermediate patch the beam is again reflected towards the ground plane and finally towards a peripheral patch. It will be remembered that such multiple reflections necessitate a relatively high reflection coefficient at the secondary patches for the beam reaching the peripheral secondary patches to have an intensity that is not too low in comparison to the beam transmitted by the center patch.
+    </p>
+    <p num="72">Because the reflected beams are not strictly perpendicular to the plane of the patches the electrical path length travelled by the beam between two adjacent secondary patches is greater than one wavelength. The resulting phase-shift is only slightly significant from one secondary patch to an adjacent patch but becomes more significant when the phase shifts add. This produces problematical secondary lobes.</p>
+    <p num="73">Phase correction means are provided to overcome this problem.</p>
+    <p num="74">In phase correction means of a first category a lower resonant frequency is employed at the center than at the periphery. In other words, the wavelength is matched to the electrical path lengths travelled so that the waves emitted by all the secondary patches are in phase.</p>
+    <p num="75">Variation of the resonant frequencies is favorable to a wide bandwidth.</p>
+    <p num="76">
+      In the example shown in FIG. 7 all the patches have substantially the same outside diameter and an annular shape but the diameter of the central opening depends on the position of the patch. The diameter of the opening of the patch 80
+      <sub>1</sub>
+      is greater than the diameter of the opening of the intermediate patches 80
+      <sub>2</sub>
+      through 80
+      <sub>7</sub>
+      and the diameter of the opening of the peripheral patches 80
+      <sub>8</sub>
+      through 80
+      <sub>19</sub>
+      is the smallest.
+    </p>
+    <p num="77">In a variant (not shown) the resonant frequency is varied by varying the outside diameter of the patches, the center patch having the largest diameter.</p>
+    <p num="78">In phase shift correction means of a second category the distance between the reflective surface and the semi-reflective patches is varied from the center towards the periphery.</p>
+    <p num="79">In the FIG. 8 example the secondary patches are in a plane 90 and the reflective surface 92 features circular steps around the axis 94. The greater the distance of these steps from the axis 94 the nearer they are to the plane 90.</p>
+    <p num="80">In the example shown in FIG. 9 the reflective surface 96 is plane and the secondary patches are on circular steps 98. The central patch is at the greatest distance from the plane 96 and the peripheral patches are nearest the plane 96.</p>
+    <p num="81">In a variant, inclined surfaces are provided instead of steps. It is also possible to provide inclined surfaces or steps for the reflective surface and also for the secondary patches.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>There is claimed:</h1>
+      </claim-text>
+      <claim-text>1. A radiating structure, or antenna, including an exciter patch adapted to receive an excitation signal, a plurality of secondary patches adapted to radiate the waves received from said exciter patch and a reflective surface in the vicinity of said exciter patch and wherein said secondary patches constitute semi-reflective surfaces, the combination being such that waves radiated by said secondary patches are substantially in phase.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The structure claimed in claim 1 wherein the distance between said exciter patch and said reflective surface, on the one hand, and said secondary patches, on the other hand, is substantially equal to half the wavelength to be transmitted.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The structure claimed in claim 2 wherein said secondary patches are disposed concentrically and have a reflection coefficient that increases with the number of secondary patches extending in a radial direction.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The structure claimed in claim 1 wherein said plurality of secondary patches includes a central patch and at least one multiplicity of peripheral patches around said central patch.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The structure claimed in claim 1 wherein said exciter patch has an elongate shape in one direction and said exciter patch is fed with a circular polarization wave via a single port.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The structure claimed in claim 1 wherein said exciter patch receives excitation energy via another patch separated from said exciter patch by a distance that is small in comparison to the distance between said exciter patch and said secondary patches.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The structure as claimed in claim 1 including a conductive cavity accommodating said exciter patch and said secondary patches.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The structure claimed in claim 7 wherein said secondary patches include a multiplicity of peripheral patches with shapes and orientations such that they compensate the loss of polarization induced by said conductive cavity.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The structure claimed in claim 8 wherein said peripheral patches are elongate in a direction inclined to the radial direction joining the center of said patches to the center of the set of secondary patches, the inclination of all said peripheral patches relative to their radial direction being the same.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The structure claimed in claim 1 wherein said secondary patches are disposed around a center with at least one set of patches at a first distance from said center and at least one multiplicity of peripheral patches at a greater distance from said center, the resonant frequency of the patch or patches nearest said center being lower than the resonant frequency of the patches at a greater distance from said center.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The structure claimed in claim 10 wherein said patches are circular and the patches nearest the center have a larger outside diameter than the patches at a greater distance from the center.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The structure claimed in claim 10 wherein said patches are annular and all have substantially the same outside diameter, the inside diameter of the patches nearest said center being larger than the inside diameter of the patches at the greatest distance from said center.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The structure claimed in claim 1 wherein said secondary patches are disposed around a center and the distance between said secondary patches and said reflective surface decreases from said center towards the periphery.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The structure claimed in claim 13 wherein said reflective surface and/or the surface on which said secondary patches are disposed feature steps.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

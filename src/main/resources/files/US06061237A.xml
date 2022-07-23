@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061237A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061237</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061237</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference is-representative="YES" family-id="22810134" extended-family-id="42084428">
+      <document-id>
+        <country>US</country>
+        <doc-number>09217216</doc-number>
+        <kind>A</kind>
+        <date>19981221</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09217216</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>43131838</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>21721698</doc-number>
+        <kind>A</kind>
+        <date>19981221</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1998US-09217216</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H05K   7/20        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>7</main-group>
+        <subgroup>20</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G06F   1/20        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>20</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>361695000</text>
+        <class>361</class>
+        <subclass>695000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>164121000</text>
+        <class>164</class>
+        <subclass>121000</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>164185000</text>
+        <class>164</class>
+        <subclass>185000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>165080300</text>
+        <class>165</class>
+        <subclass>080300</subclass>
+      </further-classification>
+      <further-classification sequence="4">
+        <text>165104330</text>
+        <class>165</class>
+        <subclass>104330</subclass>
+      </further-classification>
+      <further-classification sequence="5">
+        <text>257717000</text>
+        <class>257</class>
+        <subclass>717000</subclass>
+      </further-classification>
+      <further-classification sequence="6">
+        <text>257719000</text>
+        <class>257</class>
+        <subclass>719000</subclass>
+      </further-classification>
+      <further-classification sequence="7">
+        <text>257727000</text>
+        <class>257</class>
+        <subclass>727000</subclass>
+      </further-classification>
+      <further-classification sequence="8">
+        <text>307112000</text>
+        <class>307</class>
+        <subclass>112000</subclass>
+      </further-classification>
+      <further-classification sequence="9">
+        <text>307125000</text>
+        <class>307</class>
+        <subclass>125000</subclass>
+      </further-classification>
+      <further-classification sequence="10">
+        <text>312107000</text>
+        <class>312</class>
+        <subclass>107000</subclass>
+      </further-classification>
+      <further-classification sequence="11">
+        <text>312111000</text>
+        <class>312</class>
+        <subclass>111000</subclass>
+      </further-classification>
+      <further-classification sequence="12">
+        <text>361679480</text>
+        <class>361</class>
+        <subclass>679480</subclass>
+      </further-classification>
+      <further-classification sequence="13">
+        <text>361692000</text>
+        <class>361</class>
+        <subclass>692000</subclass>
+      </further-classification>
+      <further-classification sequence="14">
+        <text>361694000</text>
+        <class>361</class>
+        <subclass>694000</subclass>
+      </further-classification>
+      <further-classification sequence="15">
+        <text>361697000</text>
+        <class>361</class>
+        <subclass>697000</subclass>
+      </further-classification>
+      <further-classification sequence="16">
+        <text>361717000</text>
+        <class>361</class>
+        <subclass>717000</subclass>
+      </further-classification>
+      <further-classification sequence="17">
+        <text>361775000</text>
+        <class>361</class>
+        <subclass>775000</subclass>
+      </further-classification>
+      <further-classification sequence="18">
+        <text>454184000</text>
+        <class>454</class>
+        <subclass>184000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>H05K-007/20B10F</text>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>007</main-group>
+        <subgroup>20</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>G06F-001/20</text>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>20</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="3">
+        <text>H05K-007/20S10B</text>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>007</main-group>
+        <subgroup>20</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-007/20172</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>7</main-group>
+        <subgroup>20172</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20150410</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G06F-001/20</classification-symbol>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>20</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20150410</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-007/20727</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>7</main-group>
+        <subgroup>20727</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20150410</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20150401</date>
+        </classification-scheme>
+        <classification-symbol>Y10T-307/74</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>T</subclass>
+        <main-group>307</main-group>
+        <subgroup>74</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>C</classification-data-source>
+        <action-date>
+          <date>20150409</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20150401</date>
+        </classification-scheme>
+        <classification-symbol>Y10T-307/826</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>T</subclass>
+        <main-group>307</main-group>
+        <subgroup>826</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>C</classification-data-source>
+        <action-date>
+          <date>20150409</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>34</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>2</number-of-drawing-sheets>
+      <number-of-figures>3</number-of-figures>
+      <image-key data-format="questel">US6061237</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Computer with an improved cooling system and a method for cooling a computer</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>PIET ZENON, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4137057</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4137057</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>LAWSON JR THEODORE J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4751872</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4751872</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>BENCK JEFFREY W, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5136465</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5136465</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>BOLTON IVOR W, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5168424</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5168424</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>NELSON DARYL</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5339214</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5339214</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>KUCHTA DOUGLAS A</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5438226</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5438226</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>LAU TIM O, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5440450</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5440450</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>KAMMERSQARD DANA W, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5505533</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5505533</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>LIN SHIH-JEN</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5526875</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5526875</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>NIKLOS JOHN R</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5528454</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5528454</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="11">
+          <text>MOSS DAVID L, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5546272</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5546272</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="12">
+          <text>DODSON DOUGLAS A</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5638895</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5638895</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="13">
+          <text>CLEMENTS BRAD E, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5707282</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5707282</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="14">
+          <text>MOSS DAVID L</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5745041</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5745041</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="15">
+          <text>DODSON DOUGLAS A</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5787971</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5787971</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="16">
+          <text>WINICK ALAN LEE, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5793608</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5793608</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="17">
+          <text>BULLINGTON JAMES R</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5822188</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5822188</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="18">
+          <text>SHEN TSAN JUNG</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5871396</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5871396</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="19">
+          <text>SCHOLDER ERICA</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5936836</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5936836</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="20">
+          <text>SCHMITT TY</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>6005770</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US6005770</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="21">
+          <document-id>
+            <country>US</country>
+            <doc-number>4137057</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4137057</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="22">
+          <document-id>
+            <country>US</country>
+            <doc-number>4751872</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4751872</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="23">
+          <document-id>
+            <country>US</country>
+            <doc-number>5136465</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5136465</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="24">
+          <document-id>
+            <country>US</country>
+            <doc-number>5168424</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5168424</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="25">
+          <document-id>
+            <country>US</country>
+            <doc-number>5339214</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5339214</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="26">
+          <document-id>
+            <country>US</country>
+            <doc-number>5438226</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5438226</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="27">
+          <document-id>
+            <country>US</country>
+            <doc-number>5440450</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5440450</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="28">
+          <document-id>
+            <country>US</country>
+            <doc-number>5505533</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5505533</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="29">
+          <document-id>
+            <country>US</country>
+            <doc-number>5526875</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5526875</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="30">
+          <document-id>
+            <country>US</country>
+            <doc-number>5528454</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5528454</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="31">
+          <document-id>
+            <country>US</country>
+            <doc-number>5546272</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5546272</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="32">
+          <document-id>
+            <country>US</country>
+            <doc-number>5638895</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5638895</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="33">
+          <document-id>
+            <country>US</country>
+            <doc-number>5707282</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5707282</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="34">
+          <document-id>
+            <country>US</country>
+            <doc-number>5745041</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5745041</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="35">
+          <document-id>
+            <country>US</country>
+            <doc-number>5787971</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5787971</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="36">
+          <document-id>
+            <country>US</country>
+            <doc-number>5793608</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5793608</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="37">
+          <document-id>
+            <country>US</country>
+            <doc-number>5822188</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5822188</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="38">
+          <document-id>
+            <country>US</country>
+            <doc-number>5871396</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5871396</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="39">
+          <document-id>
+            <country>US</country>
+            <doc-number>5936836</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5936836</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="40">
+          <document-id>
+            <country>US</country>
+            <doc-number>6005770</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US6005770</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Dell USA, L.P.</orgname>
+            <address>
+              <address-1>Round Rock, TX, US</address-1>
+              <city>Round Rock</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>DELL</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Sands, Steve</name>
+            <address>
+              <address-1>Austin, TX, US</address-1>
+              <city>Austin</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>McAnally, Andrew L.</name>
+            <address>
+              <address-1>Georgetown, TX, US</address-1>
+              <city>Georgetown</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook lang="en">
+            <name>Mills, R. Steven</name>
+            <address>
+              <address-1>Austin, TX, US</address-1>
+              <city>Austin</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Haynes &amp; Boone, L.L.P.</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Picard, Leo P.</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A computer, or electronic device, according to which two fans are mounted on a mounting member which, in turn, is mounted to a wall of the chassis of the computer or component so that the fans establish an air flow in the chassis in a predetermined direction.
+      <br/>
+      The fans are mounted to the mounting member, and the mounting member is mounted to the wall, in a manner so that the fans extend at an angle to the wall and so that the space occupied by the fans is less than the space that the fans would occupy when mounted in a side-by-side relation and parallel to the wall.
+      <br/>
+      The fans are also positioned so that, if one fails, the other will cool the components normally cooled by the failed fan.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND</h1>
+    </p>
+    <p num="2">The present disclosure relates, in general, to a computer, or other similar electronic device, and, more particularly, to such a computer and method according to which an internal fan assembly is provided for cooling the interior of the computer.</p>
+    <p num="3">As computers, such as central processing units, servers, and other similar types of electronic devices grow in speed and capacity, power consumed within the system per unit volume (power density) increases dramatically. Thus, it becomes essential to dissipate the heat generated by components within the system during operation to ensure that the components remain within their normal operating temperature ranges since, otherwise, the components will fail immediately or will have too short a lifetime.</p>
+    <p num="4">In large systems employing one or more computers with very large capacity, memory and speed, the computers are often manufactured in sub assemblies which are manufactured and/or assembled separately, yet function together. An example of this type of subassembly is a processor subassembly which consists of a bank of several relatively large processors, all mounted in the same dedicated subchassis which, in turn, may be mounted in a larger chassis, or on a rack mount, or the like, along with other basic components to form a computer.</p>
+    <p num="5">One of the most effective techniques of dissipating heat from a computer, a sub-assembly of the above type, or a similar type of electronic device, is to provide an internal fan, or fan assembly, to directly apply a relatively high-velocity air across the surface of the internal components to force cool the components. This raises the convective heat transfer coefficient for the surface of the internal components, thereby increasing the convection cooling.</p>
+    <p num="6">Although a fan-based system provides effective cooling, it has drawbacks. For example, in relatively large systems, a standard sized fan does not have the capacity to cool the internal components. Also, if the fan fails or locks up, there is no way to cool the components of the computer because there is usually no back-up capability, and, even if so, the components normally cooled by the failed fan would not be cooled. Thus, in all of the above situations, the components may overheat causing them to malfunction and the computer to fail.</p>
+    <p num="7">A viable solution to overcome the above problems is to incorporate a secondary, or redundant, fan which is usually designed to run continuously with the primary fan while the computer is in operation. This secondary fan has the advantage of offering additional cooling while simultaneously fulfilling the ultimate objective for implementing the other fan.</p>
+    <p num="8">However, in these arrangements, the mounting of both the primary and redundant fans to the chassis of the computer or of the subassembly discussed above is difficult since, if mounted in a conventional manner, they obviously would take up twice the space in the chassis or along a chassis wall. Also, even if two fans are provided and one fails, the components normally cooled by the failed fan would not be cooled.</p>
+    <p num="9">Accordingly, what is needed is a computer, a subassembly of the above type, or other similar type of electronic device, incorporating an internal fan assembly consisting of two or move individual fans that can be installed in the chassis of the computer, the subassembly, or the device without taking up double the space of a single fan. Also needed is an arrangement of the above type according to which the fans are positioned so that, if one fails, the other fan will cool the components normally cooled by the failed fan.</p>
+    <p num="10">
+      <h1>SUMMARY</h1>
+    </p>
+    <p num="11">To this end, according to an embodiment of the invention, a computer, a subassembly, or other similar type of electronic device, is provided according to which two fans are mounted on a mounting member which, in turn, is mounted to a wall of the chassis of the computer, subassembly or device so that the fans establish an air flow in the chassis in a predetermined direction. The fans are mounted to the mounting member, and the mounting member is mounted to the wall, in a manner so that the fans extend at an angle to the wall and so that the space occupied by the fans is less than the space that the fans would occupy when mounted in a side-by-side relation and parallel to the wall. The fans are also positioned so that, if one fails, the other will cool the components normally cooled by the failed fan.</p>
+    <p num="12">Significant advantages are achieved with the above embodiment since the fan assembly is easily and quickly installed to the chassis yet takes up less space that two individual fans mounted in a normal manner. Also, the fan assembly can be easily and quickly removed from the chassis for repair or replacement. Further, if one of the fans fails, the other fan will cool the components normally cooled by the failed fan.</p>
+    <p num="13">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="14">FIG. 1 is a diagrammatic view of a computer according to an embodiment of the present invention.</p>
+    <p num="15">FIG. 2 is an enlarged, isometric view of a subassembly of the computer of FIG. 1.</p>
+    <p num="16">FIG. 3 is an enlarged, isometric view of the fan assembly of the subassembly of FIG. 2.</p>
+    <p num="17">
+      <h1>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</h1>
+    </p>
+    <p num="18">An embodiment of the present invention is shown in FIG. 1 in connection with a computer, referred to, in general, by the reference numeral 10, which can be in the form of a server, a tower computer, a desktop computer, or the like. The computer 10 includes a chassis 12 in which a motherboard 14 is mounted. A subassembly 16, to be described in detail later, is mounted in the chassis 12 in any known manner and contains a plurality of processors which are connected to the motherboard 14. A plurality of memory devices, or modules, 18 and two input/output (I/O) devices 20 are mounted on the motherboard 14. Two buses 16a and 16b are also provided on the motherboard 14 and connect the processors in the subassembly 16 to the memory modules 18 and to the input/output devices 20, respectively. A power supply 22 is connected to the motherboard 14, and a pair of cable assemblies 24a and 24b connect the motherboard to a hard drive unit 26 and a disk drive unit 28, respectively. It is understood that other components, electrical traces, electrical circuits and related devices (not shown) are provided in the chassis 12. Since these are all conventional, they will not be described in any further detail.</p>
+    <p num="19">The subassembly 16 is shown in FIG. 2 and includes a chassis 30 having a front wall 32, a rear wall 34, two side walls 36 and 38, and a bottom plate (not shown) all formed and connected in a conventional manner.</p>
+    <p num="20">A mother board 40 is disposed in the chassis 30 and a bank of processors 42 are mounted on the mother board 40 in any known manner, and extend parallel to the side walls 36 and 38. A processor 42 at one end of the bank of processors extends adjacent the side wall 36 and the processor at the other end of the bank extends adjacent to a memory and processor control chip 44 which is also mounted to the mother board. A plurality of connectors 46 are also mounted on the mother board 40 for receiving circuit boards, cards, and the like. It is understood that additional components, buses, electrical traces, electrical circuits and related devices (not shown) are provided in the chassis 30 but are not shown in the interest of clarity and since they, per se, do not form any part of any embodiment of the present invention.</p>
+    <p num="21">A fan assembly 50 is connected to the rear wall 34 in a manner to be described and includes two fans 52 and 54 mounted to a mounting bracket 56.</p>
+    <p num="22">As better shown in FIG. 3, the fan 52 includes an open-ended housing 60 having a circular cross-section, a propeller 62 mounted for rotation in the housing, and a motor (not shown) for driving the propeller. Two rectangular flanges 60a and 60b extend from the inlet end and the outlet end, respectively, of the housing 60, and a finger guard 64 is mounted over the flange 60a. Since the fan 52 is conventional it will not be described in any further detail.</p>
+    <p num="23">The bracket 56 is substantially rectangular in vertical cross-section and has a top plate 66, a mother board(not shown) and two side walls, one of which is shown and referred to by the reference numeral 68, all of which define a rectangular opening. The top plate has a straight back edge portion 66a and two front edge portions 66b and 66c each of which extends at an angle A to the back edge portion. The angle A can vary and, in the example shown in FIG. 3, is approximately 15 degrees. Although not shown in the drawings, it is understood that the mother board of the bracket 56 is identical to the top plate 66.</p>
+    <p num="24">The two front edge portion 66b and 66c of the top plate 66 and the corresponding edge portions (not shown) of the bottom plate define mounting surfaces for the fan 52. In its mounted position on the bracket 66, the fan 52 is oriented in an upright, vertical position with the rear surface of the flange 60b, as viewed in FIG. 3, abutting the edge portion 66b of the plate 66 and with the corresponding front edge portion of the above-mentioned bottom plate. As a result, the fan 52 extends at the angle A.</p>
+    <p num="25">A pair of hook tabs 70a and 70b extend from the side wall 68 of the bracket 56, and a pair of guide tabs 72a and 72b extend from the top plate 66. Thus, the fan 52 can be positioned below the bracket 56 as viewed in FIG. 3 in alignment with the hook tabs 70a and 70b and then moved upwardly relative to the bracket 56 until the upper edge of the flange 60a of the fan housing 60 engages the guide tabs 72a and 72b to position the fan relative to the bracket. A flexible tab 74 also extends from the top plate 66 and is adapted to snap over the upper surface of the flange 60a of the fan 52 to secure the fan to the bracket 56.</p>
+    <p num="26">It is understood that the fan 54 is mounted to the edge portion 66c of the plate 66 and the corresponding edge portion of the above-mentioned mother board in an identical manner.</p>
+    <p num="27">Two tabs 76a and 76b extend from the edge portion 66a of the top plate 66 and a tab 78 extends from the rear surface of the side wall 68. It is understood that another tab (not shown), identical to the tab 78, extends from the other side wall of the bracket 56. This enables the fan assembly 56, with the fans 52 and 54 mounted on the bracket 56 as discussed above, to be mounted relative to the rear wall 34 of the chassis 30 as shown in FIG. 2. More particularly, slots, or keepers, (not shown) are provided in the wall 34 to receive the tabs 76a, 76b and 78 and the tab extending from the above-mentioned other side wall of the bracket. Thus, the bracket 56, with the fans 52 and 54 can easily be quick-detachably mounted and dismounted from the wall 34.</p>
+    <p num="28">Due to the angular orientation of the front edge portions 66b and 66c of the plate 66 and the corresponding front edge portions of the corresponding bottom plate, the fans 52 and 54 extend at an angle, corresponding to angle A, to the wall 34 and thus take up less space along the wall than they would if simply mounted in a side-by-side relation and parallel to the wall.</p>
+    <p num="29">When the fan assembly 30 is installed to the wall 34 of the chassis 30 in the manner describe above, and as shown in FIG. 2, the fans 52 and 54 are designed to force ambient air across the processors 42. This raises the convective heat transfer coefficient for the surface of the processors 42, thereby increasing their convection cooling. In this context, it is understood that the fans 52 and 54 can also be adapted to pull air from the interior of the chassis 30 and across the processors 42 to achieve the same result.</p>
+    <p num="30">Do to the angular orientation of the fans 52 or 54, if one of the fans fails, the other fan will cool the processors 42 normally cooled by the failed fan. Also, if either of the fans 52 or 54 need to be serviced or replaced, the assembly 50 is easily removed from the chassis 30 by simple disengaging the tabs 76a, 76b and 78 and the tab extending from the above-mentioned other side wall of the bracket, with their corresponding slots, or keepers and removing the bracket 56, and therefore the fans 52 and 54.</p>
+    <p num="31">As a result of the foregoing, a distinct advantage is obtained by the system and method of the present disclosure since the fans 52 and 54 take up less space along the wall 34 than they would if simply mounted to the wall in a side-by-side manner. Also, if one of the fans 52 or 54 fails, the other fan will cool the components normally cooled by the failed fan. Further, the fan assembly 50 can be easily installed and removed from the chassis 30 in a manner to insure that the fans will be properly oriented in the chassis.</p>
+    <p num="32">It is understood that variations may be made in the foregoing without departing from the scope of the present disclosure. For example, the angle A can be varied and can be much higher than the above example so that the fans 52 and 54 would occupy even less space along the wall 34. It is also understood that the term "computer" is used in its broadest sense and is meant to include all types of computing systems including, but not limited to, laptop computers, central process units, towers, file servers, etc. Further, the present invention is not limited to computers, but is equally applicable to other electronic devices that generate heat during use.</p>
+    <p num="33">Other modifications, changes and substitutions are intended in the foregoing disclosure and in some instances some features of the disclosure will be employed without a corresponding use of other features. Accordingly, it is appropriate that the appended claims be construed broadly and in a manner consistent with the scope of the disclosure.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A computer comprising at least one chassis having at least one wall, memory disposed in the chassis, a mounting member, at least two fans mounted on the mounting member, the fans being mounted to the mounting member, and the mounting member being mounted to the wall, in a manner so that the fans extend at an acute angle to the wall and so that the space occupied by the fans is less than the space that the fans would occupy when mounted in a side-by-side relation and parallel to the wall, the fans adapted to flow air through the chassis.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The computer of claim 1 further comprising components disposed in the chassis, the fans being directed towards the components for establishing an air flow towards the components for cooling same, and wherein the fans are positioned so that, if one fan fails, the other fan will cool the components normally cooled by the failed fan.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The computer of claim 2 further comprising an additional chassis containing the first-mentioned chassis, and storage disposed in the additional chassis.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The computer of claim 1 wherein the mounting member defines mounting surfaces that extend at the angle to the wall, the fans being mounted on the mounting surfaces so that they each extend at the angle to the wall.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The computer of claim 1 further comprising a plurality of tabs formed on the mounting member for engaging the fans to secure the fans to the mounting member.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The computer of claim 1 further comprising a plurality of guide tabs formed on the mounting member for guiding the fans relative to the mounting member.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The computer of claim 1 further comprising at least one tab formed on the mounting member for engaging the wall to secure the mounting member to the wall.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. A cooling system for an electronic device having at least one chassis having at least one wall; the cooling system comprising a mounting member, two fans mounted on the mounting member for establishing an air flow in the chassis in a predetermined direction, the fans being mounted to the mounting member, and the mounting member being mounted to the wall, in a manner so that the fans extend at an acute angle to the wall and so that the space occupied by the fans is less than the space that the fans would occupy when mounted in a side-by-side relation and parallel to the wall.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The system of claim 8 further comprising components disposed in the chassis, the fans being directed towards the components for establishing an air flow towards the components for cooling same, and wherein the fans are positioned so that, if one fan fails, the other fan will cool the components normally cooled by the failed fan.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The system of claim 9 further comprising an additional chassis containing the first-mentioned chassis, and memory and storage disposed in the additional chassis.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The system of claim 8 wherein the mounting member defines mounting surfaces that extend at the angle to the wall, the fans being mounted on the mounting surfaces so that they each extend at the angle to the wall.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The system of claim 8 further comprising a plurality of tabs formed on the mounting member for engaging the fans to secure the fans to the mounting member.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The system of claim 8 further comprising a plurality of guide tabs formed on the mounting member for guiding the fans relative to the mounting member.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The system of claim 8 further comprising at least one tab formed on the mounting member for engaging the wall to secure the mounting member to the wall.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. A method for establishing air flow in a chassis of an electronic device, comprising the steps of mounting two fans on a mounting member, mounting the mounting member to a wall of the chassis so that the fans establish an air flow in the chassis in a predetermined direction, the fans being mounted to the mounting member, and the mounting member being mounted to the wall, in a manner so that the fans extend at an acute angle to the wall and so that the space occupied by the fans is less than the space that the fans would occupy when mounted in a side-by-side relation and parallel to the wall.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. The method of claim 15 further comprising the steps of directing the air towards components in the chassis for establishing an air flow towards the components for cooling same, and positioning the fans so that, if one fan fails, the other fan will cool the components normally cooled by the failed fan.</claim-text>
+    </claim>
+    <claim num="17">
+      <claim-text>17. The method of claim 15 further comprising the steps of forming mounting surfaces on the mounting member that extend at the angle to the wall, and mounting the fans on the mounting surfaces so that they each extend at the angle to the wall.</claim-text>
+    </claim>
+    <claim num="18">
+      <claim-text>18. The method of claim 15 further comprising the step of engaging the fans with a plurality of tabs on the mounting member to secure the fan to the mounting member.</claim-text>
+    </claim>
+    <claim num="19">
+      <claim-text>19. The method of claim 15 further comprising the step of guiding the fan relative to the mounting member.</claim-text>
+    </claim>
+    <claim num="20">
+      <claim-text>20. The method of claim 15 further comprising the step of engaging the wall with a plurality of tabs on the mounting member to secure the mounting member to the wall.</claim-text>
+    </claim>
+    <claim num="21">
+      <claim-text>21. A computer comprising a chassis; and at least one subassembly disposed in the chassis, the subassembly comprising at least one wall defining a space for containing at least one heat-generating member, a mounting member, and two fans mounted on the mounting member for establishing an air flow in the subassembly towards the member, the fans being mounted to the mounting member, and the mounting member being mounted to the wall, in a manner so that the fans extend at an acute angle to the wall and so that the space occupied by the fans is less than the space that the fans would occupy when mounted in a side-by-side relation and parallel to the wall.</claim-text>
+    </claim>
+    <claim num="22">
+      <claim-text>22. The computer of claim 21 wherein the fans are directed towards the heat generating members for establishing an air flow towards the members for cooling same, and wherein the fans are positioned so that, if one fan fails, the other fan will cool the members normally cooled by the failed fan.</claim-text>
+    </claim>
+    <claim num="23">
+      <claim-text>23. The computer of claim 21 wherein the mounting member defines mounting surfaces that extend at the angle to the wall, the fans being mounted on the mounting surfaces so that they each extend at the angle to the wall.</claim-text>
+    </claim>
+    <claim num="24">
+      <claim-text>24. The computer of claim 21 further comprising a plurality of tabs formed on the mounting member for engaging the fans to secure the fans to the mounting member.</claim-text>
+    </claim>
+    <claim num="25">
+      <claim-text>25. The computer of claim 21 further comprising a plurality of guide tabs formed on the mounting member for guiding the fans relative to the mounting member.</claim-text>
+    </claim>
+    <claim num="26">
+      <claim-text>26. The computer of claim 21 further comprising at least one tab formed on the mounting member for engaging the wall to secure the mounting member to the wall.</claim-text>
+    </claim>
+    <claim num="27">
+      <claim-text>27. A cooling system for an electronic device having at least one chassis having at least one wall and containing components; the cooling system comprising a mounting member, wherein the mounting member defines mounting surfaces that extend at an acute angle to the wall, and two fans mounted on the mounting surfaces so that they each extend at the angle to the wall for establishing an air flow in the chassis towards the components for cooling the same, the fans being mounted to the mounting member, and the mounting member being mounted to the wall, in a manner so that, if one fan fails, the other fan will cool the components normally cooled by the failed fan.</claim-text>
+    </claim>
+    <claim num="28">
+      <claim-text>28. The system of claim 27 further comprising an additional chassis containing the first-mentioned chassis, and memory and storage disposed in the additional chassis.</claim-text>
+    </claim>
+    <claim num="29">
+      <claim-text>29. The system of claim 27 further comprising a plurality of tabs formed on the mounting member for engaging the fans to secure the fans to the mounting member.</claim-text>
+    </claim>
+    <claim num="30">
+      <claim-text>30. The system of claim 27 further comprising at least one tab formed on the mounting member for engaging the wall to secure the mounting member to the wall.</claim-text>
+    </claim>
+    <claim num="31">
+      <claim-text>31. A method for establishing air flow in a chassis of an electronic device containing components, comprising the steps of forming mounting surfaces on a mounting member that extends at an acute angle to a chassis wall, mounting two fans on the mounting surfaces so that they each extend at the angle to the wall of the chassis such that the fans establish an air flow in the chassis, and positioning the fans so that the fans establish an air flow towards the components for cooling the same, and so that, if one fan fails, the other fan will cool the components normally cooled by the failed fan.</claim-text>
+    </claim>
+    <claim num="32">
+      <claim-text>32. The method of claim 31 wherein the step of mounting comprises the steps of mounting the two fans on a mounting member, and mounting the mounting member to the wall.</claim-text>
+    </claim>
+    <claim num="33">
+      <claim-text>33. The method of claim 32 further comprising the step of engaging the fans with a plurality of tabs on the mounting member to secure the fan to the mounting member.</claim-text>
+    </claim>
+    <claim num="34">
+      <claim-text>34. The method of claim 32 further comprising the step of engaging the wall with a plurality of tabs on the mounting member to secure the mounting member to the wall.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

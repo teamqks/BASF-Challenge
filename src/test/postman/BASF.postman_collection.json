@@ -1,0 +1,498 @@
+{
+	"info": {
+		"_postman_id": "85fcd3c3-e92d-4d05-af7e-acd99e911d18",
+		"name": "BASF",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4790748"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"item": [
+				{
+					"name": "Errors",
+					"item": [
+						{
+							"name": "Get Patent - ID not exists",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text"
+									}
+								],
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/1",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										"1"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Patent - Not authorized",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/62d951603ae935464d00c2a6",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										"62d951603ae935464d00c2a6"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Patents - Not authorized",
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										""
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Get Patent",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "BASF-Auth",
+								"value": "secret",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "localhost:8082/api/v1/extractions/62d951603ae935464d00c2a6",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"api",
+								"v1",
+								"extractions",
+								"62d951603ae935464d00c2a6"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "API  Documentation - Swagger",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "BASF-Auth",
+								"value": "secret",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"url": {
+							"raw": "localhost:8082/v2/api-docs",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"v2",
+								"api-docs"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Patents",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "BASF-Auth",
+								"value": "secret",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "localhost:8082/api/v1/extractions/",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"api",
+								"v1",
+								"extractions",
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "DELETE",
+			"item": [
+				{
+					"name": "Errors",
+					"item": [
+						{
+							"name": "Delete All - Not authorized",
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										""
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Delete Patent - Not authorized",
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/62d951603ae935464d00c2a6",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										"62d951603ae935464d00c2a6"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Delete Patent - ID not exists",
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text"
+									}
+								],
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/1",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Delete All",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "BASF-Auth",
+								"value": "secret",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "localhost:8082/api/v1/extractions/",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"api",
+								"v1",
+								"extractions",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Patent",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "BASF-Auth",
+								"value": "secret",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "localhost:8082/api/v1/extractions/62d951603ae935464d00c2a6",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"api",
+								"v1",
+								"extractions",
+								"62d951603ae935464d00c2a6"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "POST",
+			"item": [
+				{
+					"name": "Errors",
+					"item": [
+						{
+							"name": "Execution - Not authorized",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "files",
+											"type": "file",
+											"src": [
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037611E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037620E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037623E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037669E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037685E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037754E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037787E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037802E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037826E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037829E1.xml"
+											]
+										}
+									]
+								},
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/execute",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										"execute"
+									],
+									"query": [
+										{
+											"key": "files",
+											"value": null,
+											"disabled": true
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Execution - Parsing error",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "BASF-Auth",
+										"value": "secret",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "files",
+											"type": "file",
+											"src": [
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037611E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037620E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037623E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037669E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037685E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037754E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037787E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037802E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037826E1.xml",
+												"/C:/Users/imora/Downloads/back_20001_40000/USRE037829E1.xml"
+											]
+										}
+									]
+								},
+								"url": {
+									"raw": "localhost:8082/api/v1/extractions/execute",
+									"host": [
+										"localhost"
+									],
+									"port": "8082",
+									"path": [
+										"api",
+										"v1",
+										"extractions",
+										"execute"
+									],
+									"query": [
+										{
+											"key": "files",
+											"value": null,
+											"disabled": true
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Execution",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "BASF-Auth",
+								"value": "secret",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "files",
+									"type": "file",
+									"src": [
+										"/C:/Users/imora/Downloads/back_20001_40000/US06060048A.xml",
+										"/C:/Users/imora/Downloads/back_20001_40000/US06060738A.xml"
+									]
+								}
+							]
+						},
+						"url": {
+							"raw": "localhost:8082/api/v1/extractions/execute",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"api",
+								"v1",
+								"extractions",
+								"execute"
+							],
+							"query": [
+								{
+									"key": "files",
+									"value": null,
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

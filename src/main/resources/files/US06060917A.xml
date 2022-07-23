@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06060917A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06060917</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6060917</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="10811711" extended-family-id="13735728">
+      <document-id>
+        <country>US</country>
+        <doc-number>09064276</doc-number>
+        <kind>A</kind>
+        <date>19980422</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09064276</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>14032126</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>GB</country>
+        <doc-number>9708943</doc-number>
+        <kind>A</kind>
+        <date>19970501</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1997GB-0008943</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06F   1/03        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>03</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H03B  28/00        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>03</class>
+        <subclass>B</subclass>
+        <main-group>28</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H04B   1/26        20060101ALI20051220RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>04</class>
+        <subclass>B</subclass>
+        <main-group>1</main-group>
+        <subgroup>26</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051220</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>327107000</text>
+        <class>327</class>
+        <subclass>107000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>327105000</text>
+        <class>327</class>
+        <subclass>105000</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>327106000</text>
+        <class>327</class>
+        <subclass>106000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>327113000</text>
+        <class>327</class>
+        <subclass>113000</subclass>
+      </further-classification>
+      <further-classification sequence="4">
+        <text>708271000</text>
+        <class>708</class>
+        <subclass>271000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>G06F-001/03W4</text>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>001</main-group>
+        <subgroup>03</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>H03B-028/00</text>
+        <section>H</section>
+        <class>03</class>
+        <subclass>B</subclass>
+        <main-group>28</main-group>
+        <subgroup>00</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G06F-001/0342</classification-symbol>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>0342</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H03B-028/00</classification-symbol>
+        <section>H</section>
+        <class>03</class>
+        <subclass>B</subclass>
+        <main-group>28</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>5</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>4</number-of-drawing-sheets>
+      <number-of-figures>4</number-of-figures>
+      <image-key data-format="questel">US6060917</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Frequency synthesizer</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>HASSUN ROLAND, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4454486</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4454486</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>CARFI RALPH W, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5077546</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5077546</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>GREGORY PAUL, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5304938</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5304938</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>SWANKE CHRISTOPHER J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5521533</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5521533</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>TANG DOUGLAS D</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5661424</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5661424</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="6">
+          <document-id>
+            <country>US</country>
+            <doc-number>4454486</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4454486</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="7">
+          <document-id>
+            <country>US</country>
+            <doc-number>5077546</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5077546</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="8">
+          <document-id>
+            <country>US</country>
+            <doc-number>5304938</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5304938</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="9">
+          <document-id>
+            <country>US</country>
+            <doc-number>5521533</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5521533</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="10">
+          <document-id>
+            <country>US</country>
+            <doc-number>5661424</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5661424</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>Kishner, L. J., et al., An 800 MHZX Monolithic Gaas HBT Serrodyne Modulator , IEEE Journal of Solid State Circuits, vol. 30, No. 10, Oct. 1, 1995, pp. 1041 1050.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="2">
+          <text>Nicholas, H. T., et al., An Analysis of the Output Spectrum of Direct Digital Frequency Synthesizers in the Presence of Phase Accumulator Truncation , Proceedings of the 41st Annual Frequency Symposium, 1987, pp. 495 502, Philadelphia.</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Mitel Semiconductor Limited</orgname>
+            <address>
+              <address-1>GB</address-1>
+              <country>GB</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>GB</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>MITEL SEMICONDUCTOR</orgname>
+          </addressbook>
+          <nationality>
+            <country>GB</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Saul, Peter H</name>
+            <address>
+              <address-1>Towcester, GB</address-1>
+              <city>Towcester</city>
+              <country>GB</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>GB</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Kirschstein, et al.</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Le, Dinh</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A frequency synthesizer comprises a direct digital frequency synthesizer (DDFS), which provides in-phase and quadrature sinewave signals at a preset frequency from digital analogue converters respectively, and a balanced mixer.
+      <br/>
+      The balanced mixer provides an output signal having a carrier frequency twice that provided by DDFS and reduced levels of spurious signals.
+      <br/>
+      A signal having a desired frequency is generated by controlling the DDFS to generate sinewave output signals at half the desired frequency.
+      <br/>
+      The reduced levels of spurious signals obtained by the arrangement allows improved signals for use in, for example, local oscillator applications.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="2">The present invention relates to a frequency synthesizer and more particularly to a frequency synthesizer utilizing a direct digital frequency synthesizer.</p>
+    <p num="3">Direct Digital Synthesis (DDS) is a well established circuit technique used in frequency synthesizers in applications where wide frequency ranges or very fast frequency hopping, or both, are required. One such synthesizer using this technique is the SP2002 400 MHz Direct Digital Frequency Synthesizer (DDFS) manufactured by GEC Plessey Semiconductors. This synthesizer chip is able to produce square, triangular and sinewave in phase and quadrature output signals at a frequency dependent on an applied clock frequency and an applied binary word. However, the levels of spurious signals on the outputs of such frequency synthesizers can be too high for use as, for example, the local oscillator in a radio receiver to be practical.</p>
+    <p num="4">The unwanted spurious signals, or spurs, occur at amplitude and phase related terms, which are impossible to resolve on a conventional spectrum analyzer display though they can be considered as vectors. In this way, phase related spurs are orthogonal to the carrier whilst amplitude related spurs are in-phase or anti-phase with the carrier. The magnitude, number and position of the spurs in the output spectrum is related to the ROM look up table size, the non-linearities of the DACs, the amount of phase accumulator truncation and the frequency select commands of a DDFS. A discussion of these effects, along with a proposed modification to partially overcome them, is found in a paper by H. T. Nicholas and H. Samueli entitled "An Analysis of the Output Spectrum of Direct Digital Frequency Synthesisers in the Presence of Phase-Accumulator Truncation" at pp 495-502 of the published Proceedings of the 41st IEEE Annual Frequency Control Symposium.</p>
+    <p num="5">Several other techniques exist for removing these spurious signals though each compromises the properties of the DDFS. The main applications of these DDFSs have therefore been limited to those where the spurious signals are acceptable, or where filtering by, for example, phase-locked loop techniques is possible.</p>
+    <p num="6">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="7">The present invention was made as a result of exploration by the inventor into the mathematics of a DDFS and the output signals provided thereby. Considering the case where a single pair of spurious signals are present, the in phase and quadrature signals can be represented mathematically as U and V respectively:</p>
+    <p num="8">
+      <in-line-formulae>
+        U=A
+        <sub>o</sub>
+        cos (2πF
+        <sub>o</sub>
+        t)+A
+        <sub>1</sub>
+        sin (2πt (F
+        <sub>o</sub>
+        +F
+        <sub>1</sub>
+        ))+A
+        <sub>1</sub>
+        sin (2πt (F
+        <sub>o</sub>
+        -F
+        <sub>1</sub>
+        ))
+      </in-line-formulae>
+    </p>
+    <p num="9">
+      <in-line-formulae>
+        V=A
+        <sub>o</sub>
+        sin (2πF
+        <sub>o</sub>
+        t)+A
+        <sub>1</sub>
+        cos (2πt (F
+        <sub>o</sub>
+        +F
+        <sub>1</sub>
+        ))+A
+        <sub>1</sub>
+        cos (2πt (F
+        <sub>o</sub>
+        -F
+        <sub>1</sub>
+        ))
+      </in-line-formulae>
+    </p>
+    <p num="10">where:</p>
+    <p num="11">
+       A
+      <sub>o</sub>
+      is the carrier amplitude,
+    </p>
+    <p num="12">
+       A
+      <sub>1</sub>
+      is the spurious amplitude,
+    </p>
+    <p num="13">
+       F
+      <sub>o</sub>
+      is the carrier frequency, and
+    </p>
+    <p num="14">
+       F
+      <sub>1</sub>
+      is the offset of the spurious pair from the carrier.
+    </p>
+    <p num="15">Though there will in reality be more sidebands in the in phase and quadrature signals, the analysis of a single pair is adequate for explanation of the present invention.</p>
+    <p num="16">Multiplication of these terms gives:</p>
+    <p num="17">
+      <in-line-formulae>
+        U.V=1/2A
+        <sub>o</sub>
+        <sup>2</sup>
+        sin (4πF
+        <sub>o</sub>
+        t)+2 A
+        <sub>o</sub>
+        A
+        <sub>1</sub>
+        cos (2πF
+        <sub>1</sub>
+        t)+A
+        <sub>1</sub>
+        <sup>2</sup>
+        terms
+      </in-line-formulae>
+    </p>
+    <p num="18">
+      The largest term of the result is at 2 F
+      <sub>o</sub>
+      ; i.e. the carrier frequency has been doubled by multiplying the in phase and quadrature signals together. The terms with coefficient A
+      <sub>1</sub>
+      <sup>2</sup>
+      are small enough to neglect if the DACs are above, say, 6 bits in size. For the 8-bit DACs of the SP2002 chip, the A
+      <sub>1</sub>
+      <sup>2</sup>
+      spurs are 96 dB down. The terms which were at offsets of ±F
+      <sub>1</sub>
+      have been phased out at the double frequency, 2F
+      <sub>o</sub>
+      .
+    </p>
+    <p num="19">In accordance with the present invention, there is provided a frequency synthesizer for generating a signal at a desired frequency comprising a direct digital frequency synthesizer operable to provide in phase and quadrature output signals at half said desired frequency; and a balanced mixer arranged to mix said in phase and quadrature signals to provide said desired frequency signal.</p>
+    <p num="20">Use of a frequency synthesizer in accordance with the present invention provides a signal having lower levels of spurious signals, in relation to the carrier frequency signal level, than the signals provided by the direct digital frequency synthesizer utilized therein.</p>
+    <p num="21">Preferably the frequency synthesizer has the balanced mixer and the direct digital frequency synthesizer fabricated as a single integrated circuit. In this way, mass production can be achieved at a lower cost than is possible with discrete components.</p>
+    <p num="22">Preferably, the direct digital frequency synthesizer is operable to provide sinewave in phase and quadrature output signals, thereby providing a sinewave signal at said desired frequency from the balanced mixer. This preferred feature makes the frequency synthesizer particularly suitable for local oscillator and other similar applications.</p>
+    <p num="23">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="24">Embodiments will now be described, by way of example only, with reference to the accompanying drawings, of which:</p>
+    <p num="25">FIG. 1 shows, in block diagram form, a first embodiment of a frequency synthesizer in accordance with the present invention;</p>
+    <p num="26">FIG. 2 shows the spectrum of an output signal of an SP2002 direct digital frequency synthesizer;</p>
+    <p num="27">FIG. 3 shows the spectrum of an output signal of a frequency synthesizer in accordance with the present invention, and</p>
+    <p num="28">FIG. 4 shows, in block diagram form, a second embodiment of a frequency synthesiser in accordance with the present invention.</p>
+    <p num="29">
+      <h1>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</h1>
+    </p>
+    <p num="30">Referring first to FIG. 1, a frequency synthesizer in accordance with the present invention is shown comprising an SP2002 DDFS labelled generally at 1, and a micromixer circuit 2.</p>
+    <p num="31">The DDFS 1 comprises 30 frequency select inputs FS0-FS29 which, along with an input enable electrode 3, are connected to a number of solid state latches, indicated generally at 4. These latches 4 feed their outputs into the inputs of an accumulator 5 which generates pulses at the frequency dependent on the clock frequency and the selection made by way of frequency select inputs FS0-FS29. In phase and quadrature square wave output signals can be generated by output devices 6 with reference to the pulses from the accumulator 5. Alternatively, like pulses are used by either sine logic ROM 8 or triangle logic device 9, dependent on the signals applied to a multiplexer 9 by way of terminals 10 and 11, to provide analogue in phase and quadrature signals at respective outputs of DACs 12 and 13.</p>
+    <p num="32">To generate a 200 MHz sinewave output signal at terminals 14 and 15, DDFS 1 is applied with suitable signals at frequency select inputs FS0 to FS29 and terminals 10 and 11 to cause DAC 12 to generate a 100 MHz in phase sinewave signal and DAC 13 to generate its quadrature signal. The micromixer circuit 2, operating in a linear region, provides at output terminals 14 and 15 a signal having spurious signal levels lower, in relation to the carrier frequency signal level, than the spurious signal levels provided by each of DACs 12 and 13.</p>
+    <p num="33">The SP2002 DDFS chip when controlled to provide a 127.5 MHz sinewave output signal from a 1024 MHz clock, has in phase and quadrature output signals each having the spectrum shown in FIG. 2. This output frequency was chosen, as being near to an integer fraction of the clock frequency, to provide particularly strong spurs in the output signal of the DDFS 1. As can be seen, the spectrum comprises a strong carrier frequency signal 16 at 127.5 MHz and a range of spurious signals 17, 18, 19 at approximately 4 MHz spacings on each side thereof. The largest spur 17 is at -35 dBc. The corresponding spur 18, on the other side of the carrier frequency, is slightly smaller due to the complex mix of phase terms and amplitude terms in the signal.</p>
+    <p num="34">FIG. 3 shows the spectrum of an output signal provided by a frequency synthesizer in accordance with the present invention. The same SP2002 DDFS chip, controlled to provide in phase and quadrature sinewave signals at a frequency of 63.75 MHz from a 1024 MHz clock signal, was connected with a Watkins-Johnson SM4A-1 micromixer circuit on its output terminals, in the manner shown in FIG. 1. It can be seen from FIG. 3 that the output signal obtained has greatly reduced spurious signal levels 20, 21, the largest 20 being at -54 dBc. An improvement of 19 dB was thus achieved, the only cost being a slightly raised noise floor.</p>
+    <p num="35">FIG. 4 shows, in block diagram form, a second embodiment of a frequency synthesiser in accordance with the present invention. Components which are the same as those shown in FIG. 1 have kept the same reference numerals. In this embodiment, a Gilbert cell circuit 22 is fabricated on the same chip as DDFS 1, between the outputs of DACs 12 and 13 and chip output terminals 24 and 25. The balanced mixer is implemented as a Gilbert cell circuit 22 because it is more suited to monolithic production than are micromixer circuits.</p>
+    <p num="36">This embodiment allows mass production of frequency synthesizers in accordance with the present invention at a lower cost than the FIG. 1 embodiment.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>I claim:</h1>
+      </claim-text>
+      <claim-text>1. A frequency synthesizer, comprising:  a direct digital frequency synthesizer having a frequency select input and first and second outputs, and operable to generate, at the first and second outputs, signals of the same frequency as each other and in a quadrature phase relationship to each other; and  a balanced mixer having first and second inputs and an output, the first and second outputs of the direct digital frequency synthesizer being connected to respective ones of the first and second inputs of the balanced mixer, the balanced mixer being operable to provide, at the output of the balanced mixer, an output signal having a frequency twice the frequency of the signals generated at the first and the second outputs of the direct digital frequency synthesizer.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The frequency synthesizer in accordance with claim 1, in which the balanced mixer and the direct digital frequency synthesizer are fabricated as a single integrated circuit.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The frequency synthesizer in accordance with claim 1, in which the direct digital frequency synthesizer is operable to provide sinewave in-phase and quadrature output signals, thereby providing a sinewave signal at said frequency from the balanced mixer.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The frequency synthesizer in accordance with claim 1, in which the balanced mixer is a Gilbert cell circuit which, in use, operates in a linear region.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The frequency synthesizer in accordance with claim 1, in which the balanced mixer is a micromixer circuit which, in use, operates in a linear region.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

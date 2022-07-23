@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061218A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061218</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061218</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference is-representative="YES" family-id="25479458" extended-family-id="42084409">
+      <document-id>
+        <country>US</country>
+        <doc-number>08943325</doc-number>
+        <kind>A</kind>
+        <date>19971003</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1997US-08943325</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>43131812</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>94332597</doc-number>
+        <kind>A</kind>
+        <date>19971003</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1997US-08943325</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  27/02        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>27</main-group>
+        <subgroup>02</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H02H   9/04        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>02</class>
+        <subclass>H</subclass>
+        <main-group>9</main-group>
+        <subgroup>04</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>361056000</text>
+        <class>361</class>
+        <subclass>056000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>361058000</text>
+        <class>361</class>
+        <subclass>058000</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>361111000</text>
+        <class>361</class>
+        <subclass>111000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>361118000</text>
+        <class>361</class>
+        <subclass>118000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>H01L-027/02B4F4S</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>027</main-group>
+        <subgroup>02</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>H02H-009/04B</text>
+        <section>H</section>
+        <class>02</class>
+        <subclass>H</subclass>
+        <main-group>009</main-group>
+        <subgroup>04</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-027/0262</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>27</main-group>
+        <subgroup>0262</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H02H-009/041</classification-symbol>
+        <section>H</section>
+        <class>02</class>
+        <subclass>H</subclass>
+        <main-group>9</main-group>
+        <subgroup>041</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>17</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>3</number-of-drawing-sheets>
+      <number-of-figures>7</number-of-figures>
+      <image-key data-format="questel">US6061218</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Overvoltage protection device and method for increasing shunt current</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>AVERY LESLIE R</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5010380</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5010380</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>MIKUNI AKIRA, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5155398</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5155398</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>MARUM STEVEN E</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5506742</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5506742</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>KER MING-DOU, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5576557</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5576557</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>AVERY LESLIE R</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5600525</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5600525</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>AVERY LESLIE R</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5615074</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5615074</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="7">
+          <document-id>
+            <country>US</country>
+            <doc-number>5010380</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5010380</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="8">
+          <document-id>
+            <country>US</country>
+            <doc-number>5155398</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5155398</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="9">
+          <document-id>
+            <country>US</country>
+            <doc-number>5506742</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5506742</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="10">
+          <document-id>
+            <country>US</country>
+            <doc-number>5576557</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5576557</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="11">
+          <document-id>
+            <country>US</country>
+            <doc-number>5600525</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5600525</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="12">
+          <document-id>
+            <country>US</country>
+            <doc-number>5615074</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5615074</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Motorola, Inc.</orgname>
+            <address>
+              <address-1>Schaumburg, IL, US</address-1>
+              <city>Schaumburg</city>
+              <state>IL</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>MOTOROLA</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Ida, Richard T.</name>
+            <address>
+              <address-1>Phoenix, AZ, US</address-1>
+              <city>Phoenix</city>
+              <state>AZ</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>Ziegler, Daniel L.</name>
+            <address>
+              <address-1>Austin, TX, US</address-1>
+              <city>Austin</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook lang="en">
+            <name>Wagner, Robert O.</name>
+            <address>
+              <address-1>Austin, TX, US</address-1>
+              <city>Austin</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <name>Martinez, Anthony M.</name>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Jackson, Stephen W.</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      An overvoltage protection device (40) and a method for increasing the overvoltage current the device can carry.
+      <br/>
+      The overvoltage protection device (40) includes a Silicon Controlled Rectifier (SCR) (11) and an SCR enhance circuit (42).
+      <br/>
+      The SCR enhance circuit (42) provides the SCR (11) with an additional low resistance path to increase the amount of overvoltage shunt current the SCR (11) carries during an overvoltage event.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="2">The present invention relates, in general, to high voltage protection circuitry and, more particularly, to Electrostatic Discharge (ESD) protection circuitry.</p>
+    <p num="3">It is well known that monolithic integrated circuits may become damaged by exposing their input or output terminals to large and sudden voltage transients such as electrostatic discharges. For example, electrostatic charge may build up on personnel and test equipment. When the charged person or piece of test equipment contacts the input or output terminals of the integrated circuit, the built-up electrostatic charge discharges and may force large currents into the integrated devices. The large currents may rupture dielectric materials within the integrated devices such as gate oxides or they may melt conductive materials such as polysilicon or aluminum interconnects, thereby irreparably damaging the integrated circuits.</p>
+    <p num="4">Generally, integrated circuit manufacturers include protection devices that shunt current away from input and output circuitry within integrated devices to prevent the integrated devices from being damaged by large voltage transients. One technique for protecting integrated device input and output circuitry is to form current shunting structures from parasitic elements present in the integrated devices. A disadvantage of this technique is that the breakdown voltage of these structures is limited by the processing techniques for manufacturing the integrated circuit. Another technique for protecting these circuits is to improve the energy dissipation capability of the protection circuitry. This is done by laying out the protection circuit to have larger geometries, wider metal interconnects, more and larger contacts, etc. A disadvantage of this approach is it increases the size of the integrated device and thus decreases the number of integrated circuits per semiconductor wafer, thereby increasing the cost of manufacturing the integrated circuits.</p>
+    <p num="5">Accordingly, it would be advantageous to have an integrated device for protecting an integrated circuit from large voltage transients and a method of manufacturing the integrated device. It would be of further advantage for the integrated device to occupy a small area and be capable of protecting integrated circuit input and output structures.</p>
+    <p num="6">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="7">FIG. 1 is a schematic diagram of an overvoltage protection device in accordance with a first embodiment of the present invention;</p>
+    <p num="8">FIG. 2 is a schematic diagram of an overvoltage protection device in accordance with a second embodiment of the present invention;</p>
+    <p num="9">FIG. 3 is a top view of a layout of the overvoltage protection device of FIG. 2;</p>
+    <p num="10">FIG. 4 is a cross-sectional view of the overvoltage protection device of FIG. 3 taken along section line 4--4;</p>
+    <p num="11">FIG. 5 is a cross-sectional view of the overvoltage protection device of FIG. 3 taken along section line 5--5;</p>
+    <p num="12">FIG. 6 is a top view of a layout of an overvoltage protection device in accordance with a third embodiment of the present invention and;</p>
+    <p num="13">FIG. 7 is a top view of a layout of an overvoltage protection device in accordance with a fourth embodiment of the present invention.</p>
+    <p num="14">
+      <h1>DETAILED DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="15">Generally, the present invention provides an overvoltage protection device and a method for increasing a shunt current therein. In accordance with the present invention, a current shunt element is coupled to a Silicon Controlled Rectifier (SCR) to form an improved overvoltage protection device. The improved device is capable of conducting a larger current than a typical SCR. Further, the overvoltage protection device of the present invention occupies less area than the typical SCR.</p>
+    <p num="16">FIG. 1 is a schematic diagram of an overvoltage protection device 10 in accordance with a first embodiment of the present invention. Overvoltage protection device 10 includes a Silicon Controlled Rectifier (SCR) 11 connected to an SCR enhance circuit 12. SCR 11 has an anode 13, a cathode 16, an output 17, and an input 18. Preferably, anode 13 is coupled for receiving an input signal and cathode 16 is coupled for receiving a power supply voltage such as, for example, ground. SCR enhance circuit 12 has an input 19 connected to anode 13, an input 21 connected to SCR output 17, and an output 22 connected to SCR input 18.</p>
+    <p num="17">SCR 11 is comprised of transistors 23 and 24 and resistors 26 and 27. By way of example, transistor 23 is a PNP bipolar transistor and transistor 24 is an NPN bipolar transistor. PNP bipolar transistor 23 has an emitter connected to anode 13, a base connected to SCR output 17, and a collector connected to SCR input 18. NPN bipolar transistor 24 has a collector connected to the base of PNP bipolar transistor 23, a base connected to SCR input 18, and an emitter connected to cathode 16. Resistor 26 has a first terminal connected to anode 13 and a second terminal connected to the base of PNP bipolar transistor 23. Resistor 27 has a first terminal connected to SCR input 18 and a second terminal connected to cathode 16.</p>
+    <p num="18">
+      SCR enhance circuit 12 is, for example, a PNP bipolar transistor 28 having an emitter connected to input 19, a base connected to input 21, and a collector connected to output 22. Preferably, the current gain (β
+      <sub>28</sub>
+      ) of PNP bipolar transistor 28 is greater than the current gain (β
+      <sub>23</sub>
+      ) of PNP bipolar transistor 23. It should be noted that the base of a bipolar transistor is referred to as the control electrode and the collector and emitter are referred to as current carrying electrodes. It should also be noted that a transistor is also referred to as an active device.
+    </p>
+    <p num="19">Under normal operating conditions, i.e., in the absence of an Electrostatic Discharge (ESD) event, SCR 11 and SCR enhance circuit 12 are off and SCR 11 behaves as an open circuit between anode 13 and cathode 16. In other words, SCR 11 and SCR enhance circuit 12 are in a high impedance mode of operation and only conduct leakage currents that are in the nano-ampere range. When the voltage at anode 13 exceeds a trigger or turn on voltage of SCR 11, SCR 11 turns on and conducts a current in excess of one ampere.</p>
+    <p num="20">More particularly, when the voltage at anode 13 exceeds a breakdown voltage of the N-P junction formed by the base and collector of PNP bipolar transistor 23 and the collector and base of NPN bipolar transistor 24, transistors 23 and 24 turn on and provide forward bias currents to each other. Thus, when transistors 23 and 24 turn on, SCR 11 turns on and enters a low impedance mode of operation, wherein the voltage between anode 13 and cathode 16 is reduced to a value less than the breakdown voltage. In addition, when SCR 11 turns on, PNP bipolar transistor 28 turns on due to the forward bias current from NPN bipolar transistor 24. Thus, PNP bipolar transistor 28 provides additional shunt current during an ESD event. Accordingly, when an ESD event occurs, transistors 23, 24, and 28 cooperate to provide three low resistance paths between an input pad (not shown) coupled to anode 13 and cathode 16. Current is conducted through the three low resistance paths, thereby dissipating charge appearing at the input pad due to the ESD event.</p>
+    <p num="21">FIG. 2 is a schematic diagram of an overvoltage protection device 40 in accordance with a second embodiment of the present invention. It should be understood that the same reference numerals are used in the figures to denote the same elements. Overvoltage protection device 40 includes SCR 11 connected to an SCR enhance circuit 42. SCR enhance circuit 42 has an input 49 connected to anode 13, an input 51 connected to SCR output 17, and an output 52 connected to SCR input 18. SCR enhance circuit 42 includes PNP bipolar transistors 43, 44, 46, and 47. Transistors 43, 44, 46, and 47 each have a base commonly connected to input 51, an emitter commonly connected to input 49, and a collector commonly connected to output 52. The difference between overvoltage protection device 40 of FIG. 2 and overvoltage protection device 10 of FIG. 1 is that SCR enhance circuit 42 includes a plurality of transistors whereas SCR enhance circuit 12 is comprised of a single transistor.</p>
+    <p num="22">
+      FIG. 3 is a top view of a layout 60 of overvoltage protection device 40. Layout 60 illustrates anode 13, cathode 16, and a semiconductor material 61 containing a plurality of doped regions. By way of example, semiconductor material 61 is lightly doped with an impurity material of N conductivity type and has a concentration ranging between approximately 10
+      <sup>14</sup>
+      atoms per cubic centimeter (atoms/cm
+      <sup>3</sup>
+      ) and approximately 10
+      <sup>16</sup>
+      atoms/cm
+      <sup>3</sup>
+      . A doped region 62 of P conductivity type is formed in semiconductor material 61. Doped region 62 is also referred to as a well or a well region.
+    </p>
+    <p num="23">
+      A heavily doped region 66 of N conductivity type is formed in well 62. Doped region 66 has a dopant concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      . In addition, a heavily doped region 67 of P conductivity type is formed in well 62. Doped region 67 has a dopant concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      . Although doped regions 66 and 67 are shown as abutting each other, it should be understood this is not a limitation of the present invention. For example, doped regions 66 and 67 may be spaced apart.
+    </p>
+    <p num="24">
+      A plurality of heavily doped regions of N conductivity type 68, 69, and 71 are formed overlying a boundary between well 62 and semiconductor material 61. In other words, doped regions 68, 69, and 71 overlap well 62 and semiconductor material 61. Although regions 68, 69, and 71 are shown as overlapping well 62 and semiconductor material 61, this is not a limitation of the present invention. For example, regions 68, 69, and 71 may formed in well 62 and contact semiconductor material 61. Similarly, regions 68, 69, and 71 may formed in semiconductor material 61 and contact well 62. Doped regions 68, 69, and 71 have a dopant concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      . It should be noted that the number of doped regions overlapping the boundary between doped region 62 and semiconductor material 61 is not a limitation of the present invention.
+    </p>
+    <p num="25">
+      A heavily doped region 64 of P conductivity type is formed in semiconductor material 61. Doped region 64 is spaced apart from well 62. Doped region 64 has a dopant concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      . A heavily doped region 63 of N conductivity type is formed in semiconductor material 61. Doped region 63 has a dopant concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      . Although doped regions 63 and 64 are shown as abutting each other, it should be understood this is not a limitation of the present invention. For example, doped regions 63 and 64 may be spaced apart.
+    </p>
+    <p num="26">Doped regions 63, 66, 68, 69, and 71 may be formed in a single doping step. Likewise, doped regions 64 and 67 may be formed in a single doping step. Techniques for forming well regions and doped regions within a semiconductor material are well known to those skilled in the art.</p>
+    <p num="27">Anode metal 72 overlaps regions 63 and 64 and cathode metal 73 overlaps regions 66 and 67. Anode metal 72 and regions 63 and 64 cooperate to form anode 13. Cathode metal 73 and regions 66 and 67 cooperate to form cathode 16.</p>
+    <p num="28">
+      FIG. 4 is a cross-sectional view of overvoltage protection device 40 taken along section line 4--4 of FIG. 3. It should be understood that the same reference numerals are used in the figures to denote the same elements. What is shown in FIG. 4 is semiconductor material 61 having a major surface 65. Well 62 extends vertically from major surface 65 into semiconductor material 61 a first depth. Well 62 may be formed by implanting a dopant or impurity material of P conductivity type such as, for example, boron. Alternatively, well 62 may be formed by diffusing the P type impurity material into semiconductor material 61. By way of example, well 62 has a junction depth ranging between approximately 0.5 micrometers (μm) and approximately 10 μm and a surface concentration of P type impurity material ranging between approximately 10
+      <sup>16</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>17</sup>
+      atoms/cm
+      <sup>3</sup>
+      .
+    </p>
+    <p num="29">
+      Doped regions 66 and 67 extend vertically from surface 65 into well 62 a second depth, wherein the second depth is less than the first depth. By way of example, doped regions 66 and 67 have junction depths ranging between approximately 0.2 μm and approximately 0.6 μm. Further, doped region 66 has a surface concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      . Region 67 has a surface concentration ranging between approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>20</sup>
+      atoms/cm
+      <sup>3</sup>
+      .
+    </p>
+    <p num="30">Doped region 71 extends vertically from major surface 65 into a portion of semiconductor material 61 and a portion of well 62. By way of example, doped region 71 has a junction depth ranging between approximately 0.2 μm and approximately 0.6 μm.</p>
+    <p num="31">Doped regions 63 and 64 extend vertically from major surface 65 into semiconductor material 61. By way of example, doped regions 63 and 64 have junction depths ranging between approximately 0.2 μm and approximately 0.6 μm.</p>
+    <p num="32">FIG. 5 is a cross-sectional view of overvoltage protection device 40 taken along section line 5--5 of FIG. 3. It should be understood that the cross-sectional view of FIG. 5 is taken along a different portion of device 40 than the cross-sectional view taken along section line 4--4 and that the difference between the cross-sectional views of FIGS. 4 and 5 is that doped region 71 is not shown in the view of FIG. 5.</p>
+    <p num="33">Referring to FIGS. 2 and 4, PNP bipolar transistor 23 is formed in the portion of semiconductor material 61 along section line 4--4. The emitter of transistor 23 is region 64, the base of transistor 23 is formed by semiconductor material 61 and region 71, and the collector of transistor 23 is region 62. The emitter of transistor 24 is region 66, the base of transistor 24 is region 62, and the collector of transistor 24 is semiconductor material 61. Resistor 26 is formed by a parasitic resistance of semiconductor material 61 and an ohmic contact with region 63. Resistor 27 is formed by a parasitic resistance of region 62 and an ohmic contact with region 67. Although SCR 11 is described as including resistors 26 and 27, this is not a limitation of the present invention. SCR 11 may be fabricated without resistors 26 and 27. Likewise, SCR 11 may be fabricated without regions 63 and 67.</p>
+    <p num="34">PNP bipolar transistors 44 and 47 are formed from portions of semiconductor material 61 that are parallel to section line 4--4 and through regions 69 and 68 (FIG. 3). The emitter of transistor 44 is region 64, the base of transistor 44 is formed by semiconductor 61 and region 69, and the collector of transistor 44 is region 62. The emitter of transistor 47 is region 64, the base of transistor 44 is formed by semiconductor material 61 and region 68, and the collector of transistor 44 is region 62.</p>
+    <p num="35">Referring to FIGS. 2 and 5, PNP bipolar transistor 43 is formed in the portion of semiconductor material 61 along section line 5--5. The emitter of transistor 43 is region 64, the base of transistor 43 is semiconductor material 61, and the collector of transistor 43 is region 62.</p>
+    <p num="36">PNP bipolar transistor 46 is formed from a portion of semiconductor material 61 parallel to section line 5--5 and through the space between regions 69 and 68. By way of example, the emitter of transistor 46 is region 64, the base of transistor 46 is semiconductor 61, and the collector of transistor 46 is region 62.</p>
+    <p num="37">Because region 71 (FIG. 4) is heavily doped, the breakdown voltage across the junction between the base and collector of PNP bipolar transistor 23 (FIG. 2) is lower than the breakdown voltage of the junction between the base and collector of PNP bipolar transistor 43. In addition, because of the presence of region 71, the current gain of PNP bipolar transistor 23 is lower than the current gain of PNP bipolar transistor 43. It should be noted that PNP bipolar transistor 46 has substantially the same characteristics for current gain and breakdown voltage as PNP bipolar transistor 43. It should also be noted that PNP bipolar transistors 44 and 47 have substantially the same characteristics for current gain and breakdown voltage as PNP bipolar transistor 23. Therefore, the current gain and breakdown voltage of PNP bipolar transistors 43 and 46 are higher than the current gain and breakdown voltage of PNP bipolar transistors 23, 44, and 47.</p>
+    <p num="38">Referring to FIG. 2, under normal operating conditions, i.e., in the absence of an ESD event, SCR 11 and SCR enhance circuit 42 are off. SCR 11 turns on when the voltage at anode 13 exceeds a trigger voltage of SCR 11. More particularly, SCR 11 turns on when the voltage at anode 13 exceeds the breakdown voltage of the N-P junction between the base and collector of PNP bipolar transistor 23 and the N-P junction between the collector and base of NPN bipolar transistor 24. Similarly, PNP bipolar transistors 44 and 47 turn on when the voltage at anode 13 exceeds the breakdown voltage of the N-P junctions between the base and collector of transistors 44 and 47. When transistors 23, 24, 44, and 47 turn on, they provide forward bias currents to each other. In addition, PNP bipolar transistors 43 and 46 turn on due to the forward bias current from NPN bipolar transistor 24. Accordingly, when an ESD event occurs, transistors 23, 24, 43, 44, 46, and 47 provide six low resistance paths between anode 13 and cathode 16 through which current is conducted to dissipate charge at anode 13. Furthermore, when an ESD event occurs, power dissipation is distributed through the six low resistance paths. Thus, the spacing of regions 68, 69, and 71 results in overvoltage protection device 60 (FIG. 3) having a higher shunt current than an overvoltage device formed from a single region overlapping semiconductor material 61 and well 62.</p>
+    <p num="39">FIG. 6 is a top view of a layout 100 of an overvoltage protection device in accordance with a third embodiment of the present invention. It should be understood that the same reference numerals are used in the figures to denote the same elements. Layout 100 is similar to layout 60 of FIG. 3 except that region 74 has a different shape than region 64. Region 74 is spaced apart from regions 62, 68, 69, and 71 and shaped to have a serrated structure, i.e., a plurality of extensions or fingers 76, 77, 78, and 79. Fingers 77 and 78 extend into the spaces between regions 68, 69, and 71.</p>
+    <p num="40">Anode metal 72A overlaps regions 63 and 74 and cathode metal 73 overlaps regions 66 and 67. Anode metal 72A and regions 63 and 64 cooperate to form anode 13. Cathode metal 73 and regions 66 and 67 cooperate to form cathode 16.</p>
+    <p num="41">Because of the shape of region 74, the base width is minimized for a PNP bipolar transistor formed from region 74, semiconductor material 61, and well 62 and along a line crossing finger 78 between regions 69 and 71. Thus, the PNP bipolar transistor formed along the line crossing finger 78 between regions 69 and 71 has a higher current gain than an analogous PNP bipolar transistor formed along section line 5--5 of FIG. 3. Similarly, PNP bipolar transistors formed along lines crossing fingers 76, 77, and 79 and parallel to the line crossing finger 78 between regions 69 and 71 have higher current gains than an analogous PNP bipolar transistor formed along section line 5--5 of FIG. 3. By minimizing the base width of the PNP bipolar transistors formed along lines crossing fingers 76, 77, 78, and 79 described hereinbefore, the amount of overvoltage current that can be shunted by overvoltage protection device 100 is enhanced. It should be noted that one representation of an equivalent circuit for layout 100 is the circuit diagram of FIG. 2. Although SCR enhance circuit 42 (FIG. 2) is shown as having four PNP bipolar transistors for one representation of an equivalent circuit for layout 100, this is not a limitation of the present invention. Another representation of an equivalent circuit for layout 100 may include SCR enhance circuit 42 having six bipolar PNP transistors in parallel instead of the four shown. The two additional PNP bipolar transistors may be formed from lines crossing fingers 76 and 79.</p>
+    <p num="42">
+      FIG. 7 is a top view of a layout 110 of an overvoltage protection device in accordance with a fourth embodiment of the present invention. Layout 110 is similar to layout 60 of FIG. 3 except that layout 110 has a doped region 81. More particularly, doped region 81 is lightly doped with an impurity material of N conductivity type and is formed in semiconductor material 61. Doped region 81 is also referred to as a well or well region. By way of example, well 81 has a junction depth ranging between approximately 0.5 μm and approximately 10 μm and a dopant concentration of N type impurity material ranging between approximately 10
+      <sup>17</sup>
+      atoms/cm
+      <sup>3</sup>
+      and approximately 10
+      <sup>18</sup>
+      atoms/cm
+      <sup>3</sup>
+      . Doped regions 63 and 64 are formed in well 81. Doped regions 68, 69, and 71 are formed overlying a boundary between well 81 and well 62. Layout 110 is an example of an overvoltage protection device formed using a twin well process.
+    </p>
+    <p num="43">By now it should be appreciated that an overvoltage protection device has been provided that prevents overvoltage damage when an overvoltage event is applied to a pad of an integrated circuit. An advantage of the present invention is that it provides a circuit and method that are both area and cost efficient. Another advantage of the present invention is that it also provides a device with a higher shunt current than a typical SCR.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. An overvoltage protection device, comprising:  a Silicon Controlled Rectifier (SCR) having an anode, a cathode, an input, and an output, wherein the SCR comprises:   a first transistor having a control electrode coupled to the output of the SCR, a first current carrying electrode coupled to the anode of the SCR, and a second current carrying electrode coupled to the input of the SCR; and   a second transistor having a control electrode coupled to the input of the SCR, a first current carrying electrode coupled to the control electrode of the first transistor, and a second current carrying electrode coupled to the cathode of the SCR;   an SCR enhance circuit having a first input coupled to the anode of the SCR, a second input coupled to the output of the SCR, and an output coupled to the input of the SCR,  wherein the SCR enhance circuit comprises:   a third transistor having a control electrode coupled to the second input of the SCR enhance circuit, a first current carrying electrode coupled to the first input of the SCR enhance circuit, and a second current carrying electrode coupled to the output of the SCR enhance circuit, wherein a current gain of the third transistor is greater than a current gain of the first transistor.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The overvoltage protection device of claim 1, wherein the first and third transistors are PNP bipolar transistors and the second transistor is an NPN bipolar transistor.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The overvoltage protection device of claim 1, wherein a breakdown voltage between the control and first current carrying electrodes of the third transistor is greater than a breakdown voltage between the control and first current carrying electrodes of the first transistor.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The overvoltage protection device of claim 1, wherein the SCR enhance circuit further comprises:  a fourth transistor having a control electrode coupled to the second input of the SCR enhance circuit, a first current carrying electrode coupled to the first input of the SCR enhance circuit, and a second current carrying electrode coupled to the output of the SCR enhance circuit;  a fifth transistor having a control electrode coupled to the second input of the SCR enhance circuit, a first current carrying electrode coupled to the first input of the SCR enhance circuit, and a second current carrying electrode coupled to the output of the SCR enhance circuit; and  a sixth transistor having a control electrode coupled to the second input of the SCR enhance circuit, a first current carrying electrode coupled to the first input of the SCR enhance circuit, and a second current carrying electrode coupled to the output of the SCR enhance circuit.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The overvoltage protection device of claim 4, wherein the control electrode of the first transistor is coupled to the anode of the SCR via a first resistor and the control electrode of the second transistor is coupled to the cathode of the SCR via a second resistor.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The overvoltage protection device of claim 4, wherein the second transistor is an NPN bipolar transistor and the first, third, fourth, fifth, and sixth transistors are PNP bipolar transistors.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The overvoltage protection device of claim 4, wherein the current gain of third transistor is substantially equal to a current gain of the fifth transistor and wherein the current gain of the first transistor, a current gain of the fourth transistor, and a current gain of the sixth transistor are substantially equal to each other.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. An overvoltage protection device, comprising:  a semiconductor material of a first conductivity type having a surface;  a well region of a second conductivity type extending from the surface into the semiconductor material;  a first doped region of the second conductivity type within the semiconductor material and spaced apart from the well region;  a second doped region of the first conductivity type within the well region;  a third doped region of the first conductivity type contacting the well region and the semiconductor material; and  a fourth doped region of the first conductivity type contacting the well region and the semiconductor material, spaced apart from the third doped region, and between the first doped region and the second doped region.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The overvoltage protection device of claim 8, wherein the overvoltage protection device further comprises:  a fifth doped region of the first conductivity type within the semiconductor material and adjacent to the first doped region; and  a sixth doped region of the second conductivity type within the well region and adjacent to the second doped region.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The overvoltage protection device of claim 9, wherein the concentration of impurity material of the well region and the semiconductor material is lower than the concentration of impurity material of the first doped region, the second doped region, the third doped region, the fourth doped region, the fifth doped region, and the sixth doped region.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The overvoltage protection device of claim 9, wherein the well region extends into the semiconductor material from the surface a first depth, the first doped region and the fifth doped region extend into the semiconductor material from the surface a second depth, the second doped region and the sixth doped region extend into the well region from the surface the second depth, and the third doped region and the fourth doped region extend into the well region and the semiconductor material from the surface the second depth.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The overvoltage protection device of claim 11, wherein the second depth is less than the first depth.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The overvoltage protection device of claim 9, wherein the first doped region and the fifth doped region are abut to each other and the second doped region and the sixth doped region are abut to each other.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The overvoltage protection device of claim 9, wherein the third doped region and the fourth doped region are spaced apart from the first doped region and the second doped region.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. The overvoltage protection device of claim 9, wherein the first doped region extends into a spacing between the third doped region and the fourth doped region.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. A method for increasing a shunt current of an overvoltage protection device, comprising the steps of:  generating a first current and a second current in response to a voltage;  generating a third current in response to the first current and the second current;  combining the first current and the third current to generate a combined current; and  using the combined current to increase the shunt current by increasing a bias current of a transistor of the overvoltage protection device with the combined current.</claim-text>
+    </claim>
+    <claim num="17">
+      <claim-text>17. The method of claim 16, further including the steps of:  generating a fourth current in response to the first current and the second current; and  combining the fourth current with the combined current to further increase the shunt current.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

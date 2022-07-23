@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061234A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061234</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061234</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference is-representative="YES" family-id="23031528" extended-family-id="42084432">
+      <document-id>
+        <country>US</country>
+        <doc-number>09270492</doc-number>
+        <kind>A</kind>
+        <date>19990315</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1999US-09270492</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>43131846</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>27049299</doc-number>
+        <kind>A</kind>
+        <date>19990315</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1999US-09270492</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06F   1/16        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>16</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H05K   5/00        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>5</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>361679410</text>
+        <class>361</class>
+        <subclass>679410</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>361679580</text>
+        <class>361</class>
+        <subclass>679580</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>439638000</text>
+        <class>439</class>
+        <subclass>638000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>G06F-001/16P6</text>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>001</main-group>
+        <subgroup>16</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>H05K-005/00B2</text>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>005</main-group>
+        <subgroup>00</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G06F-001/1632</classification-symbol>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>1632</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-005/0013</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>5</main-group>
+        <subgroup>0013</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>20</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>7</number-of-drawing-sheets>
+      <number-of-figures>8</number-of-figures>
+      <image-key data-format="questel">US6061234</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Secured snap-on cover for a computer system docking station</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>CASTNER BRYAN G</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4672510</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4672510</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>BOYLE DENNIS J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5323291</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5323291</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>HERRON MATT, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5347425</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5347425</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>TETSUYA OHTANI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5446618</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5446618</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>FUKUSHIMA AKIRA, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5450271</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5450271</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>MITCHAM LARRY D, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5477415</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5477415</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>KATOH KATSUTOSHI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5526226</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5526226</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>NOGUCHI HIROYUKI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5535093</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5535093</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>YOSHIHARU UCHIYAMA, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5557562</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5557562</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>CAVELLO CHRISTOPHER, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5568359</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5568359</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="11">
+          <text>LIN TIEN-CHANG</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5580182</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5580182</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="12">
+          <text>HARRISON ROBERT C, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5619398</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5619398</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="13">
+          <text>MESFIN TEODROS, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5687061</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5687061</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="14">
+          <text>PAULSEL JASON Q, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5694292</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5694292</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="15">
+          <text>CAVELLO CHRISTOPHER</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5699226</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5699226</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="16">
+          <text>MORRISON TIMOTHY J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5737185</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5737185</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="17">
+          <text>SHIMIZU HISAO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5737541</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5737541</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="18">
+          <text>RUCH MARK H, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5764481</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5764481</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="19">
+          <text>CHENG CHUN-CHE</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5768101</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5768101</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="20">
+          <text>OOKA SATOSHI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5784253</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5784253</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="21">
+          <text>LEE CHEON-YEOL</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5790375</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5790375</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="22">
+          <text>O'CONNOR CLINT H</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5812356</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5812356</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="23">
+          <text>DOSS JEFFREY, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5838539</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5838539</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="24">
+          <text>HSU SHIH-CHUNG, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5864294</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5864294</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="25">
+          <text>MAEDA KAZUHIKO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5870283</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5870283</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="26">
+          <text>KARL REX A, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5921697</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5921697</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="27">
+          <text>LAN CHUAN-CHI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5924878</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5924878</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="28">
+          <text>RUCH MARK H, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5933321</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5933321</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="29">
+          <text>RUCH MARK H, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5933322</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5933322</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="30">
+          <text>NINOMIYA RYOJI</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5948074</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5948074</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="31">
+          <text>DOHI HIDEMI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5959835</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5959835</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="32">
+          <text>FUNAI ELECTRIC CO</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H0794876</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP07094876</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="33">
+          <text>TOSHIBA CORP</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H07271473</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP07271473</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="34">
+          <text>IBM</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H09269848</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP09269848</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="35">
+          <document-id>
+            <country>US</country>
+            <doc-number>4672510</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4672510</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="36">
+          <document-id>
+            <country>US</country>
+            <doc-number>5323291</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5323291</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="37">
+          <document-id>
+            <country>US</country>
+            <doc-number>5347425</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5347425</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="38">
+          <document-id>
+            <country>US</country>
+            <doc-number>5446618</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5446618</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="39">
+          <document-id>
+            <country>US</country>
+            <doc-number>5450271</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5450271</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="40">
+          <document-id>
+            <country>US</country>
+            <doc-number>5477415</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5477415</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="41">
+          <document-id>
+            <country>US</country>
+            <doc-number>5526226</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5526226</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="42">
+          <document-id>
+            <country>US</country>
+            <doc-number>5535093</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5535093</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="43">
+          <document-id>
+            <country>US</country>
+            <doc-number>5557562</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5557562</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="44">
+          <document-id>
+            <country>US</country>
+            <doc-number>5568359</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5568359</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="45">
+          <document-id>
+            <country>US</country>
+            <doc-number>5580182</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5580182</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="46">
+          <document-id>
+            <country>US</country>
+            <doc-number>5619398</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5619398</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="47">
+          <document-id>
+            <country>US</country>
+            <doc-number>5687061</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5687061</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="48">
+          <document-id>
+            <country>US</country>
+            <doc-number>5694292</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5694292</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="49">
+          <document-id>
+            <country>US</country>
+            <doc-number>5699226</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5699226</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="50">
+          <document-id>
+            <country>US</country>
+            <doc-number>5737185</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5737185</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="51">
+          <document-id>
+            <country>US</country>
+            <doc-number>5737541</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5737541</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="52">
+          <document-id>
+            <country>US</country>
+            <doc-number>5764481</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5764481</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="53">
+          <document-id>
+            <country>US</country>
+            <doc-number>5768101</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5768101</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="54">
+          <document-id>
+            <country>US</country>
+            <doc-number>5784253</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5784253</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="55">
+          <document-id>
+            <country>US</country>
+            <doc-number>5790375</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5790375</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="56">
+          <document-id>
+            <country>US</country>
+            <doc-number>5812356</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5812356</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="57">
+          <document-id>
+            <country>US</country>
+            <doc-number>5838539</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5838539</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="58">
+          <document-id>
+            <country>US</country>
+            <doc-number>5864294</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5864294</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="59">
+          <document-id>
+            <country>US</country>
+            <doc-number>5870283</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5870283</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="60">
+          <document-id>
+            <country>US</country>
+            <doc-number>5921697</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5921697</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="61">
+          <document-id>
+            <country>US</country>
+            <doc-number>5924878</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5924878</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="62">
+          <document-id>
+            <country>US</country>
+            <doc-number>5933321</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5933321</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="63">
+          <document-id>
+            <country>US</country>
+            <doc-number>5933322</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5933322</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="64">
+          <document-id>
+            <country>US</country>
+            <doc-number>5948074</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5948074</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="65">
+          <document-id>
+            <country>US</country>
+            <doc-number>5959835</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5959835</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="66">
+          <document-id>
+            <country>JP</country>
+            <doc-number>7-94876</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP07094876</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="67">
+          <document-id>
+            <country>JP</country>
+            <doc-number>7-271473</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP07271473</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="68">
+          <document-id>
+            <country>JP</country>
+            <doc-number>9-269848</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP09269848</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Dell U.S.A., L.P.</orgname>
+            <address>
+              <address-1>Round Rock, TX, US</address-1>
+              <city>Round Rock</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>DELL USA</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Broder, Damon</name>
+            <address>
+              <address-1>Austin, TX, US</address-1>
+              <city>Austin</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>Mullen, Cassius J.</name>
+            <address>
+              <address-1>Round Rock, TX, US</address-1>
+              <city>Round Rock</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook lang="en">
+            <name>West, Jefferson Blake</name>
+            <address>
+              <address-1>Austin, TX, US</address-1>
+              <city>Austin</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Haynes &amp; Boone, L.L.P.</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Picard, Leo P.</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A docking station for a computer system includes a tray having a support surface for supporting the computer system, and an undersurface opposite the support surface.
+      <br/>
+      The tray includes a plurality of openings formed therein connecting the support surface and the undersurface.
+      <br/>
+      A housing cover includes a security device extending therefrom for engagement with the computer system.
+      <br/>
+      A housing cover is mounted on the support surface and includes a plurality of snap tabs and a receiver extending through the openings and terminating adjacent the undersurface.
+      <br/>
+      A latching device is mounted adjacent the undersurface.
+      <br/>
+      A protrusion member is adjacent the undersurface and is connected for movement with the latching device into and out of engagement with the receiver.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND</h1>
+    </p>
+    <p num="2">The disclosures herein relate generally to computers and more particularly to a method and apparatus for providing security for a docking station and a computer latched to the docking station.</p>
+    <p num="3">Port replicators are docking devices which attach to the back of a portable notebook computer via a single docking connector. Replicators have several other connectors which remain connected to various cables, e.g. printer, power, video, etc. In this manner, a notebook computer can pass standard I/O signals to peripheral devices via the port replicator without the need to make all of the cable connections directly to the notebook computer. Thus, the user of the notebook computer can quickly engage and disengage the notebook computer from the replicator. Docking stations are docking devices similar to port replicators but offer more features and functions and are therefore physically larger in size than port replicators.</p>
+    <p num="4">There are various methods of interconnecting notebook computers with port replicators and docking stations. Some models merely plug in. Others include mechanical assist devices, i.e. ejectors, to urge the interconnected plugs apart to overcome the gripping effect of the male-female connection. Still others include interlatching devices for security purposes thus providing both an electrical-mechanical plug connection and a security latching device.</p>
+    <p num="5">Because of the small size of notebook computers, the port replicators and the docking station, and the ease of engaging and disengaging the notebook computers, theft of each of these devices is not only possible, but quite common. To avoid such theft, several lock-type security measures have been devised. These devices typically include a padlock and a lock cable which tether the computer, or the computer and the associated docking device, to a table or to the user's desk.</p>
+    <p num="6">Some current docking stations are formed of two main assemblies; a housing and a tray. The housing has a cover secured to the tray by four screws engaged with the underside of the tray. As part of a security solution to prevent access to the eject mechanism, the housing assembly attaches to the top of the tray with a thumbscrew which is installed from the bottom of the tray. While this arrangement guards access to the eject mechanism when the docking station is secured to a desktop, the thumbscrew adds a step to the manufacturing process because the entire device must be inverted 180° to install the thumbscrew. This also adds cost and complexity to the product and its manufacturability.</p>
+    <p num="7">U.S. Pat. No. 5,323,291 discloses a fully functional portable computer with a central processing unit, hard disk drive data storage, liquid crystal display, a docking station having at least a floppy disk drive, video random access memory and video controller. A motorized docking/undocking mechanism automatically docks and undocks the portable computer and docking station after the user has inserted the portable computer into the docking station or after the user has requested that the units be undocked. Numerous mechanical and electrical safeguards prevent the docking and undocking of the units if such docking or undocking is likely to lead to the loss of data or damage to the components of either unit. The internal mechanical construction of the docking station allows the user to place a large cathode ray tube display monitor directly atop the docking station without hindering the docking or undocking of the portable computer.</p>
+    <p num="8">U.S. Pat. No. 5,347,425 discloses a housing for a docking station for use with a portable computer. The docking station provides the portable computer with increased display and data storage capabilities. In use, a portable computer is inserted into the docking slot of the docking station. Additionally, a large cathode ray tube display is placed on top of the housing for the docking station in a typical user scenario. As docking and undocking must not be hindered by the presence of a large display on top of the housing for the docking station, the housing is provided with internally mounted cross beams that distribute the weight of the display around a computer supporting skeleton and through a set of support columns into the surface the housing for the docking station to rest upon. This reinforcing cross beams and columns structure allows the housing for the docking station to support without deformation relatively large displays without being excessive in weight of size.</p>
+    <p num="9">In U.S. Pat. No. 5,764,481, a computer docking station has a disk drive module incorporated therein which is capable of operatively receiving a disk drive. The disk drive module is also capable of being operatively installed within a desktop computer or other enclosure having a half-height bay therein. Security features of the docking station include preventing access by unauthorized persons to the disk drive, and preventing ejection of the disk drive from the disk drive module. Additionally, multiple disk drive modules may be cooperatively linked in the docking station so that the security features relating to each of the disk drive modules may be simultaneously actuated.</p>
+    <p num="10">U.S. Pat. No. 5,812,356 discloses a method and apparatus for electromechanically locking a docking station to a computer using an electromagnetic attractive force. The docking station includes a latching mechanism with a ferromagnetic handle, and an electromagnet proximately located to the latching mechanism. The latch mechanically secures the docking station to the PC. The electromagnet is positioned such that, when electrically energized, the electromagnetic field produced thereby attracts the handle with sufficient force to prevent the handle from being used to disconnect the PC from the docking station. Alternatively, the electromagnet can be located in the docking station so that it is near a ferromagnetic plate in the PC when the PC is docked. The electromagnet is positioned such that, when electrically energized, the electromagnetic field produced thereby attracts the plate with sufficient force so as to physically lock the plate to the electromagnet, thereby locking the PC to the docking station.</p>
+    <p num="11">Therefore, what is needed is a docking device which avoids limitations associated with prior devices and which includes a top down assembly scheme for such docking stations, dispenses with the 180° inverted step for installing the thumbscrew, and also avoids the need for the four screws used to secure the housing cover to the tray.</p>
+    <p num="12">
+      <h1>SUMMARY</h1>
+    </p>
+    <p num="13">One embodiment, accordingly, provides security for a docking station and for a computer latched to the docking station. To this end, a docking station includes a tray having a surface for supporting a computer and an opening formed through the surface. A housing cover is mounted on the surface of the tray. The housing includes a receiver extending through the opening. A latching device mounted in the tray, includes a protrusion which is movable for engaging and releasing the receiver.</p>
+    <p num="14">A principal advantage of this embodiment is that it eliminates parts, simplifies assembly, provides a cost savings and improves the design for manufacture aspects of top down assembly.</p>
+    <p num="15">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS FIGURES</h1>
+    </p>
+    <p num="16">FIG. 1 is a diagrammatic view illustrating an embodiment of a computer system.</p>
+    <p num="17">FIG. 2 is an isometric view illustrating an embodiment of a docking station.</p>
+    <p num="18">FIG. 3 is an isometric partial view illustrating an embodiment of a support surface of the docking station.</p>
+    <p num="19">FIG. 4 is an inverted isometric view illustrating an embodiment of an undersurface of the docking station.</p>
+    <p num="20">FIG. 5 is a partial plan view illustrating an embodiment of the support surface of the docking station including a handle and security device in an eject position.</p>
+    <p num="21">FIG. 6 is a partial plan view illustrating an embodiment of the support surface of the docking station including the handle and security device in an unlock position.</p>
+    <p num="22">FIG. 7 is a partial plan view illustrating an embodiment of the support surface of the docking station including the handle and security device in a lock position.</p>
+    <p num="23">FIG. 8 is an isometric view illustrating an embodiment of the housing cover.</p>
+    <p num="24">
+      <h1>DETAILED DESCRIPTION</h1>
+    </p>
+    <p num="25">In one embodiment, computer system 10, FIG. 1, includes a microprocessor 12, which is connected to a bus 14. Bus 14 serves as a connection between microprocessor 12 and other components of computer system 10. An input device 16 is coupled to microprocessor 12 to provide input to microprocessor 12. Examples of input devices include keyboards, touchscreens, and pointing devices such as mouses, trackballs and trackpads. Programs and data are stored on a mass storage device 18, which is coupled to microprocessor 12. Mass storage devices include such devices as hard disks, optical disks, magneto-optical drives, floppy drives and the like. Computer system 10 further includes a display 20, which is coupled to microprocessor 10 by a video controller 22. A system memory 24 is coupled to microprocessors 12 to provide the microprocessor with fast storage to facilitate execution of computer programs by microprocessor 12. It should be understood that other busses and intermediate circuits can be deployed between the components described above and microprocessor 12 to facilitate interconnection between the components and the microprocessor.</p>
+    <p num="26">A docking station 26, FIG. 2, includes a surface 28 for supporting a computer 30 which includes the computer system of FIG. 1. A plurality of openings 32a, 32b, 32c, 32d, 34a, 34b, FIG. 3 are formed through the surface 28. An undersurface 36, FIG. 4, is opposite the support surface 28. The openings 32a-d, 34a-b, FIGS. 3 and 4, extend from the support surface 28 to the undersurface 36, and are provided for receiving a plurality of tabs and a plurality of receivers to extend therethrough as will be discussed below.</p>
+    <p num="27">Attached to the underside 36, FIG. 4, is a latching device 38 including a handle 40 pivotally mounted at a connection 42 on the undersurface 36. An arm 44 which interconnects the handle 40 and the pivotal connection 42, is connected at a coupling 46 to move a latch slide 48 which is guided by the engagement of a plurality of slots 50 formed therein and a plurality of coupled slot guides 52. A pair of protrusions 54 formed on the latch slide 48, move therewith adjacent the undersurface 36, when the slide 48 is moved in response to movement of the handle 40. The protrusions 54, FIGS. 3 and 4, are also adjacent the receiver openings 34a-b. The handle 40 is movable between an eject position E, FIG. 5, and unlock position U, FIG. 6, and a lock position L, FIG. 7.</p>
+    <p num="28">A housing cover 56 is mounted on the support surface, 28, FIG. 2. A printed circuit board (not shown) and a security device 58 are mounted in the housing cover 56. The security device 58 is connected to the latching device 38 and includes a hook mechanism 60 for engagement with a rear surface 62 of the computer 30, such as a portable computer, to secure the portable computer 30 to the docking station 26. The hook 60 moves in response to the handle 40 to a correlated eject position E', FIG. 5, an unlock position U', FIG. 6, and a lock position L', FIG. 7. A second hook 62, FIG. 2, also moves with the handle 40 to engage an underside 64 of the computer 30.</p>
+    <p num="29">The housing cover 56, FIG. 8, includes a plurality of tabs 64a, 64b, 64c, 64d, extending therefrom for engagement with the tab openings 32a-d, formed in the support surface 28, FIG. 3. A pair of the tabs 64a-b, FIG. 8, are positioned on one side 66 of the housing cover 56 and another pair of the tabs 64c-d, are positioned on an opposite side 68 of the housing cover 56. The tabs 64a-d, are connected to the housing cover 56 by flexible arms 70 so that the tabs 64a-d can be flexed for snapping into and out of engagement with the tab openings 32a-d, support surface 28 as stated above. A hook 72 on each tab 64a-d, is provided to engage the undersurface 36.</p>
+    <p num="30">The housing cover 56, FIG. 8, also includes a plurality of receivers 74a, 74b, for extending from the housing cover 56 adjacent the tabs 64c-d, respectively, and through the receiver openings 34a-b, respectively, FIG. 3. Each receiver 74a-b, FIG. 8, extends to expose a slot 76 formed therein and positioned adjacent the undersurface 36, FIG. 4, for engaging the protrusions 54 in response to movement of the handle 40 of the latching device 38 to the lock position L, FIG. 7. The receivers 74a-b, FIG. 8, are attached to the housing cover 56 by a plurality of reinforcement ribs 80.</p>
+    <p num="31">In operation, the computer is seated on the docking station with the handle in the unlock position. The handle is moved to the lock position and the protrusions are moved to engage the slots of the receivers. When the computer is to be removed from the docking station, the handle is moved to the eject position and then returned to the unlock position. As a result, the protrusions are disengaged from the slots in the receivers.</p>
+    <p num="32">During manufacture, the housing cover is secured to the support surface by aligning the tabs and the receivers with their respective openings. The tabs snap into the tab openings and snap into engagement with the undersurface. Removal of the housing cover for maintenance is easily accomplished due to the flexibility of the tabs and the housing cover.</p>
+    <p num="33">As a result, one embodiment provides a docking station including a tray having a surface for supporting a computer and an opening formed through the surface. A housing cover is mounted on the surface of the tray and includes a receiver extending through the opening. A latching device is mounted within the tray and includes a protrusion movable for engaging and releasing the receiver.</p>
+    <p num="34">Another embodiment provides a docking station for a computer system having a tray with a support surface for supporting a portable computer and an undersurface opposite the support surface. The tray includes a plurality of openings formed therein connecting the support surface and the undersurface. A housing cover is mounted on the support surface and includes a plurality of snap tabs and a receiver extending through the openings. A latching device is mounted adjacent the undersurface and includes a protrusion movable into and out of engagement with the receiver.</p>
+    <p num="35">Another embodiment provides a computer system secured to a docking tray. The tray has a support surface for supporting the computer system and an undersurface, opposite the support surface. The tray includes a plurality of openings formed therein connecting the support surface and the undersurface. A housing cover includes a security device extending therefrom for engagement with the computer system. The housing cover is mounted on the support surface. A plurality of snap tabs and a receiver extend from the cover and through the openings to terminate adjacent the undersurface. A latching device is mounted adjacent the undersurface. A protrusion member adjacent the undersurface is connected for movement with the latching device into and out of engagement with the receiver.</p>
+    <p num="36">A further embodiment provides a method of securing a computer system on a docking station by mounting a housing cover on a support surface of the docking station to cover a printed circuit board and a security device. A receiver on the housing cover extends through an opening formed in the support surface and terminates adjacent an opposite side of the support surface. A latch is mounted on the docking station coupled to the security device, and includes a protrusion movable into engagement with the receiver for securing the housing cover to the support surface.</p>
+    <p num="37">As it can be seen, the principal advantages of these embodiments are that the docking device utilizes a one-piece tray with an integrated housing for the main PCB and eject mechanism. The housing has a cover which snaps over the PCB and the eject mechanism from the top via four snaps. Two snaps are on the front of the cover and two are on the back. For security, the cover includes two structural loops or receivers placed along the front edge of the cover adjacent two of the snaps. When the latching mechanism is moved to the locked position, two protrusions on the latching mechanism securely engage the loops and secure the cover to the tray thus protecting the PCB and the eject mechanism in the housing. As a result, there is no requirement to rotate the unit 180° during installation of the previously required thumbscrew. In addition, there is no requirement for the four screws and a plastic bottom housing part previously used. This results in less parts, a cost savings, and greatly improves the design for manufacture aspects of top down assembly.</p>
+    <p num="38">Although illustrative embodiments have been shown and described, a wide range of modification, change and substitution is contemplated in the foregoing disclosure and in some instances, some features of the embodiments may be employed without the corresponding use of other features. Accordingly, it is appropriate that the appended claims be construed broadly and in a manner consistent with the scope of the embodiments disclosed herein.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A docking station comprising:  a tray having a surface for supporting a computer and an opening formed through the surface;  a housing cover mounted on the surface of the tray, the housing cover including a receiver extending through the opening; and  a latching device mounted within the tray including a protrusion movable for engaging and releasing the receiver.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The docking station as defined in claim 1 further comprising a plurality of tabs extending from the housing cover.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The docking station as defined in claim 2 further comprising a plurality of slots formed in the tray for receiving the tabs.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The docking station as defined in claim 3 wherein the receiver includes a slot formed therein for engagement with the protrusion.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The docking station as defined in claim 4 wherein the receiver is adjacent one of the tabs.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The docking station as defined in claim 4 wherein the receiver includes reinforcement members connecting the receiver to the housing cover.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The docking station as defined in claim 4, further comprising an undersurface opposite the support surface.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The docking station as defined in claim 7 wherein the slot of the receiver is adjacent the undersurface.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The docking station as defined in claim 8 wherein the protrusion moves adjacent the undersurface.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. A docking station for a computer system comprising:  a tray having a support surface for supporting a portable computer and an undersurface opposite the support surface, the tray including plurality of openings formed therein connecting the support surface and the undersurface;  a housing cover mounted on the support surface and including a plurality of snap tabs and a pair of receivers extending through the openings; and  a latching device mounted adjacent the undersurface and including a pair of protrusions movable into and out of engagement with the receivers.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The docking station as defined in claim 10 wherein the snap tabs engage the undersurface.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The docking station as defined in claim 10 wherein the housing cover has multiple snap tabs on one side thereof and multiple snap tabs on another side thereof, opposite the one side.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The docking station as defined in claim 12 wherein the pair of receivers extend from the one side of the housing cover.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The docking station as defined in claim 13 wherein the pair of receivers are adjacent the multiple snap tabs on the one side of the housing cover.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. The docking station as defined in claim 10 wherein the pair of receivers each include a slot formed therein for engagement with a respective one of the protrusions.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. The docking station as defined in claim 15 wherein each slot is positioned adjacent the undersurface.</claim-text>
+    </claim>
+    <claim num="17">
+      <claim-text>17. A computer system secured to a docking station comprising:  a portable computer including the computer system;  a tray having a support surface for supporting the portable computer, and an undersurface opposite the support surface, the tray including a plurality of openings formed therein connecting the support surface and the undersurface;  a housing cover including a security device extending therefrom for engagement with the portable computer, the housing cover being mounted on the support surface and including a plurality of snap tabs and a receiver extending through the openings and terminating adjacent the undersurface;  a latching device mounted adjacent the undersurface; and  a protrusion member adjacent the undersurface and connected for movement with the latching device into and out of engagement with the receiver.</claim-text>
+    </claim>
+    <claim num="18">
+      <claim-text>18. The computer system as defined in claim 17 wherein the receiver includes a slot formed therein for engagement with the protrusion.</claim-text>
+    </claim>
+    <claim num="19">
+      <claim-text>19. The computer system as defined in claim 17 wherein the snap tabs include a hook for engagement with the undersurface.</claim-text>
+    </claim>
+    <claim num="20">
+      <claim-text>20. A method of securing a computer system on a docking station comprising the steps of:  mounting a housing cover on a support surface of the docking station to cover a printed circuit board and a security device, a receiver on the housing cover extending through an opening formed in the support surface, and terminating adjacent an opposite side of the support surface;  mounting a latching device on the docking station, the latching device coupled to the security device and including a protrusion movable adjacent the opposite side; and  moving the latching device to extend the protrusion into engagement with the receiver for securing the housing cover to the support surface.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

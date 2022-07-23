@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06060974A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06060974</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6060974</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference is-representative="YES" family-id="22587716" extended-family-id="42084135">
+      <document-id>
+        <country>US</country>
+        <doc-number>09162929</doc-number>
+        <kind>A</kind>
+        <date>19980929</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09162929</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>43131404</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>16292998</doc-number>
+        <kind>A</kind>
+        <date>19980929</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1998US-09162929</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01F  27/29        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>F</subclass>
+        <main-group>27</main-group>
+        <subgroup>29</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>336192000</text>
+        <class>336</class>
+        <subclass>192000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>439082000</text>
+        <class>439</class>
+        <subclass>082000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>H01F-027/29B</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>F</subclass>
+        <main-group>027</main-group>
+        <subgroup>29</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01F-027/292</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>F</subclass>
+        <main-group>27</main-group>
+        <subgroup>292</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>3</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>10</number-of-drawing-sheets>
+      <number-of-figures>17</number-of-figures>
+      <image-key data-format="questel">US6060974</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Header plate for a low profile surface mount transformer</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>GLOWACKI JOHN J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>2922932</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US2922932</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>HELBERG HENRY J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>3185948</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US3185948</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>STRONG III WILLIAM J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4689023</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4689023</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>BILLINGS ROBERT L, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4745388</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4745388</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>SMITH DAVID A</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5175525</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5175525</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>RAGGI EMIL J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5179365</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5179365</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>SMEENGE ROBERT E, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5748064</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5748064</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="8">
+          <document-id>
+            <country>US</country>
+            <doc-number>2922932</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US2922932</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="9">
+          <document-id>
+            <country>US</country>
+            <doc-number>3185948</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US3185948</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="10">
+          <document-id>
+            <country>US</country>
+            <doc-number>4689023</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4689023</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="11">
+          <document-id>
+            <country>US</country>
+            <doc-number>4745388</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4745388</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="12">
+          <document-id>
+            <country>US</country>
+            <doc-number>5175525</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5175525</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="13">
+          <document-id>
+            <country>US</country>
+            <doc-number>5179365</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5179365</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="14">
+          <document-id>
+            <country>US</country>
+            <doc-number>5748064</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5748064</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>Coreless Printed Circuit Board (PCB) Transformers with Multiple Secondary Windings for Complementary Gate Drive Circuits; S.C. Tang, Ron Hui, Henry Chung; May 1999; IEEE Transactions on Power Electronics.</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Compag Computer Corporation</orgname>
+            <address>
+              <address-1>Houston, TX, US</address-1>
+              <city>Houston</city>
+              <state>TX</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>COMPAQ COMPUTER</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Schroter, Bernhard</name>
+            <address>
+              <address-1>Upton, MA, US</address-1>
+              <city>Upton</city>
+              <state>MA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>Ng, William</name>
+            <address>
+              <address-1>Leominster, MA, US</address-1>
+              <city>Leominster</city>
+              <state>MA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <name>Katz, Paul N.</name>
+          </addressbook>
+        </agent>
+        <agent sequence="2" rep-type="agent">
+          <addressbook lang="en">
+            <name>Chichester, Ronald L.Frohwitter</name>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Donovan, Lincoln</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A transformer is provided that consists of a primary winding, a secondary winding and a magnetic core.
+      <br/>
+      The primary winding is wound directly around the magnetic core, thereby removing the need for a bobbin.
+      <br/>
+      By removing the need for the bobbin, the transformer has a large window utilization factor, and associated low profile.
+      <br/>
+      As a result, the transformer has a high power to form factor ratio.
+      <br/>
+      A method for making the transformer includes the steps of joining two halves of the core before winding the primary winding.
+      <br/>
+      Because the half-cores are joined prior to the wrapping of the primary winding, the core provides bobbin functionality.
+      <br/>
+      In addition, a header plate is provided for coupling a plurality of leads of a transformer to sources on an integrated circuit board, where the transformer consists of a magnetic core, a primary winding and a secondary winding.
+      <br/>
+      The header plate engages the magnetic core, providing a termination path for the wire of the secondary winding.
+      <br/>
+      In addition, the header plate assists in providing electrical insulation for the core while providing a mechanism for ensuring that electrical safety constraints between the primary winding and the core are satisfied.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>FIELD OF THE INVENTION</h1>
+    </p>
+    <p num="2">The present invention relates generally to the field of power supplies and more particularly to a low profile transformer and method for manufacturing the same.</p>
+    <p num="3">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="4">As it is known in the art, transformers are typically used for providing current and voltage conversion. A transformer may be used to decrease or "step-down" a voltage or alternatively the transformer may be used to increase, or "step-up" a voltage. One use for transformers is in computer power supply design to step down voltages to levels that may be used by components on an integrated circuit board.</p>
+    <p num="5">Standard transformers that have been used in integrated circuit design have included a magnetic core, a primary winding, a secondary winding and a bobbin. During manufacture, both windings are wound around the bobbin and then placed in the magnetic core. Once the winding and bobbin combination are placed in the core, the leads of the winding may be passed through the bobbin to terminators on the board. Thus, the bobbin serves a dual purpose; to support the windings and also to provide a pathway for wires out of the transformer to the termination on the circuit board.</p>
+    <p num="6">However, one problem with the standard transformer design is that it has a relatively large profile with respect to the other components on the circuit board. As technological advances have provided more compact and complex integrated circuitry, there is a need to provide computer products having increased performance in a decreased size. Thus, there is a need to pack circuitry more closely together.</p>
+    <p num="7">It is therefore desirable to maximize the use of space in a transformer having a very small profile. To obtain maximum performance for the transformer, a goal is to fit as much copper into the interior space of the transformer as possible. This is because the more copper that is provided in the transformer, the thicker the conductor and the lower the associated losses. A window utilization factor provides a measurement of the amount of the transformer that is used to pack copper and consequently gives an indication as to the performance capabilities of the transformer. The window utilization factor is a ratio of the area of copper within the transformer to the window space of the transformer. Ideally, a ratio of 1, indicating that the window is 100% utilized with copper would be desirable.</p>
+    <p num="8">However, because the standard transformer includes a bobbin, the window utilization factor of the standard transformer is less than 1. In fact, because the bobbins of the transformers are subject to minimum thickness requirements, as the profile of the transformer is reduced, the bobbin utilizes a greater percentage of the window area. As a result, the window utilization factor is further reduced. Thus, it is difficult to provide a high performance low profile standard transformer because the amount of copper that is capable of being placed in the transformer is limited by the amount of space required by the bobbin.</p>
+    <p num="9">One transformer design that provides high power with a low profile is an integrated magnetics transformer. In integrated magnetics transformers, one or more winding are etched into a multi-layered circuit board while the core enclosing the board may or may not include the other windings. Transformer terminations are provided via through holes on the integrated circuit board. Although the integrated magnetic transformers may be used to provide low profile power conversion, it is often difficult to obtain the desired amount of copper cross-section on the circuit board, therefore making it difficult to obtain the desired power conversion capabilities. In addition, to decrease the size of the circuit board, increasingly complex and expensive technologies must be used, making this solution to the problem of providing a low profile transformer undesirable.</p>
+    <p num="10">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="11">A header plate is provided for coupling a plurality of leads of a transformer to connections on an integrated circuit board, where the transformer consists of a magnetic core, a primary winding and a secondary winding. The header plate engages the magnetic core, providing a termination path for the wire of the primary winding, secondary winding or both. In addition, the header plate assists in providing electrical insulation for the core while providing a mechanism for ensuring that electrical safety spacing constraints between the primary winding and the core are satisfied.</p>
+    <p num="12">According to one aspect of the invention, a device for coupling at least one lead of a transformer to a circuit board includes a main body having a front face, a rear face and an aperture extending there through, at least one flange positioned on the rear face, the flange positioned to fixedly attach the device to the transformer, at least one sleeve positioned on the front positioned, with the at least one sleeve for accepting a corresponding at least one pin, and wherein a first end of the at least one pin is for coupling the at least one lead and a second end of the at least one pin is for coupling a board.</p>
+    <p num="13">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="14">Reference will be made to the attached Figures, where like numerals refer to like elements, and wherein:</p>
+    <p num="15">FIG. 1 is a cross section diagram of one embodiment of a transformer in accordance with the present invention;</p>
+    <p num="16">FIGS. 2A and 2B illustrate two views of one embodiment of a half-core that may be used to form the core of the transformer of FIG. 1;</p>
+    <p num="17">FIG. 3A illustrates one embodiment of a secondary winding that may be used in the transformer of FIG. 1;</p>
+    <p num="18">FIG. 3B illustrates a second embodiment of a secondary winding that may be used in the transformer of FIG. 1;</p>
+    <p num="19">FIG. 3C illustrates the mounting of the secondary winding of FIG. 3A on the half-core of FIG. 2;</p>
+    <p num="20">FIG. 4A illustrates one method of coupling the secondary windings of FIG. 3A to provide a two turn secondary winding in the transformer of FIG. 1;</p>
+    <p num="21">FIG. 4B illustrates a second method of coupling the secondary windings of FIG. 3A to provide a high power single turn secondary winding in the transformer of FIG. 1;</p>
+    <p num="22">FIG. 5A illustrates one method of feeding a primary winding into the transformer of FIG. 1;</p>
+    <p num="23">FIG. 5B illustrates a second method of feeding a primary winding into the transformer of FIG. 1 including a protective device;</p>
+    <p num="24">FIG. 6 illustrates the joining of two half-cores, such as those shown in FIGS. 2A and 2B, to form a core of the transformer of FIG. 1;</p>
+    <p num="25">FIGS. 7A and 7B provide two different views of a header plate which may be coupled to the transformer of FIG. 1;</p>
+    <p num="26">FIGS. 8A through 8C illustrate multiple views of the assembled transformer of FIG. 1 including the header plate illustrated in FIGS. 7A and 7B; and</p>
+    <p num="27">FIG. 9 is a flow diagram illustrating the steps used to provide an assembled transformer and header plate such as that shown in FIGS. 8A-8C.</p>
+    <p num="28">
+      <h1>DESCRIPTION OF ILLUSTRATIVE EMBODIMENTS</h1>
+    </p>
+    <p num="29">Referring now to FIG. 1, a cross sectional view of one embodiment of a high-power, low profile transformer 10 is shown to include a magnetic core 12 comprised of two half-cores 12a and 12b, a primary winding 16 and a secondary winding comprising two secondary winding halves 14a and 14b. As will be described in more detail below, the magnetic core 12 is used to provide bobbin functionality, thereby providing a low profile, bobbin-less transformer. In this description, the term bobbin-less will be used to describe a transformer that uses no non-conductive material for the purposes of supporting the primary winding.</p>
+    <p num="30">Throughout the specification, for purposes of clarity the term primary winding will be used to describe the winding 16, which is coupled to the terminations, while the term secondary winding will be used to describe copper disks 14a and 14b, which couple the transformer to an external circuit. Thus, this specification is describing a step-down transformer. It should be appreciated, however, that the transformer is also capable of performing step-up voltage conversion. When performing step-up voltage conversion, for purposes of terminology the primary winding would designate copper disks 14a and 14b, while the secondary winding would designate wire 16. Thus, which of the devices is the primary and which is the secondary winding is a function of how the external leads of the transformer are coupled. The present invention is not limited to any particular coupling arrangement of the external leads and thus should not be limited by the references to primary windings and secondary windings below.</p>
+    <p num="31">FIGS. 2A and 2B illustrate two views a half-core such as half-core 12a. Half-core 12b is identical in design to that of 12a and will therefore not be described in further detail. The half-core 12a is a unitary piece, preferably formed from ferrite. On each side of the half-core is a recess 23a and 23b. The recesses 23a and 23b are shaped to surround a secondary winding half when it is inserted in the half-core.</p>
+    <p num="32">The half-core 12a also includes a raised portion 22a. The raised portion 22a of the half-core 12a serves many purposes. One purpose of the raised portion 22a is to secure the secondary winding within the half-core. A second purpose of the raised portion 22a is to provide a contact point when the two raised portions of the two half-cores are joined. The third purpose of the raised portion 22a is to provide a structure around which the primary winding of the transformer may be wound once the two half-cores are connected.</p>
+    <p num="33">FIG. 2B illustrates a second view of the half-core 12a, taken from perspective of the line A in FIG. 2A. The top-down view of the half-core 12a illustrated in FIG. 2B illustrates that the recesses 23a and 23b are circular in shape and that the raised portion 22a is also circular in shape. In the illustrated embodiment, a circular shape is used because it corresponds with the shape of the secondary winding half. It should be understood that the present invention is not limited to any particular shape of the secondary winding; an oval or rectangular shape could alternatively be used and corresponding modifications would be made to the shapes of the recesses and raised portions of the half-core.</p>
+    <p num="34">In FIG. 2B, the top down view of the half-core 12a shows that the half-core tapers inward as it approaches the raised portion 22a. While tapering the half-core structure as illustrated helps to provide space for manipulating primary winding wire, as will be described in more detail below, it is not a requirement of the invention. A width W defines a width of a window of open space in the transformer when the two half-cores are connected. Points 24a and 24b are potential epoxy points, on which epoxy may be deposited to secure the secondary winding into the core.</p>
+    <p num="35">FIG. 3A illustrates one embodiment of a secondary winding half 14a that may be used in the transformer of the present invention. In one embodiment, the secondary winding half stamped to form a copper disk. The copper disk includes protuberances 11a and 11b which are used to couple the secondary winding of the transformer to logic on the integrated circuit board. As stated above, although the disk is shown to have a roughly circular shape, it may also be provided as an oval or a square provided that appropriate modifications are made to the corresponding half-core. A preferable shape is one that is maximized to obtain the most copper fill factor in a given area.</p>
+    <p num="36">A notch 15 is cut into only one of the secondary winding halves 14a. The notch 15 provides an access path 17 into the transformer for the primary winding. The notch may be of any particular shape or size and thus the present invention is not limited to any particular shape of the notch 15. To minimize leakages, it is preferable that the access path 17 provided by the notch 15 be closely matched in size to the cross-sectional area of the wire of the primary winding.</p>
+    <p num="37">FIG. 3B illustrates a second embodiment of a secondary winding half 14a1. The secondary winding half 14a1 differs from that of 14a due to the shape of the protuberances 11a1 and 11a2. In one embodiment, the protuberances 11a1 and 11a2 are asymmetrically centered in the window W of the half-core. As will be described in more detail with regard to FIGS. 4A and 4B, asymmetrically centering the protuberances 11a1 and 11a2, allows the secondary winding to be coupled to provide either a high power single turn arrangement or in a two turn arrangement.</p>
+    <p num="38">FIG. 3C illustrates how the secondary winding half 14a is mounted on the half-core 12a. Prior to mounting the secondary winding halves on their respective half-cores, each secondary winding half is covered with insulating tape, such as Kapton tape, part number 74-K104-0W70 provided by Furon Corporation of New Haven, Conn. An epoxy is then placed on points 24a and 24b, and the insulated secondary winding halves 14a and 14b are inserted into the associated half-core 12a and 12b, respectively. Suitable epoxies include, but are not limited to, Eccobond 2332-17, Eccobond 50248-F15 and Agomet F300, manufactured by W. R. Grace Corporation.</p>
+    <p num="39">For purposes of establishing terminology, the front face of the transformer is indicated by arrow 40 and includes that portion of the transformer where the notch 15 is included in the secondary winding half. The rear face of the transformer is indicated by arrow 30 and includes that portion of the transformer where the protuberances 11a and 11b of the secondary winding half exit the transformer.</p>
+    <p num="40">Referring now to FIGS. 4A and 4B, two embodiments of the transformer are shown, each having the secondary windings 14a and 14b coupled in a different arrangement. In FIG. 4A, the secondary windings 14a and 14b are coupled to provide two turns, with an input signal being received from connection 200 in secondary winding 14b1, winding around 14b1 and transferring to secondary winding 14a1 by connection 201, winding around secondary winding 14a1 and continuing out at connection 202. In FIG. 4B, the secondary winding protuberance 11a of both secondary windings 14a and 14b are both coupled to connection 200, while secondary winding protuberance 11b of both windings 14aand 14b are coupled to connection 202, thereby providing one high powered secondary winding.</p>
+    <p num="41">Referring now to FIGS. 5A and 5B, once the secondary winding halves 14a and 14b have been coupled to their respective half-cores, the primary winding may be input into the transformer. In one embodiment, the primary winding 16 is formed from wire having a first end 16a and a second end 16b. The primary winding wire may, for example, be formed from a triple insulated wire such as part number NELC150/44SPPFA-UL, manufactured by New Electric Wire, although suitable substitutes may alternatively be used. In one embodiment, the primary winding wire 16 may be fed directly through the hole 17 of notch 15 of the secondary winding, as illustrated in FIG. 5A. In a second embodiment, illustrated in FIG. 5B, a TEFLON™ (trademark for tetrafluoroethylene fluorocarbon polymers) tube 25 is inserted into the notch 15, and the primary winding wire 16 is next inserted through the tube 25. In this embodiment, the TEFLON™ tube 25 helps to protect the wire from being cut by the secondary winding half 12a.</p>
+    <p num="42">Referring now to FIG. 6, once the primary winding 16 has been inserted into the transformer half-core 12a, the second half-core 12b is coupled to the first half-core 12a. An epoxy 34 is placed on raised portion 22a of the half-core 12a (or alternatively raised portion 22b of half-core 12b or both). Epoxy may also be placed on ferrite half core portions 13a and 13b. A suitable epoxy may include, but are not limited to, Eccobond 2332-17, Eccobond 50248-F15 and Agomet F300 described above. The two half-cores are pressed together and baked to form a unitary core piece 12. The joined regions 22a and 22b in the core 12 together form a bobbin-like structure around which the primary winding may be wound.</p>
+    <p num="43">Thus, the transformer 12 is a bobbin-less transformer. That is, no non-conductive material, whether it be a plastic bobbin or an integrated circuit card, is introduced to the transformer for the purposes of supporting the windings. Rather, the entire transformer consists of only those elements necessary to achieve the magnetic characteristics of the transformer; the primary winding, the secondary winding and the core. With such an arrangement, a high power, low profile transformer having a high window utilization factor provided.</p>
+    <p num="44">Because the transformer 10 of the present invention is a bobbin-less transformer, there is no additional mechanism in the transformer for forwarding the leads 16a and 16b of the primary winding to terminators on the integrated circuit board. According to one embodiment of the invention, a header plate 50 is used to provide a pathway for the leads of the primary winding to the termination points. The header plate also serves the purpose of ensuring that electrical spacing constraints between the primary winding and the core are met and additionally helps to secure insulation material around the transformer. The features of the header plate will be described with regard to FIGS. 7A-7B.</p>
+    <p num="45">Referring now to FIGS. 7A and 7B, two views are shown of a header plate 50 which may be coupled to the transformer to provide a termination path for the leads 16a and 16b of the primary winding. The header plate 50 is a unitary piece made of a flexible, inexpensive material such as plastic. The header plate includes two sleeves 56 and 58, through which pins 62 and 64 may be inserted. An aperture 52 is provided in the header plate to accommodate passage of the ends 16a and 16b of the primary winding.</p>
+    <p num="46">As shown in FIG. 7B, the header plate additionally includes flanges 55a and 55b. The flanges 55a and 55b are spaced a width W apart, where W corresponds to the window width W described in FIG. 2B. The header plate is inserted onto the front face 40 of the transformer 10 by bending the header plate 50 and snapping it into place. The flanges 55a and 55b grasp the interior wall of the transformer to secure the header plate 50.</p>
+    <p num="47">Once the header plate is attached to the transformer front face 40, the ends 16a and 16b of the primary winding may be coupled to the ends 62a and 64a of pins 62 and 64, respectively. To do this, the electrical insulation is stripped off of the ends 16a and 16b, and the ends are soldered onto pin ends 62a and 64a. Thus, the header plate 50 provides a termination path for the primary windings.</p>
+    <p num="48">The structure of the header plate further fulfills electrical safety constraints mandated by Underwriters Laboratory (UL). For example, UL mandates that a minimum creepage distance must be maintained between any exposed portion of the secondary winding and the core and also between the any exposed portion of the primary winding and the core. A creepage distance is a distance across a surface from one point to another. Features on the header, such as its thickness and detail features such as shelf 59 and the shape of sleeves 53a and 53b increase the total surface area across which the primary wire must travel between the transformer core and the connection pins 62 and 64. By providing a header having these features, it can be assured that the minimum creepage distance is met, and that electrical safety considerations are satisfied.</p>
+    <p num="49">For electrical isolation purposes, before the header plate is fastened to the transformer, insulating tape is wound around the body of the transformer, leaving the front and rear portions of the transformer exposed. The ends of the insulation tape extend over the front and rear edges of the transformer, and are folded over prior to affixing the header plate 50. The header plate 50 presses the folded tape against the core, effectively sealing the insulating tape to the core 12. During the reflow process (when the transformer is being soldered to the integrated circuit board), the insulating tape may release if not properly secured. The pressure of the header plate 50 against the insulating tape prevents the insulating tape from becoming unglued during the reflow process. Accordingly, the header plate additionally assists in the insulation of the transformer by securing the insulation tape to prevent it from detaching during reflow.</p>
+    <p num="50">Thus, the header plate provides a termination path for the primary winding, assists in the meeting of electrical safety constraints and additionally assists in the insulation of the transformer. Referring now to FIGS. 8A-8C, a number of views of a fully assembled transformer and header plate pair are shown.</p>
+    <p num="51">FIG. 8A is a top down view of the transformer 10 and header plate 50 which illustrates how the flanges 55a and 55b may be used to fixedly attach the header plate 50 to the core 12. FIG. 8B is a front view, taken along the perspective indicated by arrow A of FIG. 8A, for illustrating how the ends of the primary winding 16a and 16b are soldered to the pins 62 and 64. In FIG. 8C, a side view, taken along the perspective indicated by arrow B in FIG. 8A, illustrates the contact points x and y that will contact the transformer to the integrated circuit board. As shown in FIG. 8C, the primary winding connections (indicated generally as x) are provided on the front of the transformer 10, while the secondary winding connections (indicated generally as y) are provided at the rear of the transformer.</p>
+    <p num="52">Referring now to FIG. 9, a flow diagram illustrating a process for assembling the transformer and header pair is shown. The steps have been described discretely above, but are brought together as a process in FIG. 9. At step 100, the secondary windings 14a and 14b are covered in insulating tape. At step 102, the secondary windings 14a and 14b are affixed to the half-cores 12a and 12b, respectively. At step 104, a TEFLON™ tube is inserted into the notch 15 of the secondary winding 12a. At step 106, the wire of the primary winding is forwarded through the TEFLON™ tube. At step 108, the two half-cores are then joined, by gluing with epoxy and optionally baking. Once the two half-cores have been joined to form a full core, at step 110 the primary winding wire is wrapped around the core a desired number of turns, and excess wire is trimmed. At step 112, the transformer 10 is wrapped in insulating tape such that the front and rear of the transformer remain largely exposed. Overhanging tape edges are folded over the front and rear portion of the transformer. At step 114 the header plate is attached to the transformer 10. At step 116, insulation is stripped from the leads 16a and 16b of the primary winding, and the wire ends 16a and 16b are soldered to the pins 62 and 64. Accordingly, a compact, low profile transformer has been described. In one embodiment, the transformer profile is reduced because the transformer is totally bobbin less; i.e., no non-conductive material that does not perform a power conversion function is used within the transformer body. Because no non-conductive material is used, the a greater window area of the transformer may dedicated to power conversion. For example, in one embodiment of the invention, the dimensions of the transformer are merely 0.360×0.700×0.300 inches, while the transformer is capable of providing 200 W of power, with 48 V received on the primary being converted to the range of 1.5-5 volts. In addition, a header plate, which attaches to the transformer body to provide a pathway for termination leads has also been described. The design of the header plate additionally ensures that electrical constraints are satisfied and also secures insulating material around the transformer.</p>
+    <p num="53">Having described various embodiments of the invention, it will now become apparent to one of skill in the art that other embodiments incorporating its concepts may be used. It is felt, therefore, that this invention should not be limited to the disclosed embodiment, but rather should be limited only by the spirit and scope of the appended claims.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A device for coupling at least one lead of a transformer to a circuit board comprising:  a main body having a front face, a rear face and an aperture extending therethrough;  at least one flange positioned on the rear face, the flanged being positioned to fixedly attach the device to a transformer having at least one lead; and  at least one sleeve positioned on the front face, the at least one sleeve being arranged for accepting a corresponding at least one pin;  wherein a first end of the at least one pin is for coupling the at least one lead of the transformer and a second end of the at least one pin is for coupling a circuit board; and  wherein features of the device are selected such that a distance between the at least one sleeve and the rear face satisfies a predetermined electrical safety constraint.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The device according to claim 1 wherein the selected distance is a creepage distance.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. A device for coupling at least one lead of a transformer to a circuit board comprising:  a main body having a front face, a rear face and an aperture extending there through;  at least one flange positioned on the rear face, the flanged being positioned to fixedly attach the device to a transformer having at least one lead; and  at least one sleeve positioned on the front face, the at least one sleeve being arranged for accepting a corresponding at least one pin;  wherein a first end of the at least one pin is for coupling the at least one lead of the transformer and a second end of the at least one pin is for coupling a circuit board;  wherein at least a portion of the transformer is covered with an insulating material, and  wherein the device, when coupled to the transformer, secures the insulating material to the transformer.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

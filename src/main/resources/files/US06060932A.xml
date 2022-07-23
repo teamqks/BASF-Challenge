@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06060932A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06060932</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6060932</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="9509369" extended-family-id="13733401">
+      <document-id>
+        <country>US</country>
+        <doc-number>09118953</doc-number>
+        <kind>A</kind>
+        <date>19980717</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09118953</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>14029701</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>FR</country>
+        <doc-number>9709145</doc-number>
+        <kind>A</kind>
+        <date>19970718</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1997FR-0009145</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H02M   3/07        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>02</class>
+        <subclass>M</subclass>
+        <main-group>3</main-group>
+        <subgroup>07</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>327298000</text>
+        <class>327</class>
+        <subclass>298000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>327299000</text>
+        <class>327</class>
+        <subclass>299000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>H02M-003/07</text>
+        <section>H</section>
+        <class>02</class>
+        <subclass>M</subclass>
+        <main-group>3</main-group>
+        <subgroup>07</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H02M-003/07</classification-symbol>
+        <section>H</section>
+        <class>02</class>
+        <subclass>M</subclass>
+        <main-group>3</main-group>
+        <subgroup>07</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>26</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>2</number-of-drawing-sheets>
+      <number-of-figures>4</number-of-figures>
+      <image-key data-format="questel">US6060932</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Variable frequency charge pump</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>MATSUOKA TAKERU</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5018168</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5018168</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>SCRIBER MIKE, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5483185</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5483185</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>ANDREA RALPH W</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5506545</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5506545</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>RUSSELL DAVID M</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5530390</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5530390</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>CHOI GO-HEE</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5561385</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5561385</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>RIGAZIO LUCA</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5821781</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5821781</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>ARKIN BRIAN J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5923197</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5923197</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>SGS THOMSON MICROELECTRONICS</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0772200</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-772200</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>SUISSE ELECTRONIQUE MICROTECH</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>2724468</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>FR2724468</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>TEXAS INSTRUMENTS DEUTSCHLAND</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H08106790</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP08106790</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="11">
+          <document-id>
+            <country>US</country>
+            <doc-number>5018168</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5018168</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="12">
+          <document-id>
+            <country>US</country>
+            <doc-number>5483185</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5483185</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="13">
+          <document-id>
+            <country>US</country>
+            <doc-number>5506545</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5506545</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="14">
+          <document-id>
+            <country>US</country>
+            <doc-number>5530390</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5530390</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="15">
+          <document-id>
+            <country>US</country>
+            <doc-number>5561385</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5561385</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="16">
+          <document-id>
+            <country>US</country>
+            <doc-number>5821781</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5821781</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="17">
+          <document-id>
+            <country>US</country>
+            <doc-number>5923197</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5923197</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="18">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0772200</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-772200</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="19">
+          <document-id>
+            <country>FR</country>
+            <doc-number>2724468</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>FR2724468</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="20">
+          <document-id>
+            <country>JP</country>
+            <doc-number>08106790</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP08106790</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>Patent Abstracts of Japan, vol. 11, No. 165 (E 510), May 27, 1987, JP 61 295866 (Matsushita Electric Works).</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>STMicrolectronics S.A.</orgname>
+            <address>
+              <address-1>Gentilly, FR</address-1>
+              <city>Gentilly</city>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>STMICROELECTRONICS</orgname>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Devin, Jean</name>
+            <address>
+              <address-1>Aix-en-Provence, FR</address-1>
+              <city>Aix-en-Provence</city>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>FR</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <name>Galanthay, Theodore E.Allen, Dyer, Doppelt, Milbrath &amp; Gilchrist, P.A.</name>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Kim, Jung Ho</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      In integrated circuits, to modify the operation of the charge pumps or voltage step-up circuits, they are sent a variable frequency signal at the input with the aim of breaking the regularity of the pulse train that enters the charge pump.
+      <br/>
+      This limits the risks of entry into resonance and limits radiation at a given frequency.
+      <br/>
+      The variable frequency signal is typically produced by a logic circuit and by a main oscillator whose transmission of certain pulses is masked by the combined action of different masking signals.
+      <br/>
+      The duty cycle ratios of the masking signals are less than that of the signal from the main oscillator.
+      <br/>
+      Such duty cycle ratios are preferably produced following the passage of a signal to a lower frequency than that of the signal of the main oscillator in a circuit for the detection of high transitions.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>FIELD OF THE INVENTION</h1>
+    </p>
+    <p num="2">The invention relates to circuits conventionally known as charge pumps or voltage boosters. These circuits can be used for producing a higher voltage from a given voltage.</p>
+    <p num="3">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="4">Voltage booster circuits are commonly used and typically comprise a plurality of stages. A basic booster or booster stage uses switches, two capacitors and a two-phase clock to actuate the switches. First, a first capacitor is charged at a voltage Vcc, for example, 5 volts, and then it is discharged into the second capacitor. A second cycle then begins which includes a first step of charging the capacitor at Vcc and then a second step of discharging the first capacitor into the second capacitor (which is already partially charged). Thus, the voltage at the terminals of the second capacitor increases at each clock pulse. Multiple-stage charge pumps are used with complementary switching circuits, and the boosted voltage Vpp then increases to a voltage greater than the supply voltage Vcc.</p>
+    <p num="5">This principle is commonly used in integrated circuits, especially for electrically programmable memories comprising a floating-gate transistor as a storage element, EEPROM-type memories or EPROM-type memories, depending on whether these memories are electrically erasable or not. The principle may also be used in flash EPROMs when they are block-erasable.</p>
+    <p num="6">Indeed, in certain memories, the programming voltage Vpp may be supplied by an external supply. However, this then necessitates a specific additional supply pin for the integrated circuit. The additional pins add to the cost of the integrated circuits and it is preferred to avoid them. In certain applications, it is even possible to have no external supply for the programming voltage (for example, in a chip card with a chip having four useful terminals wherein there are no pins or terminals for the programming voltage) and there is no ability to add a terminal. In other applications, it may be that there is no external supply pin at all (for example, in contactless chip cards whose operating power and interfacing are provided by electromagnetic means).</p>
+    <p num="7">This is why memories in integrated circuit form have been proposed wherein the programming voltage Vpp is produced within the integrated circuit itself from the normal supply voltage Vcc. For reasons of security, it may be preferable, especially in the field of chip cards, to leave the production of the programming voltage under the control of the integrated circuit itself. In this way, fraudulent individuals are not offered the facility of an additional terminal by which this programming voltage could be applied to the circuit and with which they would enjoy an additional means to alter the circuit.</p>
+    <p num="8">Conventionally, a charge pump or load pump works with an input signal at a switching frequency f. The effects of this switching signal include the generation of switching noise within the voltage booster circuit. This noise increases with the level of the voltage Vpp to be produced and with the number of stages.</p>
+    <p num="9">The level of output voltage from the step-up circuit, available at a capacitor, is kept at a fixed value by a regulator. This regulator may include a sequence of transistors mounted as diodes so that each transistor sets up a voltage equal to its threshold voltage between its source and its drain. Depending on the technology implemented, the threshold voltage varies, and the number of series-connected transistors is used to define the regulated voltage at the output of the regulator. For example, with transistors having a threshold voltage of about 1 volt, there should be 16 transistors to produce a regulated voltage Vpp on the order of 16 volts.</p>
+    <p num="10">A charge pump is therefore controlled by an oscillator producing cyclically repetitive pulses that it uses as control signals. Two phenomena then arise; with the first being an amplification of the noise by a resonance phenomenon linked to the control frequency of the charge pump. This noise disturbs the operation of the rest of the integrated circuit. Furthermore, the charge pump itself, with its fixed frequency, could undesirably more easily enter into a state of oscillation induced by a regular external signal.</p>
+    <p num="11">Furthermore, the electromagnetic radiation induced by the integrated circuit may be undesirable to expose to humans. This is the case for example in portable telephone sets especially GSM (Global System for Mobile Communications) telephone sets which are held close to the user's ear.</p>
+    <p num="12">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="13">The invention, therefore, to resolve these problems, relates to a charge pump controlled by a variable frequency. According to the invention, there is then little chance of going into resonance. Since the frequency is not fixed, there is furthermore a reduction in potential health affects which may be related to the frequency. It is of course true that a regular signal produced by a main oscillator will remain, but its effect, according to the invention, will appear on a limited circuit portion located before or upstream of the charge pump, hence, before the high-voltage signals whose electromagnetic radiation is greater.</p>
+    <p num="14">An object of the invention, therefore, is an electronic integrated circuit comprising a charge pump and at least one first oscillator to produce cyclically repetitive pulses used as control signals for the charge pump. The electronic integrated circuit comprises a circuit to mask the transmission of certain pulses to the charge pump, and, accordingly, modify the frequency of electromagnetic radiation induced by these pulses.</p>
+    <p num="15">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="16">The invention will be understood more clearly from the following description and from the appended figures. These figures are given purely by way of an indication and in no way restrict the scope of the invention. Of these figures:</p>
+    <p num="17">FIG. 1 shows a schematic drawing of the generation, according to the invention, of a variable frequency signal at the input of a charge pump which is also shown;</p>
+    <p num="18">FIG. 2 shows different timing diagrams of the signals from different oscillators that are used in the circuit of the invention, as well as a timing diagram of a control signal for the charge pump;</p>
+    <p num="19">FIG. 3 shows a standard ring oscillator that can be used in accordance with the invention; and</p>
+    <p num="20">FIG. 4 is a diagram of a circuit used to detect high-level transitions in accordance with the invention.</p>
+    <p num="21">
+      <h1>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</h1>
+    </p>
+    <p num="22">FIG. 1 shows an integrated circuit 1 comprising a load or charge pump 2 and at least one first oscillator 4. The oscillator 4 produces a signal Op comprising cyclical repetitive pulses. It is possible, in particular, to use signals with cyclical or duty cycle ratios of 50% and at a frequency of, for example, 5 MHZ. The signal Op produced by the oscillator 4 is shown in FIG. 2. According to an important characteristic of the invention, the circuit 1 has a mask circuit 3 interposed between the oscillator 4 and the load pump 2.</p>
+    <p num="23">This mask circuit 3 is designed to mask the transmission of some of the pulses of the signal Op. Consequently, FIG. 1 shows the principle of the generation of a signal Or with variable frequency. The signal Or is the control signal for the load or charge pump 2. The charge pump 2 gives rise to a high voltage signal Os available at its output 7. The signals Or and Os are also shown in FIG. 2.</p>
+    <p num="24">For practical reasons, the signal Or is sometimes passed through an inverter 6 which produces a signal that is complementary to the signal Or. The signal Or and its complementary signal are applied to the control inputs of the charge pump 2.</p>
+    <p num="25">In one example, this variable frequency signal Or may quite simply be recovered at the output of a NOR gate 3. It is nevertheless possible to provide for circuits other than a NOR gate. This gate, for example, has the advantage of leading to a very simple circuit. For this purpose, the following signals are applied to the different inputs of this NOR gate 3:</p>
+    <p num="26">the signal Op produced by the first oscillator 4. The signal Op is provided by cyclically repetitive pulses. This oscillator 4 therefore sends out a signal with a fixed frequency;</p>
+    <p num="27">one or more signals produced by one or more other oscillators 5. The signals of these oscillators are referenced Oi, and possibly Oi+1, and have a frequency lower than that of the signal Op.</p>
+    <p num="28">The signals Oi, Oi+1 are applied to the input of the NOR logic gate 3. It has the role of a combination circuit which will combine the signals of the two oscillators. The signals Oi, Oi+1 will mask the transmission of a part of the pulses of the signal Op. Certain pulses of Op are thus not transmitted. In fact, there is an output pulse at the output of the NOR gate 3 only if the input signals Op, Oi and Oi+1 present are all at zero. Thus, the regularity of the initial pulse train of Op is broken. The frequency of the output signal from the NOR gate is thus no longer constant. In other words, the NOR gate inverts the signal Op when all the other signals are at zero.</p>
+    <p num="29">The masking signals Oi, Oi+1 may all be produced from one and the same signal Ox as shall be explained further below. The signal Ox, in the example, is at a lower frequency than the signal Op. In the example, the signal Ox has a cyclical ratio in the range of 50%. In fact, its cyclical ratio is of little importance.</p>
+    <p num="30">The characteristic timing diagrams of the signals that are used are shown in FIG. 2. This figure thus shows the main oscillating signal Op which includes cyclically repetitive pulses. The order of magnitude of the frequency of Op is 1 to 20 MHZ. However, since an aim of the invention is to present an overall principle, it is necessary to be very flexible in considering the magnitudes of the different entities that are used in the description as will be appreciated by those skilled in the art.</p>
+    <p num="31">The signal Oi is a signal with a cyclical ratio far below 50%, for example 10-15%. The signal Oi+1 is of the same type as the signal Oi. It is possible to pass from the signal Oi to the signal Oi+1, for example, by the passage of the signal Oi into a simple delay line. The signal Oi+1 is thus phase-shifted with respect to the signal Oi.</p>
+    <p num="32">Preferably, the masking signals coming from the oscillator 5 must be synchronized with Op. To this end, they show leading edges or trailing edges only when Op has a leading edge or a trailing edge. This has the effect of not modifying the nature and, more specifically, the width of the pulses of the signal Or so as not to disturb the working of the load or charge pump.</p>
+    <p num="33">To mask only some pulses of the signal Op, the circuit in accordance with the invention preferably uses signals Oi, and Oi+1 with a lower frequency than that of the signal Op and with a pulse width that is typically at least twice the pulse width of Op. Indeed, if the duty cycle ratios of the signals Oi and Oi+1 are close to that of the signal Op, the signal Or will undergo excessive deterioration. A deteriorated signal Op causes the malfunctioning of the charge pump. The mask Oi will, therefore, typically be slower than Op by at least one order of magnitude. The resultant timing diagram of the signal Or is shown in FIG. 2. It is this signal Or that will be fed into the charge pump.</p>
+    <p num="34">FIG. 3 shows a standard ring oscillator that produces the signal Op. It is provided by an even number of series-connected inverters looped back from its output at the node A by a connection 9 to an input, namely the node B of a NOR logic gate 8. The NOR gate 8, at its other input, namely the node C, receives a control signal CMD which activates it or does not activate it. The output of the NOR gate 8 is the node D. The series of inverters forms a delay circuit 10. Since the transfer time of an inverter gate or an inverter is about 200 ps, with five inverters there would be an oscillation of 1 ns giving a frequency of 1 GHz--perhaps far too rapid for the applications envisaged. Thus, capacitors, for example capacitors of about 10 pf, are added. These capacitors are parallel-connected between the outputs of the inverters and ground. When associated with input impedances of the inverters with values of about 10 kΩ, we then have a delay of 100 ns, giving a signal frequency on the order of 10 MHZ.</p>
+    <p num="35">The working of this ring oscillator from a logic point of view is as follows. The ring oscillator works in the low control position. C is at the state 0. Let it be imagined that the state of A is at 1. The state of B, connected to A solely by the return connection 9 is also at 1. Since B is at 1, the NOR gate 8 will automatically take D to the state 0. Hence A, after a delay, gets taken to the state 0, and therefore so does B. This state 0 gets propagated, the entire circuit switches over and a new cycle starts. Then, at A, an oscillation with a duty cycle ratio of 50% will be obtained. Its frequency depends on the number of inverters, as well as the number and value of the capacitors of the circuit portion 10. The present ring oscillator therefore works in a low control position.</p>
+    <p num="36">To obtain Ox, it is possible to use the same principle, namely a ring oscillator with, however, far higher values of capacitance. Then, a lower frequency signal than that of Op is reached, but always with a duty cycle ratio of about 50%. Now, the duty cycle ratio, for the masks Oi and Oi+1, must be on the order of 10% so as not to cause excessive deterioration in the signal Or. A non-restrictive approach proposed to produce the masking signals Oi and Oi+1 is that of FIG. 4. This is a leading-edge detector whose principle and description are explained below.</p>
+    <p num="37">The signal Ox is sent simultaneously to an inverter gate 11 and to the gate, the node E, of an N channel transistor 12. The source of the transistor 12 is grounded and its drain is connected to the source of an N channel transistor 13, which recovers the output of the inverter 11 at its gate. A capacitor 19 is also connected between the output, the node L, of the inverter 11 and ground.</p>
+    <p num="38">The drain of the N channel transistor 13, the node F, is for its part connected simultaneously to an input of an inverter 14 and the output of a NAND gate 16. One of the inputs of the NAND gate 16 is the output, the node G, of the inverter 14. The inverter 14 is also connected to the gate of an N channel transistor 15. The source of this transistor 15 is grounded. Its drain, at the node H, is connected firstly to another input of the NAND gate 16, at this node H and secondly to an input, at the node I, of an inverter gate 18. The output signal Oi is recovered at the output of this inverter gate 18. There is also, mounted in a bypass connection, between the drain of the N channel transistor 15 and the inverter 18, a capacitor 20 connected to ground and a P channel transistor 17 whose gate is grounded and whose source is at Vcc.</p>
+    <p num="39">If Ox is at 0, the inverter 11 makes the signal go to 1, at the node L. The N channel transistor 12 is off. The transistor 13, at the outset, has its gate at 5 volts. The signal at the node F is therefore at 1. Hence, after the inverter 14, the signal at the node G is at 0. The node I is at 1 because the N channel transistor 15 is off. There is, therefore, a 1 at the output of the NAND gate 16, at the node F. Furthermore, 0 is obtained at the node J at output of the inverter 18. For Oi, the low level of Ox is seen again.</p>
+    <p num="40">At the appearance of a leading edge of Ox (Ox goes to 1), 1 is immediately found at E. The transistor 12 is then saturated and dictates a state 0 at K, the intermediate node between the transistor 12 and the transistor 13.</p>
+    <p num="41">For a short period, related to the time of propagation of the signal in the inverter 11 and the slowness of this propagation, due to the presence of the capacitor 19, the signal at the node L will be at 1 at the same time as K. The two transistors 12 and 13 are then on at the same time and prompt a state 0 in F. This leads to a state 1 in G. The transistor 15 is then on. Since the N channel transistor 15 is fairly powerful, it counters the precharging of the P channel transistor 17. In practice, the transistor 15 is a larger transistor than the transistor 17. In normal bias, it is capable of letting through much more current than the transistor 17, for example, ten times more current. The potential at I goes to 0 for a short duration. There is, therefore, a brief inflection of the signal at I. Hence, at the output from the inverter gate 18, the potential at J is temporarily at 1. Hence Oi has a short pulse. During this time, the potential at L goes to 0. We therefore have 1 at node F. The NAND gate 16 therefore becomes conductive again and a stable state is found, namely the state that existed when Ox was at 0.</p>
+    <p num="42">Thus, there is produced a signal Oi whose pulse has a shorter duration than Ox. This signal Oi reproduces the leading transitions of Ox and remains in a high state for a short instant. The duration of the high state is determined essentially by the time of propagation of the signal in the part of the circuit provided by the inverter 11 and the capacitor 19.</p>
+    <p num="43">It must be noted that, for a trailing edge, nothing is detected at the output of the circuit. The two N channel transistors 12 and 13 are always off (with the potential at node F being at 1). However, it will be easy to make a low transition detector either by adding an inverter at the input of the circuit of FIG. 4, or by replacing the two N channel transistors 12 and 13 by P channel transistors.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. An electronic integrated circuit comprising:  a charge pump;  at least one first oscillator to produce cyclically repetitive pulses for use as control signals for said charge pump; and  a masking circuit to mask transmission of certain ones of the cyclically repetitive pulses from said at least one first oscillator to said charge pump to modify a frequency of electromagnetic radiation resulting from the cyclically repetitive pulses.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. A circuit according to claim 1, wherein said at least one first oscillator comprises a ring oscillator.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. A circuit according to claim 1, wherein said masking circuit comprises at least one second oscillator having an output connected with an output of said first oscillator.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. A circuit according to claim 3, wherein said at least one second oscillator has a frequency lower than a frequency of said at least one first oscillator.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. A circuit according to claim 3, wherein said masking circuit further comprises a combination circuit to combine signals of the at least one first oscillator and the at least one second oscillator.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. A circuit according to claim 5, wherein said combination circuit comprises at least one NOR gate.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. A circuit according to claim 3, wherein said at least one second oscillator produces a signal having a duty cycle ratio smaller than a duty cycle ratio of a signal produced by said at least one first oscillator.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. A circuit according to claim 3, wherein said at least one second oscillator comprises:  a second oscillator; and  a third oscillator phase-shifted with respect to said second oscillator.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. A circuit according to claim 3, wherein said at least one second oscillator comprises a circuit to produce a pulse with a duration shorter than a duration of a pulse of said at least one second oscillator at a time of appearance of an edge of a pulse of said at least one second oscillator.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. A circuit according to claim 3, wherein said at least one second oscillator produces a signal having a duty cycle ratio in a range of about 10% to 15%.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. A circuit according to claim 1, said at least one first oscillator produces a signal having a duty cycle ratio of about 50%.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. An electronic circuit comprising:  a charge pump;  at least one first oscillator to produce cyclically repetitive pulses for use as control signals for said charge pump; and  a masking circuit to mask transmission of pulses produced from said at least one first oscillator to said charge pump, said masking circuit comprising at least one second oscillator having an output connected with an output of said first oscillator and having a frequency lower than a frequency of said at least one first oscillator.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. A circuit according to claim 12, wherein said at least one first oscillator comprises a ring oscillator.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. A circuit according to claim 12, wherein said masking circuit further comprises a combination circuit to combine signals of the at least one first oscillator and the at least one second oscillator.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. A circuit according to claim 14, wherein said combination circuit comprises at least one NOR gate.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. A circuit according to claim 12, wherein said at least one second oscillator produces a signal having a duty cycle ratio smaller than a duty cycle ratio of a signal produced by said at least one first oscillator.</claim-text>
+    </claim>
+    <claim num="17">
+      <claim-text>17. A circuit according to claim 12, wherein said at least one second oscillator comprises:  a second oscillator; and  a third oscillator phase-shifted with respect to said second oscillator.</claim-text>
+    </claim>
+    <claim num="18">
+      <claim-text>18. A circuit according to claim 12, wherein said at least one second oscillator comprises a circuit to produce a pulse with a duration shorter than a duration of a pulse of said at least one second oscillator at a time of appearance of an edge of a pulse of said at least one second oscillator.</claim-text>
+    </claim>
+    <claim num="19">
+      <claim-text>19. A circuit according to claim 12, wherein said at least one second oscillator produces a signal having a duty cycle ratio in a range of about 10% to 15%.</claim-text>
+    </claim>
+    <claim num="20">
+      <claim-text>20. A circuit according to claim 12, said at least one first oscillator produces a signal having a duty cycle ratio of about 50%.</claim-text>
+    </claim>
+    <claim num="21">
+      <claim-text>21. A method for operating an electronic circuit of a type comprising a charge pump to reduce electromagnetic radiation from the circuit, the method comprising the steps of:  producing cyclically repetitive pulses for use as control signals for the charge pump; and  masking transmission of certain ones of the cyclically repetitive pulses to the charge pump.</claim-text>
+    </claim>
+    <claim num="22">
+      <claim-text>22. A method according to claim 21, wherein the step of producing the cyclically repetitive pulses comprises producing same using at least one first oscillator.</claim-text>
+    </claim>
+    <claim num="23">
+      <claim-text>23. A method according to claim 22, wherein the step of masking comprises the steps of:  using at least one second oscillator having a frequency lower than a frequency of the at least one first oscillator; and  combining signals of the at least one first oscillator and the at least one second oscillator.</claim-text>
+    </claim>
+    <claim num="24">
+      <claim-text>24. A method according to claim 23, wherein the step of combining comprises using at least one NOR gate.</claim-text>
+    </claim>
+    <claim num="25">
+      <claim-text>25. A method according to claim 23, further comprising the step of operating the at least one second oscillator to produce a signal having a duty cycle ratio in a range of about 10% to 15%.</claim-text>
+    </claim>
+    <claim num="26">
+      <claim-text>26. A method according to claim 23, further comprising the step of operating the at least one first oscillator to produce a signal having a duty cycle ratio of about 50%.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

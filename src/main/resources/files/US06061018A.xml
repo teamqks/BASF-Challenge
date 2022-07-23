@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061018A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061018</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061018</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="22111773" extended-family-id="74427784">
+      <document-id>
+        <country>US</country>
+        <doc-number>09073107</doc-number>
+        <kind>A</kind>
+        <date>19980505</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09073107</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>75641977</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>7310798</doc-number>
+        <kind>A</kind>
+        <date>19980505</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1998US-09073107</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G01C  21/00        20060101AFI20060310RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>C</subclass>
+        <main-group>21</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20060310</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G01S   1/00        20060101A N20080531RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>1</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>N</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20080531</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>G01S  19/20        20100101A N20100710RMEP</text>
+        <ipc-version-indicator>
+          <date>20100101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>20</subgroup>
+        <classification-value>N</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20100710</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>G01S  19/46        20100101A I20100710RMEP</text>
+        <ipc-version-indicator>
+          <date>20100101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>46</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20100710</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>G01S  19/50        20100101ALI20100101RMUS</text>
+        <ipc-version-indicator>
+          <date>20100101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>50</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>US</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20100101</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>H04Q   7/34        20060101ALI20060310RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>04</class>
+        <subclass>Q</subclass>
+        <main-group>7</main-group>
+        <subgroup>34</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20060310</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>342357330</text>
+        <class>342</class>
+        <subclass>357330</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>342357580</text>
+        <class>342</class>
+        <subclass>357580</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>342462000</text>
+        <class>342</class>
+        <subclass>462000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>701469000</text>
+        <class>701</class>
+        <subclass>469000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>G01S-019/46</text>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>46</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>G01S-019/50</text>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>50</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G01S-019/46</classification-symbol>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>46</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G01S-019/20</classification-symbol>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>20</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G01S-019/50</classification-symbol>
+        <section>G</section>
+        <class>01</class>
+        <subclass>S</subclass>
+        <main-group>19</main-group>
+        <subgroup>50</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="ICO"/>
+        <classification-symbol>S01S-019/20</classification-symbol>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>35</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>9</number-of-drawing-sheets>
+      <number-of-figures>9</number-of-figures>
+      <image-key data-format="questel">US6061018</image-key>
+    </figures>
+    <invention-title id="title_na">Method and system for using altitude information in a satellite positioning system</invention-title>
+    <invention-title format="original" lang="en" id="title_en">Method and system for using altitude information in a satellite positioning system</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>TAYLOR RALPH E, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4445118</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4445118</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>MAINE REUBEN E</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4457006</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4457006</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>KILVINGTON JOHN</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4601005</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4601005</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>JASPER STEVEN C</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4701934</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4701934</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>JANC ROBERT V, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4785463</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4785463</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>MACDORAN PETER F, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4797677</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4797677</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>SASAKI TAKASHI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4959659</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4959659</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>MA STEPHEN C, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4998111</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4998111</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>DARNELL RALPH D, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5043736</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5043736</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>BARNARD MICHAEL E</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5119102</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5119102</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="11">
+          <text>ALVES JR DANIEL F</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5153598</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5153598</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="12">
+          <text>GEIER GEORGE J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5202829</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5202829</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="13">
+          <text>MASUMOTO YUTAKA</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5210540</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5210540</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="14">
+          <text>MANSELL JOHN P, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5223844</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5223844</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="15">
+          <text>BROWN ALISON K, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5225842</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5225842</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="16">
+          <text>AVERBUCH NIMROD</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5245634</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5245634</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="17">
+          <text>HIRATA SEIICHIRO</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5265025</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5265025</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="18">
+          <text>ABAUNZA JOHN</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5271034</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5271034</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="19">
+          <text>BROWN ALISON K</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5311194</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5311194</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="20">
+          <text>KENNEDY JOSEPH P, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5317323</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5317323</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="21">
+          <text>MAKI STANLEY C</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5323163</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5323163</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="22">
+          <text>MUELLER K TYSEN, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5323322</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5323322</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="23">
+          <text>SCHUCHMAN LEONARD, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5365450</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5365450</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="24">
+          <text>YOKEV HANOCH, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5379047</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5379047</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="25">
+          <text>BROWN ALISON K, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5379224</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5379224</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="26">
+          <text>FERNANDES ROOSEVELT A, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5379320</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5379320</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="27">
+          <text>ATTWOOD STANLEY W</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5412388</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5412388</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="28">
+          <text>GILHOUSEN KLEIN S, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5416797</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5416797</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="29">
+          <text>JOHNSON RUSSELL K</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5420592</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5420592</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="30">
+          <text>YOKEV HANOCH, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5430759</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5430759</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="31">
+          <text>MCBURNEY PAUL W, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5448773</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5448773</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="32">
+          <text>WEINBERG AARON, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5483549</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5483549</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="33">
+          <text>WELLES II KENNETH B, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5491486</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5491486</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="34">
+          <text>MAINE KRISTINE P, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5515062</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5515062</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="35">
+          <text>BORKOWSKI DANIEL G, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5519760</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5519760</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="36">
+          <text>LEWIS PETER T</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5587715</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5587715</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="37">
+          <text>KRASNER NORMAN F</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5663734</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5663734</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="38">
+          <text>ISHIKAWA HIROYASU, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5969669</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5969669</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="39">
+          <text>SHEYNBLAT LEONID</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5999124</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5999124</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="40">
+          <text>ROSE CONRAD M</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5999129</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5999129</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="41">
+          <text>PIONEER ELECTRONIC CORP</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0447978</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-447978</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="42">
+          <text>PHILIPS ELECTRONICS UK LTD, et al</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0444738</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-444738</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="43">
+          <text>NAVSYS CORP</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0512789</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-512789</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="44">
+          <text>NAVSYS CORP</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0545636</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-545636</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="45">
+          <text>ESG ELEKTRONIKSYSTEM UND LOGIS</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>4424412</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>DE4424412</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="46">
+          <text>CATERPILLAR INC</text>
+          <document-id>
+            <country>GB</country>
+            <doc-number>2273218</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>GB2273218</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="47">
+          <text>SYMMETRICOM INC</text>
+          <document-id>
+            <country>GB</country>
+            <doc-number>2308033</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>GB2308033</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="48">
+          <text>SNAPTRACK INC</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>9714049</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9714049</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="49">
+          <text>TRIMBLE NAVIGATION LTD</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>9428434</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9428434</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="50">
+          <text>HIGHWAYMASTER COMM INC</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>9615636</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9615636</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="51">
+          <text>SNAPTRACK INC</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>9714056</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9714056</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="52">
+          <document-id>
+            <country>US</country>
+            <doc-number>4445118</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4445118</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="53">
+          <document-id>
+            <country>US</country>
+            <doc-number>4457006</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4457006</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="54">
+          <document-id>
+            <country>US</country>
+            <doc-number>4601005</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4601005</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="55">
+          <document-id>
+            <country>US</country>
+            <doc-number>4701934</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4701934</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="56">
+          <document-id>
+            <country>US</country>
+            <doc-number>4785463</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4785463</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="57">
+          <document-id>
+            <country>US</country>
+            <doc-number>4797677</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4797677</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="58">
+          <document-id>
+            <country>US</country>
+            <doc-number>4959659</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4959659</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="59">
+          <document-id>
+            <country>US</country>
+            <doc-number>4998111</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4998111</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="60">
+          <document-id>
+            <country>US</country>
+            <doc-number>5043736</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5043736</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="61">
+          <document-id>
+            <country>US</country>
+            <doc-number>5119102</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5119102</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="62">
+          <document-id>
+            <country>US</country>
+            <doc-number>5153598</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5153598</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="63">
+          <document-id>
+            <country>US</country>
+            <doc-number>5202829</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5202829</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="64">
+          <document-id>
+            <country>US</country>
+            <doc-number>5210540</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5210540</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="65">
+          <document-id>
+            <country>US</country>
+            <doc-number>5223844</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5223844</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="66">
+          <document-id>
+            <country>US</country>
+            <doc-number>5225842</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5225842</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="67">
+          <document-id>
+            <country>US</country>
+            <doc-number>5245634</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5245634</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="68">
+          <document-id>
+            <country>US</country>
+            <doc-number>5265025</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5265025</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="69">
+          <document-id>
+            <country>US</country>
+            <doc-number>5271034</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5271034</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="70">
+          <document-id>
+            <country>US</country>
+            <doc-number>5311194</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5311194</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="71">
+          <document-id>
+            <country>US</country>
+            <doc-number>5317323</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5317323</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="72">
+          <document-id>
+            <country>US</country>
+            <doc-number>5323163</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5323163</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="73">
+          <document-id>
+            <country>US</country>
+            <doc-number>5323322</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5323322</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="74">
+          <document-id>
+            <country>US</country>
+            <doc-number>5365450</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5365450</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="75">
+          <document-id>
+            <country>US</country>
+            <doc-number>5379047</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5379047</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="76">
+          <document-id>
+            <country>US</country>
+            <doc-number>5379224</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5379224</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="77">
+          <document-id>
+            <country>US</country>
+            <doc-number>5379320</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5379320</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="78">
+          <document-id>
+            <country>US</country>
+            <doc-number>5412388</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5412388</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="79">
+          <document-id>
+            <country>US</country>
+            <doc-number>5416797</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5416797</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="80">
+          <document-id>
+            <country>US</country>
+            <doc-number>5420592</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5420592</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="81">
+          <document-id>
+            <country>US</country>
+            <doc-number>5430759</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5430759</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="82">
+          <document-id>
+            <country>US</country>
+            <doc-number>5448773</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5448773</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="83">
+          <document-id>
+            <country>US</country>
+            <doc-number>5483549</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5483549</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="84">
+          <document-id>
+            <country>US</country>
+            <doc-number>5491486</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5491486</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="85">
+          <document-id>
+            <country>US</country>
+            <doc-number>5515062</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5515062</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="86">
+          <document-id>
+            <country>US</country>
+            <doc-number>5519760</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5519760</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="87">
+          <document-id>
+            <country>US</country>
+            <doc-number>5587715</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5587715</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="88">
+          <document-id>
+            <country>US</country>
+            <doc-number>5663734</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5663734</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="89">
+          <document-id>
+            <country>US</country>
+            <doc-number>5969669</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5969669</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="90">
+          <document-id>
+            <country>US</country>
+            <doc-number>5999124</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5999124</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="91">
+          <document-id>
+            <country>US</country>
+            <doc-number>5999129</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5999129</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="92">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0447978</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-447978</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="93">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0444738</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-444738</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="94">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0512789</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-512789</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="95">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0545636</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-545636</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="96">
+          <document-id>
+            <country>DE</country>
+            <doc-number>4424412</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>DE4424412</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="97">
+          <document-id>
+            <country>GB</country>
+            <doc-number>2273218</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>GB2273218</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="98">
+          <document-id>
+            <country>GB</country>
+            <doc-number>2308033</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>GB2308033</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="99">
+          <document-id>
+            <country>WO</country>
+            <doc-number>9714049</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9714049</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="100">
+          <document-id>
+            <country>WO</country>
+            <doc-number>9428434</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9428434</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="101">
+          <document-id>
+            <country>WO</country>
+            <doc-number>9615636</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9615636</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="102">
+          <document-id>
+            <country>WO</country>
+            <doc-number>9714056</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO9714056</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>PCT International Search Report for PCT Appln No. PCT/US99/08270 mailed Oct. 25, 1999.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="2">
+          <text>PCT International Search Report for Int l appln No. PCT/US97/21260, mailed Nov. 20, 1997.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="3">
+          <text>PCT International Search Report for Int l appln No. PCT/US97/03512, mailed Jul. 11, 1997.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="4">
+          <text>PCT Invitation to Pay Additional Fees for Int l appln No. PCT/US96/16161, mailed Mar. 10, 1997.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="5">
+          <text>PCT International Search Report for Int l appln No. PCT/US96/16178, mailed Feb. 21, 1997.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="6">
+          <text>PCT International Search Report for Int l appln No. PCT/US96/16161, mailed May 13, 1997.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="7">
+          <text>Peterson, et al. GPS Receiver Structures for the Urban Canyon, ION GPS 95, Session C4, Land Vehicular Applications, Palm Springs, CA, Sep. 1995.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="8">
+          <text>Raab, et al. An Application of the Global Positioning System to Search and Rescue and Remote Tracking, Navigation: Journal of the Institute of Navigation , 24:3, 1977.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="9">
+          <text>Rogers &amp; Anson, Animal borne GPS: Tracking the Habitat, GPS World , pp. 21 &amp; 22, Jul. 1994.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="10">
+          <text>RTCM Recommended Standards for Differential Navstar GPS Service, Version 2.0, Radio Technical Commission for Maritime Services , Jan. 1, 1990.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="11">
+          <text>U.S. Patent Application Serial No. 08/759,523, filed Dec. 4, 1996 and entitled An Improved GPS Receiver Utilizing a Communication Link , 47 pages and 14 sheets of drawings.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="12">
+          <text>Davenport, Robert G. FFT Processing of Direct Sequence Spreading Codes . . . IEEE 1991, National Aerospace and Electronics Conference NAECON 1991, vol. 1 pp. 98 105, May 1991.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="13">
+          <text>Sturza, Mark A. Navigation System Integrity Monitoring Using Redundant Measurements, Navigation: Journal of The Institute of Navigation, 35:4, Winter 1988 89, pp. 483 501.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="14">
+          <text>Global Positioning System: Theory and Application, vol. II. edited by B.W. Parkinson and J.J. Spilker, Chapter 5 (pp. 143 165) and Chapter 8 (pp. 221 243) Table of Contents (pp. ix xx), 1996.</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="15">
+          <text>Navstar GPS User Equipment, Introduction, NATO , Feb. 1991 (entire volume).</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="16">
+          <text>Navigation: Journal of the Institute of Navigation, The Institute of Navigation, 25:2 , 1978 (entire edition).</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>SnapTrack, Inc.</orgname>
+            <address>
+              <address-1>San Jose, CA, US</address-1>
+              <city>San Jose</city>
+              <state>CA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>QUALCOMM</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Sheynblat, Leonid</name>
+            <address>
+              <address-1>Belmont, CA, US</address-1>
+              <city>Belmont</city>
+              <state>CA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Blakely, Sokoloff, Taylor &amp; Zafman</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Tarcza, Thomas H.</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A method and apparatus for determining a position of a mobile satellite positioning system (SPS) receiver.
+      <br/>
+      In one example of a method, a cell object information is determined; this cell object information comprises at least one of a cell object location or a cell object identification.
+      <br/>
+      An altitude is determined from the cell object information which is selected based upon a cell site transmitter which is in wireless communication with a cell based communication system which is coupled to (and typically integrated with) the mobile SPS receiver.
+      <br/>
+      The position of the mobile SPS receiver is calculated using the altitude which is determined from the cell object information.
+      <br/>
+      In another example of a method, an altitude pseudomeasurement is determined from an estimate of an altitude of the mobile SPS receiver.
+      <br/>
+      This estimate of the altitude may be from a cell based information source in a cell based system or may be an average altitude of the area of radio coverage of a wireless basestation in the non-cell based system.
+      <br/>
+      The altitude pseudomeasurement may be used as a redundant measurement with fault detection and isolation techniques to determine whether at least one pseudorange has a faulty condition.
+      <br/>
+      Alternatively (or in addition), a comparison of the estimated altitude to a calculated altitude determines a condition of at least one pseudorange between an SPS satellite and the mobile SPS receiver.
+      <br/>
+      In one embodiment of this example, the position is determined from a position solution algorithm, and if the condition is a first state (not a fault state) the at least one pseudorange is used in the position solution algorithm.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="2">The present invention relates to satellite positioning systems which use augmentation or aiding from information regarding the altitude of a satellite positioning system receiver.</p>
+    <p num="3">Conventional satellite positioning systems (SPS) such as the U.S. Global Positioning System (GPS) use signals from satellites to determine their position. Conventional SPS receivers normally determine their position by computing relative times of arrival of signals transmitted simultaneously from a multiplicity of GPS satellites which orbit the earth. These satellites transmit, as part of their message, both satellite positioning data as well as data on clock timing which specifies the position of a satellite at certain times; this data is often referred to as satellite ephemeris data. Conventional SPS receivers typically search for and acquire the SPS signals, read the ephemeris data for a multiplicity of satellites, determine pseudoranges to these satellites, and compute the location of the SPS receivers from the pseudoranges and the ephemeris data from the satellites.</p>
+    <p num="4">Conventional SPS systems sometimes use altitude aiding to assist in two situations: a case of bad satellite geometry, or a lack of measurements for three dimensional positioning. For most cases, bad satellite geometry is caused by poor observability in the vertical direction. For instance, if the unit vectors to all of the satellites being used in the solution lie on a cone of arbitrary half-angle, then it is possible to place a plane on the top of the tips of the unit vectors if the unit vectors only span a two-dimensional space. The error in the third direction or dimension, which is perpendicular to the plane, is unobservable; this is referred to as a singularity condition. In urban canyon environments with tall buildings surrounding the GPS receiver antenna, the only satellites that are visible are those at high elevation angles. These signal conditions are similar to the singularity condition described herein. Also, large multi-path errors tend to cause large errors in the vertical direction.</p>
+    <p num="5">Conventional altitude aiding is based on a pseudomeasurement of the altitude that can be visualized as a surface of a sphere with its center at the center of the earth. This sphere has a radius which includes the earth's radius and an altitude with respect to the earth's surface which is typically defined by an ellipsoid (WGS84 is one of the ellipsoidal models). There are numerous techniques which are available to perform altitude aiding, but all techniques rely on an a priori knowledge of the altitude required to define the surface of a sphere which is a magnitude of the altitude pseudomeasurement. Typically, an estimated altitude can be manually supplied by the operator of the GPS receiver or can be set to some preset value, such as the surface of the earth or be set to an altitude from a previous three-dimensional solution.</p>
+    <p num="6">Prior GPS technology has also used altitude aiding in the case where a mobile GPS receiver receives GPS signals but does not compute its position, and relies upon a basestation to perform the position calculations for it. U.S. Pat. No. 5,225,842 describes such a system which uses altitude aiding in order to allow the use of only three GPS satellites. The estimated altitude is typically derived from mapping information such as a topological or geodetic database. In this configuration, the altitude information of a basestation may also be available.</p>
+    <p num="7">A weakness of this approach is that an initial two-dimensional solution is typically made before an altitude aiding with a reasonable altitude estimate can be applied. The altitude can then be extracted from a vertical database as a function of latitude and longitude coordinates.</p>
+    <p num="8">While the foregoing approaches provide certain advantages from the use of altitude information, they do not work well in the case of a distributed processing system where a mobile GPS receiver may be located in any position over a relatively large geographical area. Moreover, these prior approaches use altitude information with all available pseudoranges even if a particular pseudorange is faulty.</p>
+    <p num="9">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="10">The present invention provides various methods and apparatuses for determining a position of a mobile satellite positioning system (SPS) receiver with the use of altitude information. In one example of a method of the present invention, a cell object information is determined. This cell object information comprises at least one of a cell object location or a cell object identification. In one example, the cell object may be a cell site and the identification may be an identifier of the cell site and the location may be the latitude and longitude of the cell site. An altitude is determined from the cell object information which is selected based upon a cell site transmitter which is in wireless communication with a cell based communication system which is coupled to (and typically integrated with) the mobile SPS receiver. That is, the altitude is determined from a cell object information which is associated with the cell site transmitter which is in communication with the communication system of the mobile SPS receiver. The position of the mobile SPS receiver is calculated using the altitude which is determined from the cell object information.</p>
+    <p num="11">In another example of a method according to the present invention, an altitude pseudomeasurement is determined, and this pseudomeasurement uses an estimate of an altitude of the mobile SPS receiver. This estimate of the altitude may be derived from a cell based information source in a cell based communication system or may be an average altitude or other mathematical representation of altitude or altitudes of an area of coverage of a wireless basestation in a non-cell based system. In one implementation, a comparison of the estimate of the altitude to an altitude that is calculated from pseudoranges to SPS satellites (or from pseudoranges and the altitude pseudomeasurement) determines the condition of at least one pseudorange between an SPS satellite and the mobile SPS receiver. In another implementation, the altitude pseudomeasurement may be used as a redundant measurement (with pseudoranges to SPS satellites) and fault detection and isolation techniques may be employed using the redundant measurement to determine the condition (e.g. faulty or non-faulty) of at least one of the pseudoranges or a navigation solution. In one embodiment of this example, the position is determined from a position solution algorithm, and if the condition of a pseudorange is in a first state, such as a non-fault state, the at least one pseudorange is used in the position solution algorithm. A re-computation of a navigation solution may be performed using only non-faulty pseudoranges (after faulty pseudoranges have been identified and excluded from a recomputation of a navigation solution).</p>
+    <p num="12">Various mobile SPS receivers and basestations are also described herein. Various other aspects and embodiments of the present invention are further described below.</p>
+    <p num="13">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="14">The present invention is illustrated by way of example and not limitation in the figures of the accompanying drawings in which like references indicate similar elements.</p>
+    <p num="15">FIG. 1 illustrates a cell based communication system having a plurality of cells each of which is serviced by a cell site, and each of which is coupled to a cell based switching center, which is sometimes referred to as a mobile switching center.</p>
+    <p num="16">FIG. 2 illustrates an implementation of a location server system according to one embodiment of the invention.</p>
+    <p num="17">FIG. 3A illustrates an example of a combined SPS receiver and communication system according to one embodiment of the present invention.</p>
+    <p num="18">FIG. 3B illustrates an example of an SPS reference station according to one embodiment of the present invention.</p>
+    <p num="19">FIG. 4 illustrates an example of a cell based information source which may be used to determine an estimated altitude of a mobile SPS receiver.</p>
+    <p num="20">FIG. 5 illustrates a flowchart for one method which uses altitude aiding according to the present invention. FIGS. 5A and 5B show two other flowcharts which represent methods for using altitude aiding according to the present invention.</p>
+    <p num="21">FIG. 6 is a flowchart showing other methods for using altitude aiding according to the present invention.</p>
+    <p num="22">
+      <h1>DETAILED DESCRIPTION</h1>
+    </p>
+    <p num="23">The present invention provides various methods and apparatuses for using altitude aiding with satellite positioning systems. The following description and drawings are illustrative of the invention and are not to be construed as limiting the innovation. Numerous specific details are described to provide a thorough understanding of the present invention. However, in certain instances, well known or conventional details are not described in order to not unnecessarily obscure the present invention in detail.</p>
+    <p num="24">Before describing various details with respect to the use of altitude aiding information, it will be useful to describe the context in which one aspect of the present invention is used. Accordingly, a preliminary discussion which refers to FIGS. 1, 2, 3A, and 3B will be provided before discussing the use of altitude aiding in a cell based communication system.</p>
+    <p num="25">FIG. 1 shows an example of a cell based communication system 10 which includes a plurality of cell sites, each of which is designed to service a particular geographical region or location. Examples of such cellular based or cell based communication systems are well known in the art, such as the cell based telephone systems. The cell based communication system 10 includes two cells 12 and 14, both of which are defined to be within a cellular service area 11. In addition, the system 10 includes cells 18 and 20. It will be appreciated that a plurality of other cells with corresponding cell sites and/or cellular service areas may also be included in the system 10 coupled to one or more cellular switching centers, such as the cellular switching center 24 and the cellular switching center 24b.</p>
+    <p num="26">Within each cell, such as the cell 12, there is a wireless cell or cellular site such as cell site 13 which includes an antenna 13a which is designed to communicate through a wireless communication medium with a communication receiver which may be combined with a mobile GPS receiver such as the receiver 16 shown in FIG. 1. An example of such a combined system having a GPS receiver and a communication system is shown in FIG. 3A and may include both a GPS antenna 77 and a communication system antenna 79.</p>
+    <p num="27">Each cell site is coupled to a cellular switching center. In FIG. 1, cell sites 13, 15, and 19 are coupled to switching center 24 through connections 13b, 15b and 19b respectively and cell site 21 is coupled to a different switching center 24b through connection 21b. These connections are typically wire line connections between the respective cell site and the cellular switching centers 24 and 24b. Each cell site includes an antenna for communicating with communication systems serviced by the cell site. In one example, the cell site may be a cellular telephone cell site which communicates with mobile cellular telephones in the area serviced by the cell site. It will be appreciated that a communication system within one cell, such as receiver 22 shown in cell 4, may in fact communicate with cell site 19 in cell 18 due to signal blockage (or other reasons why cell site 21 cannot communicate with the receiver 22). It is also true that multiple cell sites may be communicating data (but usually not voice) with a mobile GPS receiver which includes a communication system.</p>
+    <p num="28">In a typical embodiment of the present invention, the mobile GPS receiver 16 includes a cell based communication system which is integrated with the GPS receiver such that both the GPS receiver and the communication system are enclosed in the same housing. One example of this is a cellular telephone having an integrated GPS receiver which shares common circuitry with the cellular telephone transceiver. When this combined system is used for cellular telephone communications, transmissions occur between the receiver 16 and the cell site 13. Transmissions from the receiver 16 to the cell site 13 are then propagated over the connection 13b to the cellular switching center 24 and then to either another cellular telephone in a cell serviced by the cellular switching center 24 or through a connection 30 (typically wired) to another telephone through the land-based telephone system/network 28. It will be appreciated that the term wired includes fiber optic and other non wireless connections such as copper cabling, etc. Transmissions from the other telephone which is communicating with the receiver 16 are conveyed from the cellular switching center 24 through the connection 13b and the cell site 13 back to the receiver 16 in the conventional manner.</p>
+    <p num="29">The remote data processing system 26 (which may be referred to in some embodiments as a SPS server or a location server) is included in the system 10 and is in one embodiment used to determine the position of a mobile SPS receiver (e.g. receiver 16) using SPS signals received by the SPS receiver. The SPS server 26 may be coupled to the land-based telephone system/network 28 through a connection 27, and it may also be optionally coupled to the cellular switching center 24 through the connection 25 (which may be a communication network) and also optionally coupled to center 24b through the connection 25b (which may be the same or a different communication network as connection 25). It will be appreciated that connections 25 and 27 are typically wired connections, although they may be wireless. Also shown as an optional component of the system 10 is a query terminal 29 which may consist of another computer system which is coupled through the network 28 to the SPS server 26. This query terminal 29 may send a request, for the position of a particular SPS receiver in one of the cells, to the SPS server 26 which then initiates a conversation with a particular SPS receiver through the cellular switching center in order to determine the position of the GPS receiver and report that position back to the query terminal 29. In another embodiment, a position determination for a GPS receiver may be initiated by a user of a mobile GPS receiver; for example, the user of the mobile GPS receiver may press 911 on the cell phone to indicate an emergency situation at the location of the mobile GPS receiver and this may initiate a location process in the manner described herein. In another embodiment of the present invention, each cell site may include a GPS location server which communicates data to and from a mobile GPS receiver through the cell site. The present invention may also be employed with different communication architectures such as point-to-point architectures which use non cell based systems.</p>
+    <p num="30">It should be noted that a cellular based or cell based communication system is a communication system which has more than one transmitter, each of which serves a different geographical area, which is predefined at any instant in time. Typically, each transmitter is a wireless transmitter which serves a cell which has a geographical radius of less than 20 miles, although the area covered depends on the particular cellular system. There are numerous types of cellular communication systems, such as cellular telephones, PCS (personal communication system), SMR (specialized mobile radio), one-way and two-way pager systems, RAM, ARDIS, and wireless packet data systems. Typically, the predefined geographical areas are referred to as cells and a plurality of cells are grouped together into a cellular service area, such as the cellular service area 11 shown in FIG. 1, and these pluralities of cells are coupled to one or more cellular switching centers which provide connections to land-based telephone systems and/or networks. Service area are often used for billing purposes. Hence, it may be the case that cells in more than one service area are connected to one switching center. For example, in FIG. 1, cells 1 and 2 are in service area 11 and cell 3 is in service area 13, but all three are connected to switching center 24. Alternatively, it is sometimes the case that cells within one service area are connected to different switching centers, especially in dense population areas. In general, a service area is defined as a collection of cells within close geographical proximity to one another. Another class of cellular systems that fits the above description is satellite based, where the cellular basestations or cell sites are satellites that typically orbit the earth. In these systems, the cell sectors and service areas move as a function of time. Examples of such systems include Iridium, Globalstar, Orbcomm, and Odyssey.</p>
+    <p num="31">FIG. 2 shows an example of a SPS server 50 which may be used as the SPS server 26 in FIG. 1. The SPS server 50 of FIG. 2 includes a data processing unit 51 which may be a fault-tolerant digital computer system. The SPS server 50 also includes a modem or other communication interface 52 and a modem or other communication interface 53 and a modem or other communication interface 54. These communication interfaces provide connectivity for the exchange of information to and from the location server shown in FIG. 2 between three different networks, which are shown as networks 60, 62, and 64. The network 60 includes the cellular switching center or centers and/or the land-based phone system switches or the cell sites. Thus the network 60 may be considered to include the cellular switching centers 24 and 24b and the land-based telephone system/network 28 and the cellular service area 11 as well as cells 18 and 20. The network 64 may be considered to include the query terminal 29 of FIG. 1 or the "PSAP," which is the Public Safety Answering Point which is typically the control center which answers 911 emergency telephone calls. In the case of the query terminal 29, this terminal may be used to query the server 26 in order to obtain a position information from a designated mobile SPS receiver located in the various cells of the cell based communication system. In this instance, the location operation is initiated by someone other than the user of the mobile GPS receiver. In the case of a 911 telephone call from the mobile GPS receiver which includes a cellular telephone, the location process is initiated by the user of the cellular telephone. The network 62, which represents the GPS reference network 32 of FIG. 1, is a network of GPS receivers which are GPS reference receivers designed to provide differential GPS correction information and also to provide GPS signal data including the satellite ephemeris data (typically as part of the entire raw satellite navigation message) to the data processing unit. When the server 50 serves a very large geographical area, a local optional GPS receiver, such as optional GPS receiver 56, may not be able to observe all GPS satellites that are in view of mobile SPS receivers throughout this area. Accordingly, the network 62 collects and provides satellite ephemeris data (typically as part of the entire raw satellite navigation message) and differential GPS correction data applicable over a wide area in accordance with the present invention.</p>
+    <p num="32">As shown in FIG. 2, a mass storage device 55 is coupled to the data processing unit 51. Typically, the mass storage 55 will include storage for data and software for performing the GPS position calculations after receiving pseudoranges from the mobile SPS receivers, such as a receiver 16 of FIG. 1. These pseudoranges are normally received through the cell site and cellular switching center and the modem or other interface 53. The mass storage device 55 also includes software, at least in one embodiment, which is used to receive and use the satellite ephemeris data provided by the GPS reference network 32 through the modem or other interface 54. The mass storage device 55 also typically includes a database which stores cell object information, such as cell site identifiers, cell site geographic location and corresponding altitudes which are typically the altitude(s) associated with a cell site geographic location and hence estimated altitudes for a mobile SPS receiver which is in radio communication with a particular cell site. This cell object information and corresponding altitudes is a cell based information source, an example of which is shown in FIG. 4 and is described further below.</p>
+    <p num="33">In a typical embodiment of the present invention, the optional GPS receiver 56 is not necessary as the GPS reference network 32 of FIG. 1 (shown as network 62 of FIG. 2) provides the differential GPS information, GPS measurements as well as providing the raw satellite data messages from the satellites in view of the various reference receivers in the GPS reference network. It will be appreciated that the satellite ephemeris data obtained from the network through the modem or other interface 54 may be normally used in a conventional manner with the pseudoranges obtained from the mobile GPS receiver in order to compute the position information for the mobile GPS receiver. The interfaces 52, 53, and 54 may each be a modem or other suitable communication interface for coupling the data processing unit to other computer systems, as in the case of network 64, and to cellular based communication systems, as in the case of network 60, and to transmitting devices, such as computer systems in the network 62. In one embodiment, it will be appreciated that the network 62 includes a dispersed collection of GPS reference receivers dispersed over a wide geographical region. In some embodiments, the differential GPS correction information, obtained from a receiver 56 near the cell site or cellular service area which is communicating with the mobile GPS receiver through the cellular based communication system, will provide differential GPS correction information which is appropriate for the approximate location of the mobile GPS receiver. In other cases, differential corrections from the network 62 may be combined to compute a differential correction appropriate to the location of the mobile SPS receiver.</p>
+    <p num="34">FIG. 3A shows a generalized combined system which includes a GPS receiver and a communication system transceiver. In one example, the communication system transceiver is a cellular telephone. The system 75 includes a GPS receiver 76 having a GPS antenna 77 and a communication transceiver 78 having a communication antenna 79. The GPS receiver 76 is coupled to the communication transceiver 78 through the connection 80 shown in FIG. 3A. In one mode of operation, the communication system transceiver 78 receives approximate Doppler information through the antenna 79 and provides this approximate Doppler information over the link 80 to the GPS receiver 76 which performs the pseudorange determination by receiving the GPS signals from the GPS satellites through the GPS antenna 77. This pseudorange is then transmitted to a location server, such as the GPS server 26 shown in FIG. 1 through the communication system transceiver 78. Typically the communication system transceiver 78 sends a signal through the antenna 79 to a cell site which then transfers this information back to the GPS server, such as GPS server 26 of FIG. 1. Examples of various embodiments for the system 75 are known in the art. For example, U.S. Pat. No. 5,663,734 describes an example of a combined GPS receiver and communication system which utilizes an improved GPS receiver system. Another example of a combined GPS and communication system has been described in co-pending application Ser. No. 08/652,833, which was filed May 23, 1996. The system 75 of FIG. 3A, as well as numerous alternative communication systems having SPS receivers, may be employed with the methods of the present invention to operate with the GPS reference network of the present invention.</p>
+    <p num="35">FIG. 3B shows one embodiment for a GPS reference station. It will be appreciated that each reference station may be constructed in this way and coupled to the communication network or medium. Typically, each GPS reference station, such as GPS reference station 90 of FIG. 3B, may include a dual frequency GPS reference receiver 92 which is coupled to a GPS antenna 91 which receives GPS signals from GPS satellites in view of the antenna 91. Alternatively, a GPS reference receiver may be a single frequency receiver, depending on the accuracy of correction required to cover an area of interest. GPS reference receivers are well known in the art. The GPS reference receiver 92, according to one embodiment of the present invention, provides at least two types of information as outputs from the receiver 92. Pseudorange outputs 93 are provided to a processor and network interface 95, and these pseudorange outputs are used to compute pseudorange differential corrections in the conventional manner for those satellites in view of the GPS antenna 91. The processor and network interface 95 may be a conventional digital computer system which has interfaces for receiving data from a GPS reference receiver as is well known in the art. The processor 95 will typically include software designed to process the pseudorange data to determine the appropriate pseudorange correction for each satellite in view of the GPS antenna 91. These pseudorange corrections are then transmitted through the network interface to the communication network or medium 96 to which other GPS reference stations are typically also coupled. In another example of the invention, pseudorange data from the reference receiver is passed through the network 96 to a central location such as a GPS server 26 where differential corrections are computed. In yet another example, output 93 contains differential corrections generated by reference receiver 92. The GPS reference receiver 92 also provides a satellite ephemeris data output 94. This data is provided to the processor and network interface 95 which then transmits this data onto the communication network 96.</p>
+    <p num="36">The satellite ephemeris data output 94 provides typically at least part of the entire raw 50 baud navigation binary data encoded in the actual GPS signals received from each GPS satellite. The satellite ephemeris data is part of the navigation message which is broadcast as the 50 bit per second data stream in the GPS signals from the GPS satellites and is described in great detail in the GPS ICD-200 document. The processor and network interface 95 receives this satellite ephemeris data output 94 and transmits it in real time or near real time to the communication network 96. This satellite ephemeris data is transmitted into the communication network and is received through the network at various location servers according to aspects of the present invention.</p>
+    <p num="37">In certain embodiments of the present invention, only certain segments of the navigation message, such as the satellite ephemeris data may be sent to location servers in order to lower the bandwidth requirements for the network interfaces and for the communication network. Typically, also, this data may not need to be provided continuously. For example, only the first three frames which contain satellite clock and ephemeris information rather than all 5 frames together may be transmitted on a regular basis into the communication network 96. It will be appreciated that in one embodiment of the present invention, the location server may receive the entire navigation message which is transmitted from one or more GPS reference receivers into the network in real time or near real time in order to perform a method for measuring time related to satellite data messages, such as the method described in co-pending U.S. patent application Ser. No. 08/794,649, which was filed Feb. 3, 1997, by Norman F. Krasner. As used herein, the term "satellite ephemeris data" includes data which is only a portion of the satellite navigation message (e.g. 50 baud message) transmitted by a GPS satellite or at least a mathematical representation of this satellite ephemeris data. For example, the term satellite ephemeris data refers to at least a representation of a portion of the 50 baud data message encoded into the GPS signal transmitted from a GPS satellite. It will be also understood that the GPS reference receiver 92 decoded the different GPS signals from the different GPS satellites in view of the reference receiver 92 in order to provide the binary data output 94 which contains the satellite ephemeris data.</p>
+    <p num="38">FIG. 4 shows an example of a cell based information source which in one embodiment may be maintained at a data processing station such as the GPS server 26 shown in FIG. 1. Alternatively, this information source may be maintained at a cellular switching center such as the cellular switching center 24 of FIG. 1 or at each cell site, such as cell site 13 shown in FIG. 1. Typically, however, this information is maintained and routinely updated at the location server which is coupled to the cellular switching center. The information source may maintain the data in various formats, and it will be appreciated that the format shown in FIG. 4 illustrates only one example of a format. Typically, each estimated altitude, such as estimated altitude 203, will include a corresponding location such as a cell site location or identification for a cell site or service area. The information in the cell based information source 201 may be maintained in a database which includes cell object information, such as an identification of cell service areas or cell sites shown in columns 208 and 210 respectively and may also include cell site location such as the information shown in column 212. In the case of each estimated altitude, there is typically at least one of a cell site location or a cell site identification. It will be appreciated that each estimated altitude may be an average altitude of the geographical region covered by the radio signal coverage from a cell site. Other mathematical representations of the altitudes around the cell site may be used. It may be useful to use altitudes around the cell site rather than the altitude of the cell site particularly where the cell site's position may not be representative of the altitudes at which mobile SPS receivers can be found in the particular area.</p>
+    <p num="39">The use of the cell based information source 201 will now be described in conjunction with FIG. 5 which shows an example of a method of the present invention. In this following description, it will be assumed that the mobile SPS receiver will receive SPS signals and determine pseudoranges from those signals but will not complete a position solution calculation at the mobile receiver. Rather, the mobile receiver will transmit these pseudoranges to a particular cell site with which it is in radio communication and this cell site will forward the pseudoranges to a mobile switching center which will in turn forward the pseudoranges to a location server, such as the GPS server 26 of FIG. 1. This GPS server will then complete the position calculation using altitude aiding information according to an example of the present invention. In this particular example, a cell object information is determined in step 301. This may occur by the GPS server receiving a cell site identifier or a location for the cell site which is in wireless communication with a mobile cell based communication system which is coupled to the mobile SPS receiver, such as the receiver shown in FIG. 3A. For example, the cell site may forward its identifier information or may forward its location with the pseudorange information from the mobile SPS receiver to the GPS server. In step 303, the GPS server determines an estimated altitude for the mobile SPS receiver from the cell object information. In one example, the SPS server will perform a database lookup operation to obtain the estimated altitude by using the cell object information as an index into the database. This database may be maintained in the mass storage 55 shown in FIG. 2. If the location of the cell site is provided by providing a latitude and a longitude, the server may use this latitude and longitude to look up the altitude of the earth's surface at this point. Alternatively, in the case where a cell site identifier is provided such as a cell site number or other identification, then this cell object information will be used to obtain an estimated altitude; estimated altitude 205 is an example of such a situation where the cell site number B1 is used to identify estimated altitude 205. In step 305, the GPS server uses the estimated altitude to determine the position of the mobile GPS receiver. There are known ways in which the altitude may be used to augment or aid the position solution calculation.</p>
+    <p num="40">FIGS. 5A and 5B show methods in which an estimated altitude may be used in accordance with the present invention. The method of FIG. 5A begins at 311 in which cell object information is determined. This information is then used in 313 of FIG. 5A to determine an initial estimated geographic location (which may be specified as a latitude, longitude and altitude) for the mobile SPS receiver based upon the cell object information. In one example of this method, the cell object information is used as an index to look up in a database the estimated location which is associated with the cell object information. This estimated location is then used in 315 of FIG. 5A to calculate a position (e.g. a calculated latitude and longitude) of the mobile SPS receiver. This calculated latitude and longitude is then used in 317 of FIG. 5A to determine an estimated altitude; this may be done by performing a database look up operation on a second database to obtain the estimated altitude from the calculated latitude and longitude. In this case, the second database is similar to the database shown in FIG. 4 except that the second database used in FIG. 5A is more extensive in providing altitudes for many more possible combinations of latitudes and longitudes; while this second database used in FIG. 5A may not have an altitude for all possible combinations of latitudes and longitudes, interpolation logic may be used to determine an altitude through interpolation among altitudes in the database at latitudes and longitudes which are close to the calculated latitude and longitude. The altitude obtained in 317 of FIG. 5A may be used in 319 to again compute a position (effectively a refined position calculation).</p>
+    <p num="41">The second database may be improved over time as it is used by adding latitude/longitude/altitude combinations each time that a computed position is determined. That is, by using the system of the invention many times (e.g. each time "911" is pressed by a user of a cell phone), entries to the database can be added, and any altitude conflicts at a given latitude and longitude may be averaged (or flagged to be checked "manually" by an accurate GPS receiver reading). This will produce a robust three-dimensional database of the earth's surface over time. FIG. 5B shows an example of this method of adding entries to the second database. In step 325, the initial estimate of the location of a mobile SPS receiver is used to calculate a position of the mobile SPS receiver. The calculated position (latitude, longitude and altitude combination) is then used to update the second database (referred to as an altitude database in step 329).</p>
+    <p num="42">While the foregoing description assumed a particular architecture, it will be appreciated that the present invention may be used in numerous architectures and in numerous other examples. For example, the altitude information may be stored at a cell site and transmitted to the location server or GPS server along with the pseudorange information from a mobile SPS receiver. This would eliminate the requirement that each GPS server maintain a database, although it may still be advantageous for a server to do so in case there are cell sites which the server communicates with and which do not have their own altitude information. In another alternative, the altitude information may be transmitted to the mobile SPS receiver which determines its own position in a conventional manner by acquiring and tracking SPS satellites, determining pseudoranges, reading satellite ephemeris information from the SPS satellites and determining its position. In yet another alternative, rather than transmitting the altitude to the mobile unit, a cell object information, such as a cell site identifier or cell site location may be transmitted to the mobile SPS receiver which maintains its own database showing an estimated altitude for a given cell object information. In this manner, the mobile SPS receiver can determine its own position and also perform altitude aiding autonomously. In yet another alternative embodiment, the mobile SPS receiver may merely collect the SPS signals and digitize them and then transmit this digitization of the SPS signals to the GPS server which determines pseudoranges from this digitized information and which completes the position calculation. In yet another alternative embodiment, satellite ephemeris data may be sent from a source, such as the SPS server, through the cell site to the mobile SPS receiver, and this satellite ephemeris data is used in conjunction with pseudoranges determined by the mobile SPS receiver to provide a position solution at the mobile SPS receiver. An example of this architecture is described in U.S. Pat. No. 5,365,450.</p>
+    <p num="43">Another aspect of the present invention will be described now by referring to FIG. 6 which shows a method according to this aspect. The method shown in FIG. 6 relates to fault detection and isolation in a SPS receiver. While various fault detection and isolation (FDI) techniques are known in the art (see for example Chapter 5 and Chapter 8 of Global Positioning System: Theory and Applications, Volume 2, B. W. Parkinson and J. J. Spilker, Jr., editors, American Institute of Aeronautics and Astronautics, Inc., 1996; and also see Navigation System Integrity Monitoring Using Redundant Measurements by Mark A. Sturza, NAVIGATION: Journal of the Institute of Navigation, Vol. 35, No. 4, Winter 1988-89, p. 483 et. seq.), these techniques have not utilized altitude aiding in a way to identify the presence of a faulty satellite pseudorange. Once a faulty satellite pseudorange is identified, it may be excluded from a re-computed navigation solution to improve the final position determination.</p>
+    <p num="44">The method of FIG. 6 may begin in step 351 in which pseudoranges to several SPS satellites are determined. In step 353, an altitude pseudomeasurement is determined. This altitude pseudomeasurement may be considered a pseudorange to a satellite at the center of the earth and may be determined in the conventional manner of determining pseudomeasurements for altitude aiding which are utilized in the prior art. Thus, for example, this altitude pseudomeasurement can be visualized as a radius, which includes the earth's radius from the earth's center to a point above the earth's assumed spherical surface at an estimated altitude with respect to the earth's surface, defined by an ellipsoid. The estimated altitude may be derived as shown in FIG. 5 (steps 301 and 303). In step 355, an altitude for the mobile SPS receiver is calculated and this calculated altitude is compared to the estimated altitude. The calculated altitude may be obtained from a navigation solution based on the pseudoranges determined in step 351. The difference between these two values, if large enough, will indicate a possible faulty satellite pseudorange or possible faulty navigational solution, which may exist in the case of large multipath errors which cause large errors in a vertical direction as often occurs in an urban canyon situation. In step 357, the condition of at least one pseudorange may be determined based upon this comparison. If the comparison shows a small difference between the estimated altitude and the calculated altitude then the condition of the pseudoranges may be such that they are not at fault. On the other hand, if the difference between the estimated altitude and the calculated altitude is sufficiently large (e.g. the difference exceeds a threshold), then at least one of the pseudoranges (and/or a navigation solution) may be faulty.</p>
+    <p num="45">Also shown in step 357 is an alternative method which does not rely on the comparison between an estimated altitude and a calculated altitude. This alternative method may be performed instead of the comparison or in addition to the comparison. This alternative method uses the altitude pseudomeasurement (from step 353) as a redundant measurement (redundant to the pseudoranges from step 351) and uses FDI techniques which use redundant measurements to detect whether a faulty pseudorange (or faulty navigation solution) exists and to identify at least one faulty pseudorange if one exists. These FDI techniques are described in the literature; see, for example, Sturza, "Navigation System Integrity Monitoring Using Redundant Measurements" referred to above. After identifying the faulty pseudorange(s), they may be excluded from a re-computed navigation solution. It will be appreciated that a cellular pseudorange (described in co-pending U.S. patent application Ser. No. 09/064,673, filed Apr. 22, 1998 and entitled "Satellite Positioning System Augmentation with Wireless Communication Signals") may be used as a redundant measurement with these FDI techniques. An example of a cellular pseudorange is a time difference of arrival of a communication radio frequency signal in a CDMA or other cellular (cell based) communication system; the cellular pseudorange typically represents a time of travel of a communication signal between a cell site at a known location and the mobile SPS receiver which includes a cell based communication system.</p>
+    <p num="46">The methods of FIG. 6 may identify a particular pseudorange to a particular satellite as "bad" even though the SPS signals from the particular satellite have a high signal-to-noise ratio (SNR). In this case, the invention may reject this identification and continue to use the FDI techniques to find another faulty pseudorange.</p>
+    <p num="47">The methods of FIG. 6 may be used in a non-cell based system in which a single basestation is in point-to-point radio communication with a mobile SPS receiver. In this case, the estimated altitude may be an average altitude of the geographical region covered by radio signals to or from the basestation. In this particular example, no cell object information needs to be transmitted through a network. In another alternative, the method of FIG. 6 may be used in a cell based communication system in which a cell object information is transmitted from components in a network and ultimately used as an index to a database to derive an estimated altitude.</p>
+    <p num="48">While the foregoing description has generally assumed a system architecture in which a mobile SPS receiver determines pseudoranges and transmits these pseudoranges to a remotely located SPS server, it will be understood that the present invention is also applicable to other system architectures. For example, the present invention may be employed in a system in which a mobile SPS receiver transmits digitized SPS signals (with a time stamp showing time of reception) to a remotely located SPS server (without computing pseudoranges to SPS satellites), and the remotely located SPS server determines an estimated altitude and determines a position solution (which may also be examined with FDI techniques as described herein). In another example, the present invention may be employed in a system in which a mobile SPS receiver determines its own position with or without assistance from a remotely located SPS server. Without such assistance, the mobile SPS receiver may perform FDI techniques based on an estimated altitude with the aid of an altitude estimate provided by a user or transmitted to the mobile SPS receiver from a cell site (the mobile SPS receiver may determine a cell site identification from its cell based communications with the cell site and look up in its own database an estimated altitude which corresponds to the cell site). With such assistance, the mobile SPS receiver may determine its own position by receiving satellite ephemeris data and/or Doppler information and/or satellite almanac from an SPS server (e.g. transmitted from a cell site to the mobile SPS receiver) and may also receive and use an altitude estimate from an SPS server; in this case, the mobile SPS receiver may determine its position (after determining satellite pseudoranges) and may perform FDI techniques on the position solution using the altitude estimate.</p>
+    <p num="49">Although the methods and apparatus of the present invention have been described with reference to GPS satellites, it will be appreciated that the teachings are equally applicable to positioning systems which utilize pseudolites or a combination of satellites and pseudolites. Pseudolites are ground based transmitters which broadcast a PN code (similar to a GPS signal) which may be modulated on an L-band carrier signal, generally synchronized with GPS time. Each transmitter may be assigned a unique PN code so as to permit identification by a remote receiver. Pseudolites are useful in situations where GPS signals from an orbiting satellite might be unavailable, such as tunnels, mines, buildings or other enclosed areas. The term "satellite", as used herein, is intended to include pseudolite or equivalents of pseudolites, and the term GPS signals, as used herein, is intended to include GPS-like signals from pseudolites or equivalents of pseudolites.</p>
+    <p num="50">In the preceding discussion the invention has been described with reference to application upon the United States Global Positioning Satellite (GPS) system. It should be evident, however, that these methods are equally applicable to similar satellite positioning systems, and in, particular, the Russian Glonass system. The Glonass system primarily differs from GPS system in that the emissions from different satellites are differentiated from one another by utilizing slightly different carrier frequencies, rather than utilizing different pseudorandom codes. The term "GPS" used herein includes such alternative satellite positioning systems, including the Russian Glonass system.</p>
+    <p num="51">In the foregoing specification, the invention has been described with reference to specific exemplary embodiments thereof. It will, however, be evident that various modifications and changes may be made thereto without departing from the broader spirit and scope of the invention as set forth in the appended claims. The specification and drawings are, accordingly, to be regarded in an illustrative rather than a restrictive sense.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A method for determining a position of a mobile satellite positioning system (SPS) receiver having a cell based communication receiver, said method comprising:  determining a cell object information, said cell object information comprising at least one of a cell object location or a cell object identification;  determining an altitude from said cell object information, wherein said cell object information is selected based upon a cell site transmitter which is in wireless communication with said cell based communication receiver;  calculating a position of said mobile SPS receiver using said altitude.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. A method as in claim 1 wherein said cell object information is information representing at least one of a location or an identification of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. A method as in claim 2 wherein said altitude is an approximate altitude of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. A method as in claim 2 wherein said altitude is a mathematical representation of altitudes in the geographical vicinity of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. A method as in claim 2 wherein said cell object information and said altitude are stored in a computer readable storage medium.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. A method as in claim 5 further comprising:  transmitting at least one pseudorange from said mobile SPS receiver to a remote processing station.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. A method as in claim 6 wherein said transmitting is through a receiver at said cell site transmitter and wherein said remote processing station is coupled to a cellular switching center which is coupled to said cell site transmitter and wherein said remote processing system determines said altitude and calculates said position using said altitude.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. A method as in claim 2 further comprising:  transmitting said altitude to said mobile SPS receiver, and wherein said mobile SPS receiver calculates said position using said altitude.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. A method as in claim 2 further comprising:  transmitting said cell object information to said mobile SPS receiver, and wherein said mobile SPS receiver determines said altitude.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. A method as in claim 7 further comprising:  receiving, at said remote processing system, satellite ephemeris data.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. A computer readable medium containing executable computer program instructions which, when executed by a data processing system, cause said data processing system to perform a method comprising:  determining a cell object information, said cell object information comprising at least one of a cell object location or a cell object identification;  determining an altitude from said cell object information, wherein said cell object information is selected based upon a cell site transmitter which is in wireless communication with a cell based communication receiver of a mobile satellite positioning system (SPS) receiver;  calculating a position of said mobile SPS receiver using said altitude.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. A computer readable medium as in claim 11 wherein said cell object information is information representing at least one of a location or an identification of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. A computer readable medium as in claim 12 wherein said altitude is an approximate altitude of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. A computer readable medium as in claim 12 wherein said altitude is a mathematical representation of altitudes in the geographical vicinity of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. A computer readable medium as in claim 12 wherein said cell object information and said altitude are stored in a computer readable storage medium.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. A computer readable medium as in claim 15 wherein said method further comprises:  transmitting at least one pseudorange from said mobile SPS receiver to a remote processing station.</claim-text>
+    </claim>
+    <claim num="17">
+      <claim-text>17. A computer readable medium as in claim 16 wherein said transmitting is through a receiver at said cell site transmitter and wherein said remote processing station is coupled to a cellular switching center which is coupled to said cell site transmitter and wherein said remote processing system determines said altitude and calculates said position using said altitude.</claim-text>
+    </claim>
+    <claim num="18">
+      <claim-text>18. A computer readable medium as in claim 12 wherein said method further comprises:  transmitting said altitude to said mobile SPS receiver, and wherein said mobile SPS receiver calculates said position using said altitude.</claim-text>
+    </claim>
+    <claim num="19">
+      <claim-text>19. A computer readable medium as in claim 12 wherein said method further comprises:  transmitting said cell object information to said mobile SPS receiver, and wherein said mobile SPS receiver determines said altitude.</claim-text>
+    </claim>
+    <claim num="20">
+      <claim-text>20. A computer readable medium as in claim 17 wherein said method further comprises:  receiving, at said remote processing system, satellite ephemeris data.</claim-text>
+    </claim>
+    <claim num="21">
+      <claim-text>21. A data processing station comprising:  a processor;  a storage device coupled to said processor;  a transceiver coupled to said processor, said transceiver for coupling said data processing station to a wireless cell site, said storage device storing a cell object information which comprises at least one of a cell object location or a cell object identification for said wireless cell site, wherein said processor determines an altitude from said cell object information which is selected based upon said wireless cell site being in wireless communication with a cell based communication receiver of a mobile satellite positioning system (SPS) receiver and wherein said processor calculates a position of said mobile SPS receiver using said altitude.</claim-text>
+    </claim>
+    <claim num="22">
+      <claim-text>22. A data processing station as in claim 21 wherein said processor receives a source of SPS signals and said transceiver receives at least one pseudorange from said wireless cell site and wherein said processor uses said SPS signals and said at least one pseudorange to determine said position.</claim-text>
+    </claim>
+    <claim num="23">
+      <claim-text>23. A data processing station as in claim 22 wherein said storage device stores a database containing a cell object information and a corresponding altitude for each of a plurality of wireless cell sites which are coupled to said transceiver.</claim-text>
+    </claim>
+    <claim num="24">
+      <claim-text>24. A method for determining a position of a mobile satellite positioning system (SPS) receiver, said method comprising:  determining a calculated altitude from a plurality of pseudoranges to a plurality of SPS satellites;  comparing said calculated altitude to an estimate of an altitude of said mobile SPS receiver;  determining a condition of at least one of said pseudoranges, said condition being based on said comparing of said calculated altitude to said estimate.</claim-text>
+    </claim>
+    <claim num="25">
+      <claim-text>25. A method as in claim 24 wherein said position is determined from a position solution algorithm and wherein if said condition is a first state, said pseudorange is used in said position solution algorithm.</claim-text>
+    </claim>
+    <claim num="26">
+      <claim-text>26. A method as in claim 25 wherein if said condition is a second state, said pseudorange is not used in said position solution algorithm.</claim-text>
+    </claim>
+    <claim num="27">
+      <claim-text>27. A method as in claim 26 further comprising:  determining, at said mobile SPS receiver, said plurality of pseudoranges;  determining a cell object information, said cell object information comprising at least one of a cell object location or a cell object identification;  determining said estimate of said altitude from said cell object information, wherein said cell object information is selected based upon a cell site transmitter which is in wireless communication with a cell based communication system which is coupled to said mobile SPS receiver.</claim-text>
+    </claim>
+    <claim num="28">
+      <claim-text>28. A method as in claim 27 wherein said mobile SPS receiver transmits said plurality of pseudoranges to a data processing station which determines said condition and said position.</claim-text>
+    </claim>
+    <claim num="29">
+      <claim-text>29. A method as in claim 27 wherein said cell object information is information representing at least one of a location or an identification of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="30">
+      <claim-text>30. A method as in claim 29 wherein said altitude is a mathematical representation of at least one altitude in the geographical vicinity of said cell site transmitter.</claim-text>
+    </claim>
+    <claim num="31">
+      <claim-text>31. A method as in claim 27 wherein said cell object information and said altitude are stored in a computer readable storage medium.</claim-text>
+    </claim>
+    <claim num="32">
+      <claim-text>32. A method as in claim 28 wherein said data processing station receives satellite ephemeris data.</claim-text>
+    </claim>
+    <claim num="33">
+      <claim-text>33. A data processing station comprising:  a processor;  a storage device coupled to said processor;  a transceiver coupled to said processor, said transceiver for coupling said data processing station to a wireless communication system, said storage device storing an estimate of an altitude for at least one area within wireless radio coverage of said wireless communication system, said transceiver receiving a plurality of pseudoranges, including a first pseudorange, from a mobile wireless communication system which is coupled to a mobile satellite positioning system (SPS) receiver, said processor determining an altitude which is a determined altitude and comparing said estimate to said determined altitude and determining a condition of said first pseudorange, said condition being based on said comparing of said estimate to said determined altitude.</claim-text>
+    </claim>
+    <claim num="34">
+      <claim-text>34. A data processing system as in claim 33 wherein said processor receives a source of SPS signals and wherein said processor determines a position of said mobile SPS receiver from a position solution algorithm and wherein if said condition is a first state, said first pseudorange is used in said position solution algorithm.</claim-text>
+    </claim>
+    <claim num="35">
+      <claim-text>35. A data processing system as in claim 34 wherein if said condition is a second state, said first pseudorange is not used in said position solution algorithm.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

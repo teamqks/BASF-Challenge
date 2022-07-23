@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061242A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061242</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061242</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference is-representative="YES" family-id="22976814" extended-family-id="42084438">
+      <document-id>
+        <country>US</country>
+        <doc-number>09257567</doc-number>
+        <kind>A</kind>
+        <date>19990225</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1999US-09257567</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>43131852</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>25756799</doc-number>
+        <kind>A</kind>
+        <date>19990225</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1999US-09257567</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H05K   7/20        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>7</main-group>
+        <subgroup>20</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01L  23/495       20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>23</main-group>
+        <subgroup>495</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H05K   3/30        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>3</main-group>
+        <subgroup>30</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>361704000</text>
+        <class>361</class>
+        <subclass>704000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>174016300</text>
+        <class>174</class>
+        <subclass>016300</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>257678000</text>
+        <class>257</class>
+        <subclass>678000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>257707000</text>
+        <class>257</class>
+        <subclass>707000</subclass>
+      </further-classification>
+      <further-classification sequence="4">
+        <text>257723000</text>
+        <class>257</class>
+        <subclass>723000</subclass>
+      </further-classification>
+      <further-classification sequence="5">
+        <text>257E23051</text>
+        <class>257</class>
+        <subclass>E23051</subclass>
+      </further-classification>
+      <further-classification sequence="6">
+        <text>361702000</text>
+        <class>361</class>
+        <subclass>702000</subclass>
+      </further-classification>
+      <further-classification sequence="7">
+        <text>361737000</text>
+        <class>361</class>
+        <subclass>737000</subclass>
+      </further-classification>
+      <further-classification sequence="8">
+        <text>361760000</text>
+        <class>361</class>
+        <subclass>760000</subclass>
+      </further-classification>
+      <further-classification sequence="9">
+        <text>361773000</text>
+        <class>361</class>
+        <subclass>773000</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>H05K-003/30C</text>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>003</main-group>
+        <subgroup>30</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>H01L-023/495H</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>023</main-group>
+        <subgroup>495</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-003/303</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>3</main-group>
+        <subgroup>303</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140311</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-023/49568</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>23</main-group>
+        <subgroup>49568</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140311</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-2924/0002</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>2924</main-group>
+        <subgroup>0002</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140307</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-2201/10454</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>2201</main-group>
+        <subgroup>10454</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140311</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-2201/10659</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>2201</main-group>
+        <subgroup>10659</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140311</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="6">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-2201/10696</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>2201</main-group>
+        <subgroup>10696</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140311</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="7">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H05K-2203/167</classification-symbol>
+        <section>H</section>
+        <class>05</class>
+        <subclass>K</subclass>
+        <main-group>2203</main-group>
+        <subgroup>167</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20140311</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="8">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20151101</date>
+        </classification-scheme>
+        <classification-symbol>Y02P-070/613</classification-symbol>
+        <section>Y</section>
+        <class>02</class>
+        <subclass>P</subclass>
+        <main-group>70</main-group>
+        <subgroup>613</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20151104</date>
+        </action-date>
+      </patent-classification>
+      <combination-set sequence="9">
+        <group-number>1</group-number>
+        <combination-rank>
+          <rank-number>1</rank-number>
+          <patent-classification>
+            <classification-scheme office="EP" scheme="CPC">
+              <date>20130101</date>
+            </classification-scheme>
+            <classification-symbol>H01L-2924/0002</classification-symbol>
+            <section>H</section>
+            <class>01</class>
+            <subclass>L</subclass>
+            <main-group>2924</main-group>
+            <subgroup>0002</subgroup>
+            <symbol-position>L</symbol-position>
+            <classification-value>A</classification-value>
+            <classification-status>B</classification-status>
+            <classification-data-source>H</classification-data-source>
+            <action-date>
+              <date>20140307</date>
+            </action-date>
+          </patent-classification>
+        </combination-rank>
+        <combination-rank>
+          <rank-number>2</rank-number>
+          <patent-classification>
+            <classification-scheme office="EP" scheme="CPC">
+              <date>20130101</date>
+            </classification-scheme>
+            <classification-symbol>H01L-2924/00</classification-symbol>
+            <section>H</section>
+            <class>01</class>
+            <subclass>L</subclass>
+            <main-group>2924</main-group>
+            <subgroup>00</subgroup>
+            <symbol-position>L</symbol-position>
+            <classification-value>A</classification-value>
+            <classification-status>B</classification-status>
+            <classification-data-source>H</classification-data-source>
+            <action-date>
+              <date>20140307</date>
+            </action-date>
+          </patent-classification>
+        </combination-rank>
+      </combination-set>
+      <patent-classification sequence="9">
+        <classification-scheme office="EP" scheme="ICO"/>
+        <classification-symbol>T05K-201/10C1B</classification-symbol>
+      </patent-classification>
+      <patent-classification sequence="10">
+        <classification-scheme office="EP" scheme="ICO"/>
+        <classification-symbol>T05K-201/10D1E</classification-symbol>
+      </patent-classification>
+      <patent-classification sequence="11">
+        <classification-scheme office="EP" scheme="ICO"/>
+        <classification-symbol>T05K-201/10D1J</classification-symbol>
+      </patent-classification>
+      <patent-classification sequence="12">
+        <classification-scheme office="EP" scheme="ICO"/>
+        <classification-symbol>T05K-203/16F</classification-symbol>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>50</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>5</number-of-drawing-sheets>
+      <number-of-figures>10</number-of-figures>
+      <image-key data-format="questel">US6061242</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Die paddle heat sink with thermal posts</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>SONO MICHIO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5305179</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5305179</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>CHIU ANTHONY M</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5359493</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5359493</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>CHIU TONY, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5394607</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5394607</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>O'DONLEY BOBBY</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5402006</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5402006</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>RUSSELL ERNEST, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5432678</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5432678</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>ALFARO RAFAEL C, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5458716</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5458716</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>WILLS KENDALL S, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5605863</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5605863</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>ALFARO RAFAEL CESAR, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5650915</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5650915</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>SHIM IL KWON, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5708567</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5708567</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>WATANABE NORINAGA, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5798570</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5798570</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="11">
+          <text>MCMILLAN JOHN R, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5827999</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5827999</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="12">
+          <document-id>
+            <country>US</country>
+            <doc-number>5305179</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5305179</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="13">
+          <document-id>
+            <country>US</country>
+            <doc-number>5359493</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5359493</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="14">
+          <document-id>
+            <country>US</country>
+            <doc-number>5394607</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5394607</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="15">
+          <document-id>
+            <country>US</country>
+            <doc-number>5402006</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5402006</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="16">
+          <document-id>
+            <country>US</country>
+            <doc-number>5432678</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5432678</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="17">
+          <document-id>
+            <country>US</country>
+            <doc-number>5458716</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5458716</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="18">
+          <document-id>
+            <country>US</country>
+            <doc-number>5605863</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5605863</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="19">
+          <document-id>
+            <country>US</country>
+            <doc-number>5650915</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5650915</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="20">
+          <document-id>
+            <country>US</country>
+            <doc-number>5708567</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5708567</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="21">
+          <document-id>
+            <country>US</country>
+            <doc-number>5798570</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5798570</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="22">
+          <document-id>
+            <country>US</country>
+            <doc-number>5827999</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5827999</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Micron Technology, Inc.</orgname>
+            <address>
+              <address-1>Boise, ID, US</address-1>
+              <city>Boise</city>
+              <state>ID</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>MICRON TECHNOLOGY</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Corisis, David J.</name>
+            <address>
+              <address-1>Meridian, ID, US</address-1>
+              <city>Meridian</city>
+              <state>ID</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>Moden, Walter L.</name>
+            <address>
+              <address-1>Meridian, ID, US</address-1>
+              <city>Meridian</city>
+              <state>ID</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Schwegman, Lundberg, Woessner &amp; Kluth, P.A.</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Picard, Leo P.</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A semiconductor device having a die paddle and a die disposed on the die paddle.
+      <br/>
+      The die paddle serves as a heat dissipation device and the die paddle is partially and/or fully encapsulated by a package body.
+      <br/>
+      Thermal posts extend from the die paddle to direct heat from the semiconductor device to a printed circuit board and further provide stability and alignment during placement of the semiconductor device on the printed circuit board.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>RELATED APPLICATIONS</h1>
+    </p>
+    <p num="2">This patent application is related to an applications entitled "VERTICAL SURFACE MOUNT APPARATUS WITH THERMAL CARRIER", having Ser. No. 09/060,562, which was filed on Apr. 15, 1998; and "INTEGRATED CIRCUIT PACKAGE ALIGNMENT FEATURE," having Ser. No. 08/929,843, which was filed on Sep. 15, 1997.</p>
+    <p num="3">
+      <h1>FIELD OF THE INVENTION</h1>
+    </p>
+    <p num="4">The present invention relates generally to semiconductor packaging mounting packages. More particularly, it pertains to heat dissipation for a semiconductor packaging mounting package.</p>
+    <p num="5">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="6">Integrated circuits are being produced with diminishing geometries and increasing densities. Associated with the increase in density is an increase in the amount of heat generated by a semiconductor die per square unit of area, and also increased power consumption.</p>
+    <p num="7">Increased semiconductor device power consumption and increased density translates into increased semiconductor device operating temperatures. Heat generated by a semiconductor device migrates through the plastic packaging material and can reach damaging temperatures, where sustained high operating temperatures can result in a decrease in performance of the semiconductor device or even semiconductor device failure. In addition, the high temperatures can result in a process of decomposition resulting in package cracking and eventual device failure.</p>
+    <p num="8">Traditional methods for removing excess semiconductor device heat include liquid cooling, forced air cooling, coupling the device with an external heat sink, or a combination of these methods. Liquid cooling or forced air cooling can be difficult and costly to implement, especially in light of space limitations. Heat sink misalignment can result in a decrease in performance of the semiconductor device or even yield losses. Furthermore, the heat spreader is costly to implement given the additional material cost, and the cost of labor to attach the external heat sink.</p>
+    <p num="9">Accordingly, what is needed is a more efficient manner to cool a packaged device. What is also needed is a method of cooling a packaged device which can be easily incorporated into current manufacturing processes.</p>
+    <p num="10">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="11">A semiconductor device which is capable of dissipating heat includes a die paddle including an integral heat dissipation device and a semiconductor die, which is thermally coupled with the die paddle. The semiconductor die is coupled with the die paddle with a thermally conductive paste, a non-conductive paste, or double-sided tape, or other equivalent methods or materials. In addition, a package of plastic or other suitable material encompasses at least a portion of, or optionally fully, the semiconductor die and the die paddle.</p>
+    <p num="12">In one embodiment, the package encompasses about 50% of the die paddle. In another embodiment, the package encompasses about 80% of the die paddle. In yet another embodiment, the package encompasses about 95% of the die paddle. Alternatively, the package encompasses about 50%-95% of the die paddle. The die paddle has a front surface and a rear surface, and, in one embodiment, the semiconductor die is disposed on the front surface and the rear surface exposed to an environment. In another embodiment, the package encompasses side surfaces of the die paddle, and the rear surface is exposed to an environment.</p>
+    <p num="13">In yet another embodiment, the die paddle is defined in part by a first surface area and the package is defined by a second surface area. The first surface area of the die paddle is maximized relative to the second surface area of the package.</p>
+    <p num="14">The semiconductor further includes thermal posts which extend from with the die paddle. The thermal posts are adapted for attaching and aligning the semiconductor device with a printed circuit board and assist in directing heat from the semiconductor device to a printed circuit board. In addition, the semiconductor device optionally includes a lead electrically coupled with the semiconductor die, and the package encompasses a portion of the lead. Optionally, the die paddle comprises a ground plane.</p>
+    <p num="15">The semiconductor device allows for increased heat dissipation therefrom without requiring additional heat sinks or heat slugs to be attached thereto. This reduces the overall cost of the semiconductor device since fewer parts are required and assembly time is thereby reduced. Furthermore, cycle time to produce the semiconductor device can be reduced since fewer parts are assembled. Using the die paddle as the heat dissipator provides for improved thermal performance and package reliability. Having the die paddle partially exposed facilitates improved heat dissipation through convection. In addition, the electrical performance of the semiconductor device is increased by reducing the loop inductance.</p>
+    <p num="16">These and other embodiments, aspects, advantages, and features of the present invention will be set forth in part in the description which follows, and in part will become apparent to those skilled in the art by reference to the following description of the invention and referenced drawings or by practice of the invention. The aspects, advantages, and features of the invention are realized and attained by means of the instrumentalities, procedures, and combinations particularly pointed out in the appended claims and their equivalents.</p>
+    <p num="17">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="18">FIG. 1 is a perspective view illustrating a semiconductor device.</p>
+    <p num="19">FIG. 2 is a side cut-away view illustrating a semiconductor device.</p>
+    <p num="20">FIG. 3 is a front elevation illustrating the semiconductor device.</p>
+    <p num="21">FIG. 4 is a front elevation illustrating a circuit board assembly.</p>
+    <p num="22">FIG. 5 is a perspective view illustrating a semiconductor device.</p>
+    <p num="23">FIG. 5A is a perspective view illustrating a semiconductor device.</p>
+    <p num="24">FIG. 5B is a perspective view illustrating a semiconductor device.</p>
+    <p num="25">FIG. 6 is a side cut-away view illustrating a semiconductor device.</p>
+    <p num="26">FIG. 6A is a cut-away view illustrating a semiconductor device.</p>
+    <p num="27">FIG. 7 is rear elevation illustrating a circuit board assembly.</p>
+    <p num="28">
+      <h1>DESCRIPTION OF THE EMBODIMENTS</h1>
+    </p>
+    <p num="29">In the following detailed description, reference is made to the accompanying drawings which form a part hereof, and in which is shown by way of illustration specific embodiments in which the invention may be practiced. These embodiments are described in sufficient detail to enable those skilled in the art to practice the invention, and it is to be understood that other embodiments may be utilized and that structural changes may be made without departing from the scope of the present invention. Therefore, the following detailed description is not to be taken in a limiting sense, and the scope of the present invention is defined by the appended claims and their equivalents.</p>
+    <p num="30">FIGS. 1 and 2 illustrate a first embodiment of a semiconductor device 100. The semiconductor device includes a die paddle 110 a semiconductor die 120, and a package body 130. The semiconductor device 100 further includes a plurality of vertical surface mount gull-wing zig-zag package leads 112 extending therefrom. The leads 112 extend from the die paddle 110 as will be further described below.</p>
+    <p num="31">The semiconductor die 120 includes circuitry formed thereon. The semiconductor die 120 is attached to the die paddle 110 for example, by conductive paste. Alternatively, the semiconductor die 120 can be attached to the die paddle 110 using other methods or materials such as non-conductive paste or double sided tape. In addition, a pocket can be etched on the die paddle 110.</p>
+    <p num="32">The die paddle 110 is defined by a front surface 115, a rear surface 116, side surfaces 117, a top surface 118, and a bottom surface 119. The semiconductor side 120 is coupled with the front surface 115 of the die paddle 110 by methods or materials, as mentioned above. The die paddle 110 is coupled with a printed circuit board 180, where the bottom surface 119 is disposed proximate to the printed circuit board 180, as shown in FIG. 4.</p>
+    <p num="33">Referring to FIG. 3, the die paddle 110 includes leads 112 extending therefrom. The leads 112 extend out through the package body 130 and can be formed to accommodate a variety of mounting styles. The leads 112 allow for the electrical connection between the semiconductor device 100 and for instance, a printed circuit board 180, as shown in FIG. 4.</p>
+    <p num="34">The die paddle 110 further includes thermal posts 114 extending therefrom, and are adapted to attach to a printed circuit board 180. The thermal posts 114 provide a thermal path from the die paddle 110 and the semiconductor device 100 to the printed circuit board 180, which directs heat away from the semiconductor device 100. The thermal posts 114 further provide alignment of the semiconductor device 100 while it is being installed on the printed circuit board 180. The thermal posts 114 further allow for mechanical support during placement of the semiconductor device 100 on the printed circuit board 180 and during the solder reflow operation, where the leads 112 are connected with the printed circuit board 180. Alternatively, the thermal posts 114 are connected to a ground on a printed circuit board, which allows for the die paddle 110 to serve as a ground.</p>
+    <p num="35">The semiconductor device 100 further includes a package body 130, which completely encapsulates the die paddle 110 and the semiconductor die 120. The leads 112 and the thermal posts 114 extend outside of the package body 130 so as to allow connection with the printed circuit board 180. The package body 130 is formed of plastic. Alternatively, other electrically non-conductive materials can be used as well. The package body 130, in one embodiment, is molded over the die paddle 110, thereby encapsulating the die paddle 110. The package body 130 protects the semiconductor die 120 from the surrounding environment, and seals the die 120 therein. However, the package body 130 does not efficiently dissipate heat from the semiconductor device 100.</p>
+    <p num="36">To assist in the dissipation of heat from the semiconductor device 100, the die paddle 110 is increased in size relative to the package body 130 to serve as a heat dissipation device. In one embodiment, the die paddle has substantially the same size as the package body 130. The heat dissipation device, which is directly and thermally coupled with the semiconductor die 120 and the printed circuit board 180 allows for heat to be more efficiently dissipated from the semiconductor device 100. The die paddle 110 is formed of a metal, which is a thermally conductive material. The die paddle 110 can be formed, for example, by stamping.</p>
+    <p num="37">FIGS. 5-7 illustrate another embodiment of a semiconductor device 200. The semiconductor device includes a die paddle 210, a semiconductor die 220, and a package body 230. The semiconductor device 200 further includes a plurality of vertical surface mount gull-wing zig-zag package leads 212 extending therefrom. The leads 212 extend from the die paddle 210 as will be further described below.</p>
+    <p num="38">As described above, the semiconductor die 220 includes circuitry formed thereon. The semiconductor die 220 is attached to the die paddle 210 for example, by conductive paste. Alternatively, the semiconductor die 220 can be attached to the die paddle 210 using other methods or materials such as non-conductive paste or double sided tape. In addition, a pocket 211 (FIG. 6A) can be etched on the die paddle 210. Alternatively, the semiconductor die 220 is mounted to the die paddle 210 using leads over chip (LOC) methods, as is known in the art. Wire bonding or an equivalent is used to connect selected bond pads on the die 220 to selected leads 212 or conductors of a lead frame.</p>
+    <p num="39">The die paddle 210 is defined by a front surface 215, a rear surface 216, side surfaces 217, a top surface 218, and a bottom surface 219. The semiconductor side 220 is coupled with the front surface 215 of the die paddle 210 by methods or materials, as mentioned above. The die paddle 210 is coupled with a printed circuit board 280, where the bottom surface 219 is disposed proximate to the printed circuit board 280, as shown in FIG. 7. As shown in FIG. 5, the die paddle 210 includes leads 212 extending therefrom. The leads 212 extend out through the package body 230 and can be formed to accommodate a variety of mounting styles. The leads 212 allow for the electrical connection between the semiconductor device 200 and for instance, a printed circuit board 280, as shown in FIG. 7.</p>
+    <p num="40">The die paddle 210 further includes thermal posts 214 extending therefrom, and are adapted to attach to a printed circuit board 280. The thermal posts 214 provide a thermal path from the die paddle 210 and the semiconductor device 200 to the printed circuit board 280, which directs heat away from the semiconductor device 200. The thermal posts 214 further provide alignment of the semiconductor device 200 while it is being installed on the printed circuit board 280. The thermal posts 214 further allow for mechanical support during placement of the semiconductor device 200 on the printed circuit board 280 and during the solder reflow operation, where the leads 212 are connected with the printed circuit board 280.</p>
+    <p num="41">The semiconductor device 200 further includes a package body 230, which in one embodiment, at least partially encapsulates the die paddle 210 and the semiconductor die 220, where the rear surface 216 of the die paddle 210 is partially or fully exposed to the environment. The front surface 215, on which the semiconductor die 220 is disposed, is encapsulated by the package body 230. Alternatively, the side surfaces 217 of the die paddle 210 are encompassed by the package body 230. In one embodiment, the package body 230 encompasses at least 50% of the die paddle 210 (FIG. 5A).</p>
+    <p num="42">The package body 230, in another embodiment, encompasses at least 80% of the die paddle 210 (FIG. 5). In yet another embodiment, the die paddle 210 is encompassed at least 95% by the package body 230 (FIG. 5B). Alternatively, the die paddle 210 is encompassed between 50% and 95% by the package body. Having the die paddle 210 partially exposed to the environment aids in the dissipation of heat, and the semiconductor die 220 is protected from the environment. Heat dissipation can be further facilitated by drawing air, or another medium, over the exposed surface of the die paddle 210.</p>
+    <p num="43">The leads 212 and the thermal posts 214 extend outside of the package body 230 so as to allow connection with the printed circuit board 280. In one embodiment, the package body 230 is formed of plastic. Alternatively, other electrically non-conductive materials can be used as well. The package body 230, in one embodiment, is molded over the die paddle 210, thereby encapsulating the die paddle 210. The package body 230 protects the semiconductor die 220 from the surrounding environment, and seals the die 220 therein. However, the package body 230 does not efficiently dissipate heat from the semiconductor device 200.</p>
+    <p num="44">To assist in the dissipation of heat from the semiconductor device 200, the die paddle 210 is increased in size relative to the package body 230 to serve as a heat dissipation device. In one embodiment, the die paddle has substantially the same size as the package body 230. The heat dissipation device, which is directly and thermally coupled with the semiconductor die 220 and the printed circuit board 280 allows for heat to be more efficiently dissipated from the semiconductor device 200. The die paddle 210 is formed of a metal, which is a thermally conductive material. The die paddle 210 can be formed, for example, by stamping or other equivalent methods.</p>
+    <p num="45">Advantageously, the semiconductor device allows for increased heat dissipation therefrom without requiring additional heat sinks or heat slugs to be attached thereto. This reduces the overall cost of the semiconductor device since fewer parts are required and assembly time is thereby reduced. Furthermore, cycle time to produce the semiconductor device can be reduced since fewer parts are assembled. Using the die paddle as the heat dissipator provides for improved thermal performance and package reliability. Having the die paddle partially exposed facilitates improved heat dissipation through convection. In addition, the electrical performance of the semiconductor device is increased by reducing the loop inductance.</p>
+    <p num="46">It is to be understood that the above description is intended to be illustrative, and not restrictive. Many other embodiments will be apparent to those of skill in the art upon reading and understanding the above description. The scope of the invention should, therefore, be determined with reference to the appended claims, along with the full scope of equivalents to which such claims are entitled.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A semiconductor device, comprising:  a die paddle including a heat dissipation device integral therewith;  a pocket formed in the die paddle;  a semiconductor die thermally coupled with the die paddle;  a package encompassing at least a portion of the semiconductor die and the die paddle; and  thermal posts extending from the die paddle, the thermal posts adapted for attaching and aligning the semiconductor device with a printed circuit board.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The semiconductor device as recited in claim 1, wherein the package fully encompasses the die paddle.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The semiconductor device as recited in claim 1, wherein the package encompasses about 50% of the die paddle.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The semiconductor device as recited in claim 1, wherein the package encompasses about 80% of the die paddle.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The semiconductor device as recited in claim 1, wherein the package encompasses about 95% of the die paddle.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The semiconductor device as recited in claim 1, wherein the package encompasses 50%-95% of the die paddle.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The semiconductor device as recited in claim 1, wherein the package is formed of plastic.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The semiconductor device as recited in claim 1, wherein the semiconductor die is coupled with the die paddle with a thermally conductive paste.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The semiconductor device as recited in claim 1, wherein the semiconductor die is coupled with the die paddle with a non-conductive paste.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The semiconductor device as recited in claim 1, wherein the semiconductor die is coupled with the die paddle with double-sided tape.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The semiconductor device as recited in claim 1, further comprising at least one lead electrically coupled with the semiconductor die, where the package encompasses a portion of the at least one lead.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The semiconductor device as recited in claim 1, further comprising a means for electrically connecting at least one lead with the semiconductor die.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The semiconductor device as recited in claim 1, further comprising a plurality of leads coupled with the semiconductor die.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The semiconductor device as recited in claim 1, wherein the pocket is etched on the die paddle.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. The semiconductor device as recited in claim 1, wherein the die paddle is defined in part by a die paddle surface area and the package is defined by a package surface area, and the die paddle surface area is maximized relative to the package surface area.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. The semiconductor device as recited in claim 1, wherein the die paddle comprises a ground plane.</claim-text>
+    </claim>
+    <claim num="17">
+      <claim-text>17. The semiconductor device as recited in claim 1, wherein the die paddle is defined by a top edge and side edges, and the package encompasses the side edges and not the top edge.</claim-text>
+    </claim>
+    <claim num="18">
+      <claim-text>18. The semiconductor device as recited in claim 1, wherein the die paddle is defined by a front surface and a rear surface, the semiconductor die is disposed on the front surface and the rear surface is exposed to an environment.</claim-text>
+    </claim>
+    <claim num="19">
+      <claim-text>19. A circuit board assembly, comprising:  a semiconductor device electrically coupled with a printed circuit board, the semiconductor device comprising:   a die paddle including a heat dissipation device integral therewith;   a pocket formed in the die paddle   a semiconductor die thermally coupled with the die paddle;   a package encompassing at least a portion of the semiconductor die and the die paddle; and   thermal posts extending from the heat dissipation device, the thermal posts adapted for attaching and aligning the semiconductor device with a printed circuit board.</claim-text>
+    </claim>
+    <claim num="20">
+      <claim-text>20. The circuit board assembly as recited in claim 19, wherein the package fully encompasses the die paddle.</claim-text>
+    </claim>
+    <claim num="21">
+      <claim-text>21. The circuit board assembly as recited in claim 19, wherein the package encompasses about 50% of the die paddle.</claim-text>
+    </claim>
+    <claim num="22">
+      <claim-text>22. The circuit board assembly as recited in claim 19, wherein the package encompasses about 80% of the die paddle.</claim-text>
+    </claim>
+    <claim num="23">
+      <claim-text>23. The circuit board assembly as recited in claim 19, wherein the package encompasses about 95% of the die paddle.</claim-text>
+    </claim>
+    <claim num="24">
+      <claim-text>24. The circuit board assembly as recited in claim 19, wherein the package encompasses 50%-95% of the die paddle.</claim-text>
+    </claim>
+    <claim num="25">
+      <claim-text>25. The circuit board assembly as recited in claim 19, further comprising thermal posts extending from the die paddle, the thermal posts adapted for attaching and aligning the circuit board assembly with a printed circuit board.</claim-text>
+    </claim>
+    <claim num="26">
+      <claim-text>26. The circuit board assembly as recited in claim 19, wherein the package is formed of plastic.</claim-text>
+    </claim>
+    <claim num="27">
+      <claim-text>27. The circuit board assembly as recited in claim 19, wherein the semiconductor die is coupled with the die paddle with a thermally conductive paste.</claim-text>
+    </claim>
+    <claim num="28">
+      <claim-text>28. The circuit board assembly as recited in claim 19, wherein the semiconductor die is coupled with the die paddle with a non-conductive paste.</claim-text>
+    </claim>
+    <claim num="29">
+      <claim-text>29. The circuit board assembly as recited in claim 19, wherein the semiconductor die is coupled with the die paddle with double-sided tape.</claim-text>
+    </claim>
+    <claim num="30">
+      <claim-text>30. The circuit board assembly as recited in claim 19, further comprising at least one lead electrically coupled with the semiconductor die, where the package encompasses a portion of the at least one lead.</claim-text>
+    </claim>
+    <claim num="31">
+      <claim-text>31. The circuit board assembly as recited in claim 19, further comprising a means for electrically connecting the at least one lead with the semiconductor die.</claim-text>
+    </claim>
+    <claim num="32">
+      <claim-text>32. The circuit board assembly as recited in claim 19, further comprising a plurality of leads coupled with the semiconductor die.</claim-text>
+    </claim>
+    <claim num="33">
+      <claim-text>33. The circuit board assembly as recited in claim 19, wherein the pocket is etched on the die paddle.</claim-text>
+    </claim>
+    <claim num="34">
+      <claim-text>34. The circuit board assembly as recited in claim 19, wherein the die paddle is defined in part by die paddle surface area and the package is defined in part by a package surface area, and the die paddle surface area is maximized relative to the package surface area.</claim-text>
+    </claim>
+    <claim num="35">
+      <claim-text>35. The circuit board assembly as recited in claim 19, wherein the die paddle comprises a ground plane.</claim-text>
+    </claim>
+    <claim num="36">
+      <claim-text>36. The circuit board assembly as recited in claim 19, wherein the die paddle is defined by a top edge and side edges, and the package encompasses the side edges and not the top edge.</claim-text>
+    </claim>
+    <claim num="37">
+      <claim-text>37. The circuit board assembly as recited in claim 19, wherein the die paddle is defined by a front surface and a rear surface, the semiconductor die disposed on the front surface and the rear surface exposed to an environment.</claim-text>
+    </claim>
+    <claim num="38">
+      <claim-text>38. A method for forming a semiconductor device, comprising:  forming a die paddle of electrically conductive material;  forming a pocket in the die paddle;  forming a heat dissipation device integral with the die paddle;  attaching a semiconductor die to the die paddle; and  encompassing a portion of the die paddle with a package body.</claim-text>
+    </claim>
+    <claim num="39">
+      <claim-text>39. The method for forming the semiconductor device as recited in claim 38, wherein encompassing at least a portion of the die paddle comprises molding the package body to encompass a portion of the die paddle therein.</claim-text>
+    </claim>
+    <claim num="40">
+      <claim-text>40. The method for forming the semiconductor device as recited in claim 38, wherein encompassing at least a portion of the die paddle comprises encompassing about 50% of the die paddle with the package body.</claim-text>
+    </claim>
+    <claim num="41">
+      <claim-text>41. The method for forming the semiconductor device as recited in claim 38, wherein encompassing at least a portion of the die paddle comprises encompassing about 80% of the die paddle with the package body.</claim-text>
+    </claim>
+    <claim num="42">
+      <claim-text>42. The method for forming the semiconductor device as recited in claim 38, wherein encompassing at least a portion of the die paddle comprises encompassing about 95% of the die paddle with the package body.</claim-text>
+    </claim>
+    <claim num="43">
+      <claim-text>43. The method for forming the semiconductor device as recited in claim 38, wherein encompassing at least a portion of the die paddle comprises encompassing about 50%-95% of the die paddle with the package body.</claim-text>
+    </claim>
+    <claim num="44">
+      <claim-text>44. The method for forming the semiconductor device as recited in claim 38, further comprising forming a means for aligning the semiconductor die on the die paddle.</claim-text>
+    </claim>
+    <claim num="45">
+      <claim-text>45. The method for forming the semiconductor device as recited in claim 38, wherein forming the pocket comprises etching a pocket for the semiconductor die on the die paddle.</claim-text>
+    </claim>
+    <claim num="46">
+      <claim-text>46. A method for cooling a semi-conductor device, comprising:  forming a die paddle of electrically conductive material;  forming a pocket in the die paddle;  attaching a semiconductor die to the die paddle;  dissipating heat generated by the semiconductor die via the die paddle and thermal posts coupled with the die paddle;  encompassing the die paddle with a package body; and  increasing the size of the die paddle relative to the package body.</claim-text>
+    </claim>
+    <claim num="47">
+      <claim-text>47. The method as recited in claim 46, wherein encompassing the die paddle includes encapsulating the die paddle with a plastic package.</claim-text>
+    </claim>
+    <claim num="48">
+      <claim-text>48. The method as recited in claim 46, wherein the step of attaching the semiconductor die includes pasting the semiconductor die to the die paddle with a thermally conductive paste.</claim-text>
+    </claim>
+    <claim num="49">
+      <claim-text>49. The method as recited in claim 46, wherein the step of attaching the semiconductor die includes pasting the semiconductor die to the die paddle with a non-conductive paste.</claim-text>
+    </claim>
+    <claim num="50">
+      <claim-text>50. The method as recited in claim 46, wherein the step of attaching the semiconductor die includes securing the semiconductor die to the die paddle with double-sided tape.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

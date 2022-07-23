@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06061231A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06061231</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6061231</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="22360470" extended-family-id="13699621">
+      <document-id>
+        <country>US</country>
+        <doc-number>08115299</doc-number>
+        <kind>A</kind>
+        <date>19930901</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1993US-08115299</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>13994860</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>11529993</doc-number>
+        <kind>A</kind>
+        <date>19930901</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1993US-08115299</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G06F   1/16        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>16</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G02F   1/13        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>02</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>13</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>361679260</text>
+        <class>361</class>
+        <subclass>679260</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>345905000</text>
+        <class>345</class>
+        <subclass>905000</subclass>
+      </further-classification>
+    </classification-national>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G06F-001/1637</classification-symbol>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>1637</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130822</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G02F-001/133308</classification-symbol>
+        <section>G</section>
+        <class>02</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>133308</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130822</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G02F-2001/133314</classification-symbol>
+        <section>G</section>
+        <class>02</class>
+        <subclass>F</subclass>
+        <main-group>2001</main-group>
+        <subgroup>133314</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130822</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G02F-2201/503</classification-symbol>
+        <section>G</section>
+        <class>02</class>
+        <subclass>F</subclass>
+        <main-group>2201</main-group>
+        <subgroup>503</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130822</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G02F-2201/54</classification-symbol>
+        <section>G</section>
+        <class>02</class>
+        <subclass>F</subclass>
+        <main-group>2201</main-group>
+        <subgroup>54</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130822</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="6">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G06F-001/1626</classification-symbol>
+        <section>G</section>
+        <class>06</class>
+        <subclass>F</subclass>
+        <main-group>1</main-group>
+        <subgroup>1626</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130822</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="7">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>Y10S-345/905</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>S</subclass>
+        <main-group>345</main-group>
+        <subgroup>905</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130518</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>8</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>3</number-of-drawing-sheets>
+      <number-of-figures>4</number-of-figures>
+      <image-key data-format="questel">US6061231</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Computer display assembly</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>LEHMANN KJELD, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4241380</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4241380</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>TAT-KEE CHAN</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4730364</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4730364</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>BOYLE DENNIS J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4958889</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4958889</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>DALY JOHN J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4979636</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4979636</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>HART WILLIAM</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5164542</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5164542</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>CONNER WARREN J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5175672</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5175672</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>CANON KK</text>
+          <document-id>
+            <country>EP</country>
+            <doc-number>0435343</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-435343</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>SEIKO EPSON CORP</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H02264994</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP02264994</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>HITACHI LTD</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H03211587</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP03211587</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>TOSHIBA CORP, et al</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H03261989</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP03261989</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="11">
+          <text>MATSUSHITA ELECTRIC IND CO LTD</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>H04196727</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP04196727</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="12">
+          <document-id>
+            <country>US</country>
+            <doc-number>4241380</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4241380</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="13">
+          <document-id>
+            <country>US</country>
+            <doc-number>4730364</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4730364</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="14">
+          <document-id>
+            <country>US</country>
+            <doc-number>4958889</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4958889</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="15">
+          <document-id>
+            <country>US</country>
+            <doc-number>4979636</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4979636</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="16">
+          <document-id>
+            <country>US</country>
+            <doc-number>5164542</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5164542</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="17">
+          <document-id>
+            <country>US</country>
+            <doc-number>5175672</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5175672</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="18">
+          <document-id>
+            <country>EP</country>
+            <doc-number>0435343</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>EP-435343</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="19">
+          <document-id>
+            <country>JP</country>
+            <doc-number>2264994</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP02264994</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="20">
+          <document-id>
+            <country>JP</country>
+            <doc-number>3211587</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP03211587</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="21">
+          <document-id>
+            <country>JP</country>
+            <doc-number>3261989</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP03261989</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="22">
+          <document-id>
+            <country>JP</country>
+            <doc-number>4196727</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP04196727</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>Electronic Packaging and Production , Packaging the Computer for Rough Service , vol. 33, No. 9, Sep. 1993, Massachusetts US, pp. 30 32 XP413176, Authored by D. Hoyle.</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>NCR Corporation</orgname>
+            <address>
+              <address-1>Dayton, OH, US</address-1>
+              <city>Dayton</city>
+              <state>OH</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>NCR</orgname>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Crockett, Robert J.</name>
+            <address>
+              <address-1>Central, SC, US</address-1>
+              <city>Central</city>
+              <state>SC</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>US</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <name>Maginot, Paul J.</name>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Chang, Kent</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A display assembly which is positionable substantially adjacent to a printed circuit board within an interior of a computer housing includes a display device positionable within the interior of the computer housing.
+      <br/>
+      The display assembly further includes a protective base, secured between the printed circuit board and the display device, wherein the protective base has (1) a display retaining portion and (2) a brace portion, secured to the display retaining portion, for reducing torsional deformation of the display retaining portion.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="2">Cross reference is made to co-pending U.S. Pat. applications Ser. No. 08/115,300 (NCR Docket No. 5770), entitled "Apparatus for Containing and Supporting Electronic Devices" by Robert J. Crockett; Ser. No. 08/115,376 (NCR Docket No. 5787), entitled "Computer Housing Seal" by Robert J. Crockett; Ser. No. 08/115,295 (NCR Docket No. 5819), entitled "Isotropic Shock Mounting" by Randal A. Burke; and Ser. No. 29/012,456, entitled "Portable Computer" by Donald Carr, Scott Belliveau and Robert Paterson, all assigned to the same assignee as the present invention, and all filed concurrently herewith.</p>
+    <p num="3">The present invention relates generally to computers, and more particularly to a display assembly which is positionable within an interior of a computer housing.</p>
+    <p num="4">There exists numerous designs of display devices which are used in computers. One type of computer which uses a display device is a portable computer. Portable computers are typically transported from a storage site to a remote operating site and then back to the storage site. The mobility of the portable computer exposes it to substantial the risk of damage, especially to the display device used therein. The display device is particularly susceptible to damage since it has low tolerance for torsional deformation (i.e. deformation of the device by twisting or otherwise altering the shape of the device relative to its normal or relaxed state). Torsional deformation of the display device may occur when mechanical force is applied to the housing of the computer, for instance, when a portable computer is inadvertently dropped from a height of a few feet.</p>
+    <p num="5">It would be desirable to provide a display assembly that is positionable within the interior of a computer housing which has significant resistance to damage from mechanical shock so as to make the display assembly more rugged. It would also be desirable to provide a rugged display assembly which is easy to assemble and inexpensive to manufacture.</p>
+    <p num="6">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="7">In accordance with one embodiment of the present invention, there is provided a display assembly which is positionable substantially adjacent to a printed circuit board within an interior of a computer housing. The display assembly includes a display device positionable within the interior of the computer housing. The display assembly further includes a protective base, secured between the printed circuit board and the display device, the protective base having (1) a display retaining portion and (2) a brace portion, secured to the display retaining portion, for reducing torsional deformation of the display retaining portion.</p>
+    <p num="8">Pursuant to another embodiment of the present invention, there is provided a display assembly which is positionable substantially adjacent to a printed circuit board within a computer housing. The display assembly includes a display device positionable within the computer housing. The display assembly further includes a base, secured between the printed circuit board and the display device, the base having a rim portion which is positionable substantially adjacent to a peripheral portion of the display device, the base further having a mechanism for reducing torsional deformation of the rim portion.</p>
+    <p num="9">In accordance with yet another embodiment of the present invention, there is provided a display assembly adapted to be contained within a computer housing at a location substantially adjacent a printed circuit board. The display assembly includes a display device positionable within the computer housing. The display assembly further includes a base, secured between the printed circuit board and the display device, for supporting the display device and having a rim portion which is positionable substantially adjacent to a portion of the display device which defines the periphery of the display device, wherein the base includes a metallic material.</p>
+    <p num="10">Pursuant to still another embodiment of the present invention, there is provided a display assembly which is positionable substantially adjacent a printed circuit board within an interior of a portable computer housing. The display assembly includes a display device positionable within the interior of the portable computer housing. The display assembly further includes a metallic tray, interposed between the printed circuit board and the display device, for supporting the display device thereon.</p>
+    <p num="11">It is a further object of the present invention to provide an improved display assembly.</p>
+    <p num="12">It is another object of the present invention to provide a display assembly which has significant resistance to damage from mechanical shock so as to make the display assembly more rugged.</p>
+    <p num="13">It is moreover an object of the present invention to provide a display assembly that includes a protective base which readily dissipates heat generated by electrical components positioned in the proximate vicinity of the protective base.</p>
+    <p num="14">It is still another object of the present invention to provide a rugged portable computer which is easy to assemble and inexpensive to manufacture.</p>
+    <p num="15">The above and other objects, features, and advantages of the present invention will become apparent from the following description and the attached drawings.</p>
+    <p num="16">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="17">FIG. 1 is an exploded perspective view of the computer housing that contains the display assembly which incorporates the features of the present invention therein;</p>
+    <p num="18">FIG. 2 is an exploded perspective view of the display assembly of FIG. 1;</p>
+    <p num="19">FIG. 3 is a fragmentary sectional elevational view taken in the direction of the arrows 3--3 of FIG. 1; and</p>
+    <p num="20">FIG. 4 is a planar view of the protective base of the display assembly of FIG. 1.</p>
+    <p num="21">
+      <h1>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</h1>
+    </p>
+    <p num="22">While the invention is susceptible to various modifications and alternative forms, a specific embodiment thereof has been shown by way of example in the drawings and will herein be described in detail. It should be understood, however, that there is no intent to limit the invention to the particular form disclosed, but on the contrary, the intention is to cover all modifications, equivalents, and alternatives falling within the spirit and scope of the invention as defined by the appended claims.</p>
+    <p num="23">Referring now to FIG. 1, there is shown a display assembly, generally indicated by the reference numeral 10, which is positionable within the interior of a computer housing 12. The computer housing 12 includes an upper housing portion 14 and a lower housing portion 16. The specific structure of each of the housing portions 14 and 16 is not shown in detail in the FIGS. but may include a substrate with an overmold material positioned over the substrate and secured thereto By way of example, the substrate may be made from a modified nylon material such as Noryl, a trademark of General Electric Company of Fairfield, Conn. Also by way of example, the overmold material may be made of a thermoplastic elastomer such as Krayton, a trademark of Shell Oil Company of Houston, Tex. Defined within the upper housing portion 14 is an opening as shown in FIG. 1. The upper housing portion 14 includes a clip 15 for holding a stylus (not shown) used to input information on the display assembly 10. The upper housing portion 14 further includes a plurality of first support members 18, and the lower housing portion 16 includes a plurality of second support members 20. Each of the first support members 18 extends away from the upper housing portion 14 and terminates at a distal end. A nut (not shown) is friction fit in the interior of each of the first support members 18. Each of the second support members 20 extends away from the lower housing 16 and terminates at a distal end. Moreover, each of the second support members 20 has a central passage defined therein. When the housing portions 14 and 16 are positioned relative to each other so as to contain a printed circuit board 22 and the display assembly 10, the plurality of first support members 18 cooperate with the plurality of second support members 20 so as to secure a plurality of grommets or isolating members 24 within the computer housing 12 and thereby position the display assembly 10 within the computer housing 12. A screw (not shown) extends through the central passage of each of the second support members 20 and meshingly engages the nut positioned within the corresponding first support member 18 so as to secure the upper housing portion to the lower housing portion. The display assembly 10 is supported on and secured to the printed circuit board 22 which has electrical components (not shown) mounted thereon. The protective base 32 is secured to the printed circuit board 22 with a plurality of screws (not shown). The plurality of grommets or isolating members 24 are secured to the printed circuit board 22. Each of grommets 24 are made from an elastomeric material. By way of example, one elastomeric material which may be used is a material available as model no. VL-03 (high impact absorbing material) from EAR Specialty Composite, Inc. of Indianapolis, Ind. Another elastomeric material which may be used is Scotchdamp, a trademark of 3M Corporation of St. Paul, Minn. and available as model no. SJ2015X. When housing portions 14 and 16 are positioned relative to each other so as to contain the printed circuit board 22 therein, the display assembly 10 is accessible through the opening defined in the upper housing portion 14 so that a user can view and input data through such opening.</p>
+    <p num="24">FIG. 2 shows an exploded perspective view of the display assembly 10. FIG. 3 shows a fragmentary sectional view of the display assembly 10. The display assembly 10 includes a top cover 26, a display device 28, a digitizer input tablet 30 and a protective base or tray 32. The top cover 26 includes a frame portion 34 and a glass portion 36. The glass portion 36 is secured to the frame portion 34 by an adhesive (not shown). A plurality of screw holes 38 are defined in the frame portion 34. The display device 28 possesses a plurality of alignment holes 40 defined therein. The digitizer input tablet 30 also possesses a plurality of alignment holes 41 defined therein.</p>
+    <p num="25">Referring now to FIG. 4, there is shown a planar view of the protective base 32. The protective base 32 includes a display retaining portion 46 and a brace portion 48. The brace portion 48 is secured to the display retaining portion 46. More specifically, the brace portion 48 and the display retaining portion 46 are formed as one integral part. The protective base 32 is made of a metallic material. One metallic material which may be used is a magnesium alloy such as the product sold by Aluminum Company of America of Pittsburgh, Pa. as product no. AZ91D. The display retaining portion 46 includes a plurality of screw holes 50 and a plurality of posts 52. A screw (not shown) is positioned in each screw hole 38 of top cover 34 and a corresponding screw hole 50 of protective base 32 so as to secure the top cover to the protective base and thereby retain the display device 28 and the digitizer input tablet 30 therebetween (see also FIG. 3). Each of the posts 52 of the protective base 32 extends through a corresponding alignment hole 41 of the digitizer input tablet 30 and a corresponding alignment hole 40 of the display device 28 so as to align the digitizer input device and the display device within the protective base (see also FIG. 2). The display retaining portion 48 further includes a plurality of apertures 54 through which extends electrical wires of the digitizer input tablet 30 and the display device 28 (see also FIG. 2).</p>
+    <p num="26">The brace portion 48 functions to support the display retaining portion 46 so as to reduce the amount of torsional deformation of the display retaining portion during the application of mechanical force to the display retaining portion and thereby reduce the amount of torsional deformation of the display device supported on the display retaining portion. Torsionally deforming the display device includes twisting or otherwise altering the shape of the device relative to its normal or relaxed state by application of mechanical force thereto. Mechanical force may be applied to the display retaining portion, and consequently the display device, as a result of inadvertent dropping of the device during its transportation. Moreover, since the protective base 32, including the display retaining portion and the brace portion 48, is made of a metallic material, the protective base functions as a heat sink to more readily dissipate the heat generated by electrical components in the proximate vicinity of the protective base.</p>
+    <p num="27">While the invention has been illustrated and described in detail in the drawings and foregoing description, such illustration and description is to be considered as exemplary and not restrictive in character, it being understood that only the preferred embodiment has been shown and described and that all changes and modifications that come within the spirit of the invention are desired to be protected.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A display assembly which is positionable substantially adjacent to a printed circuit board within an interior of a computer housing, with the printed circuit board having electrical components mounted thereon, comprising:  a display device positionable within the interior of the computer housing, said display device having a rear surface; and  a metallic protective base, secured between the printed circuit board and said display device, for supporting the rear surface of said display device, wherein said protective base covers the entire rear surface of the display device so that no portion of the rear surface of said display device is directly exposed to electrical components mounted on the printed circuit board.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The assembly of claim 1, wherein said display device is secured to said protective base.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The assembly of claim 2, wherein said protective base is secured to the printed circuit board.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The assembly of claim 1, wherein said protective base includes a display retaining portion and a brace portion which together define a tray on which said display device is supported.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The assembly of claim 4, wherein the tray is positioned substantially adjacent to said display device.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. A display assembly which is positionable substantially adjacent a printed circuit board within an interior of a portable computer housing, with the printed circuit board having electrical components mounted thereon, comprising:  a display device positionable within the interior of the portable computer housing, said display device having a rear surface; and  a metallic tray, interposed between the printed circuit board and said display device, for supporting said display device thereon, wherein said metallic tray covers the entire rear surface of said display device so that no portion of the rear surface of said display device is directly exposed to electrical components mounted on the printed circuit board.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The assembly of claim 6, wherein said display device is secured to said metallic tray.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The assembly of claim 7, wherein said metallic tray is secured to the printed circuit board.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>
