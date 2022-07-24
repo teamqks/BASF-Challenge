@@ -10,6 +10,7 @@ import com.basf.challenge.repositories.PatentRepository;
 import com.basf.challenge.services.IExtractionService;
 import com.basf.challenge.services.IFileService;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.xml.bind.JAXBException;
@@ -36,6 +37,7 @@ public class ExtractionServiceImpl implements IExtractionService {
     }
 
     @Override
+    @Transactional(readOnly = true)
     public List<PatentDTO> listPatents() {
         List<Patent> listPatents = patentRepository.findAll();
         List<PatentDTO> listPatentsDTO = listPatents.stream()
@@ -45,12 +47,14 @@ public class ExtractionServiceImpl implements IExtractionService {
     }
 
     @Override
+    @Transactional(readOnly = true)
     public PatentDTO getPatent(String id) {
         Optional<Patent> patent = patentRepository.findById(id);
         return patentMapper.patentToPatentDTO(patent.orElseThrow());
     }
 
     @Override
+    @Transactional
     public void delete(String id) {
         if(patentRepository.findById(id) != null) {
             patentRepository.deleteById(id);
@@ -60,11 +64,13 @@ public class ExtractionServiceImpl implements IExtractionService {
     }
 
     @Override
+    @Transactional
     public void deleteAll() {
         patentRepository.deleteAll();
     }
 
     @Override
+    @Transactional
     public void execute(List<MultipartFile> files) throws JAXBException, IOException {
         List<Patent> patents = fileService.createPatentsFromFiles(files);
         if(patents.isEmpty()) {
